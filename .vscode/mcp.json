@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "visa-mcp-server": {
+      "command": "c:\\Projects\\visa-mcp-server\\.venv\\Scripts\\python.exe",
+      "args": [
+        "main.py"
+      ],
+      "cwd": "c:\\Projects\\visa-mcp-server",
+      "env": {}
+    }
+  }
+}

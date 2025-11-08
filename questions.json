@@ -1,0 +1,4157 @@
+[
+  {
+    "question":"Kuinka monta nahkiaista on kerpussa?",
+    "answer":"31",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 tauti tai sairaus aiheutti eniten ihmiskuolemia vuonna 2015 maailman terveysj\u00e4rjest\u00f6n WHO:n mukaan?",
+    "answer":"\tSepelvaltimotauti",
+    "comment":"L\u00e4hde: World Health Organization"
+  },
+  {
+    "question":"Mik\u00e4 on Hervannan keskusakselin suunnitelleen pariskunnan sukunimi? ",
+    "answer":"Pietil\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 el\u00e4in oli maailman ensimm\u00e4inen kloonattu el\u00e4in Dolly?",
+    "answer":"Lammas",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Frederikin oikea nimi?",
+    "answer":"Ilkka Sysimets\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 kolmivarpaisen nis\u00e4kk\u00e4\u00e4n latinankielinen nimi on Bradypus?",
+    "answer":"Laiskiainen",
+    "comment":null
+  },
+  {
+    "question":"Mihin tarkoitukseen kiniini\u00e4 sis\u00e4lt\u00e4v\u00e4 tonic-vesi alun perin kehitettiin?",
+    "answer":"Malarial\u00e4\u00e4kkeeksi",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 VHS on lyhenne?",
+    "answer":"Video Home System",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 Italian kaupungista parmesan-juuston on kotoisin?",
+    "answer":"Parmasta",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 el\u00e4in Puuha-Petell\u00e4 on lemmikkin\u00e4?",
+    "answer":"Kissa",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta aikavy\u00f6hykett\u00e4 Kiinassa on?",
+    "answer":"Yksi",
+    "comment":"Koko maan kellot s\u00e4\u00e4dettiin Pekingin aikaan kommunistien noustua valtaan Kiinan sis\u00e4llissodan j\u00e4lkeen."
+  },
+  {
+    "question":"Mitk\u00e4 vitamiinit ovat vesiliukoisia?",
+    "answer":"B- ja C-vitamiinit",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on raskain alkuaine, jota syntyy\u00a0t\u00e4htien ydinsynteesiss\u00e4?",
+    "answer":"Rauta",
+    "comment":null
+  },
+  {
+    "question":"Kuka on eniten Oscar-palkintoja voittanut henkil\u00f6?",
+    "answer":"Walt Disney (22)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli ensimm\u00e4inen Walt Disney Pictures- elokuva?",
+    "answer":"Lumikki ja 7 k\u00e4\u00e4pi\u00f6t\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Kuka suomalainen on voittanut nobelin kirjallisuuspalkinnon?",
+    "answer":"Frans Emil Sillanp\u00e4\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen patsas sijaitsee Brysselin vanhassa keskustassa, jossa pronssinen poika pissaa?",
+    "answer":"Manneken pis (manneke pis, petit julien)",
+    "comment":"Patsas oli alunalkaen suunniteltu vedennoutopisteeksi."
+  },
+  {
+    "question":"Mamilla on kaikilla ihmisill\u00e4. Mik\u00e4 se on?",
+    "answer":"N\u00e4nni",
+    "comment":null
+  },
+  {
+    "question":"Kenen kirjoittama on tarina Ronja Ry\u00f6v\u00e4rin tyt\u00e4r?",
+    "answer":"Astrid Lindgren",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 p\u00e4\u00e4ll\u00e4 oscar-paptsas seisoo?",
+    "answer":"Filmirullan",
+    "comment":null
+  },
+  {
+    "question":"Vanhat egyptil\u00e4iset pit\u00e4v\u00e4t t\u00e4t\u00e4 meillekin tuttua lemmikkiel\u00e4int\u00e4 jumalallisena. Mik\u00e4 el\u00e4in on kyseess\u00e4?",
+    "answer":"Kissa",
+    "comment":null
+  },
+  {
+    "question":"Kuka hollantilainen suuri taiteilija maalasi itsest\u00e4\u00e4n 64 muotokuvaa?",
+    "answer":"Rembrandt",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 kultakalalle tapahtuu juoksevassa vedess\u00e4?",
+    "answer":"Se menett\u00e4\u00e4 v\u00e4rins\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Raamatun mukaan mill\u00e4 Jeesus ruokki 5000 ihmist\u00e4 Gennesaretin j\u00e4rven rannalla?",
+    "answer":"5 leiv\u00e4ll\u00e4 ja 2 kalalla",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa sijaitsee Petra, historiallinen rauniokaupunki, joka lukeutuu my\u00f6s uusiin seitsem\u00e4\u00e4n ihmeseen?",
+    "answer":"Jordaniassa",
+    "comment":null
+  },
+  {
+    "question":"Miksi kutsutaan kahden s\u00e4velen v\u00e4list\u00e4 korkeuseroa?",
+    "answer":"Intervalli",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 planeettaa kiert\u00e4\u00e4 Io-niminen kuu?",
+    "answer":"Jupiteria",
+    "comment":null
+  },
+  {
+    "question":"Kuka seuraavista ei ole ollut miss suomi? A) Vanessa Kurri B) Lola Odusoga C) Armi Kuusela D) Sara Sieppi",
+    "answer":"c",
+    "comment":"Armi kuusela voitti miss universum kilpailun, muttei koskaan ollut miss suomi"
+  },
+  {
+    "question":"Kuka on Sepe Suden poika?",
+    "answer":"Pikku Hukka",
+    "comment":null
+  },
+  {
+    "question":"Kuka kehitti pikkumustan?",
+    "answer":"Coco Chanel",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 maalainen ohjelma Big Brother on alunperin?",
+    "answer":"Alankomaalainen",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 kuninkaalla normaalissa perinteisess\u00e4 pelikorttipakassa ei ole viiksi\u00e4?",
+    "answer":"herttakuningas",
+    "comment":null
+  },
+  {
+    "question":"Kenen taiteilijan veistos on \"the thinker\"",
+    "answer":"auguste rodin",
+    "comment":null
+  },
+  {
+    "question":"Kim il sun ja kim jong il johtivat molemmat pohjois-koreaa aikanaan. Kuka hallitsee maata t\u00e4ll\u00e4 hetkell\u00e4?",
+    "answer":"Kim Jong-un",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 tarkoitetaan kun menn\u00e4\u00e4n \"sivakoimaan\"?",
+    "answer":"Menn\u00e4\u00e4n hiiht\u00e4m\u00e4\u00e4n",
+    "comment":null
+  },
+  {
+    "question":"Contra on 1987 julkaistu videopeli, jota jo aikanaan pidettiin tasoltaan kovin vaikeana. Pelin sis\u00e4\u00e4n kuidenkin j\u00e4tettiin koodi, joka antaa pelaajalle alussa 3 el\u00e4m\u00e4n sijaan 30 el\u00e4m\u00e4\u00e4, jotta pelin l\u00e4pip\u00e4\u00e4seminen helpotuisi. N\u00e4pp\u00e4ilem\u00e4ll\u00e4 yl\u00f6s,yl\u00f6s, alas,alas, vasen,oikea,vasen,oikea,b,a, sait n\u00e4m\u00e4 el\u00e4m\u00e4t k\u00e4ytt\u00f6\u00f6si. Nyky\u00e4\u00e4n kyseinen koodi esiintyy my\u00f6s muissa peleiss\u00e4 ja kenties maailman tunnetuon huijauskoodi. Mik\u00e4 on t\u00e4m\u00e4n koodin nimi?",
+    "answer":"Konami koodi",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 tekee manikyyri?",
+    "answer":"Hoitaa k\u00e4si\u00e4 ja kynsi\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mainitse kaksi 2 tai enemm\u00e4n nobel palkintoa voittanutta henkil\u00f6\u00e4\/j\u00e4rjest\u00f6\u00e4.",
+    "answer":"marie curie, john bardeen, punainen risti, linus pauling, frederick sanger, Yhdistyneiden kansakuntien pakolaisj\u00e4rjest\u00f6",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 yhtyeess\u00e4 Beyonc\u00e9 vaikutti ennen soolouraansa?",
+    "answer":"Destiny's Childissa",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 elokuvalla on eniten voitettuja oscar-palkintoja? (yhten\u00e4 vuonna)",
+    "answer":"Ben-Hur, Titanic ja LOTR: Kuninkaan paluu (11 kpl)",
+    "comment":"Yksi n\u00e4ist\u00e4 riitt\u00e4\u00e4 vastaukseksi"
+  },
+  {
+    "question":"Vuonna 1946 julkistettiin vaateasu, jota dubattiin \"muodin atomipommiksi\". Mill\u00e4 nimell\u00e4 t\u00e4m\u00e4 vaateasu tunnetaan paremmin?",
+    "answer":"Bikini",
+    "comment":"Ne nimettiin Bikini-atollin mukaan, koska siell\u00e4 testattiin ydinpommia."
+  },
+  {
+    "question":"Mill\u00e4 el\u00e4imell\u00e4 on tihein turkki? (karvoja per neli\u00f6cm)",
+    "answer":"merisaukolla",
+    "comment":"tiheys vaihtelee 100 000\/neli\u00f6cm - 400 000\/neli\u00f6cm"
+  },
+  {
+    "question":"Moderneja olympialaisia on j\u00e4rjestetty jo vuodesta 1896 l\u00e4htien, jonka aikana on mm. sodittu molemmat maailmansodat. Kuinka monet olympialaiset peruttiin n\u00e4iden sotien takia?",
+    "answer":"5",
+    "comment":"N\u00e4ihin kuuluu esim. Helsingin olympialaiset vuonna 1940"
+  },
+  {
+    "question":"Kuningatar Elisabet II on pisimp\u00e4\u00e4n hallinnut nykyinen hallitsija. Kuinka monta vuotta h\u00e4n on hallinnut Isoa Britanniaa ja Kansanyhteis\u00f6\u00e4? a) 55 b) 66 c) 47 d) 51 vuotta",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Milloin voit n\u00e4hd\u00e4 taivaalla koronan?",
+    "answer":"Auringonpimennyksen aikana",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 valmistetaan perkolaattorilla?",
+    "answer":"Kahvia",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta voimalapatoa on Tammerkoskessa?",
+    "answer":"Kolme",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on youtuben tilatuin kanava?",
+    "answer":"PewDiePie",
+    "comment":"61 miljoonaa tilaajaa, seuraavaksi T-series 37 miljoonaa"
+  },
+  {
+    "question":"Mist\u00e4 n\u00e4ytelm\u00e4st\u00e4 on kuuluisa lausahdus: \"Ollakko vai eik\u00f6 olla.\"",
+    "answer":"Hamlet",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Kiinan aikavy\u00f6hyke?",
+    "answer":"UTC+8",
+    "comment":"Koko kiinassa sama, vaikka joskus ollut 5, t\u00e4m\u00e4 valittu, koska pekingin aika"
+  },
+  {
+    "question":"Kimble on klassinen lautapeli, jonka moni saattaa muistaa lapsuudestaan. Mink\u00e4 v\u00e4riset ovat kimblen pelaajien v\u00e4rivaihtoehdot?",
+    "answer":"Sininen, Vihre\u00e4, Keltainen, Punainen",
+    "comment":null
+  },
+  {
+    "question":"Lehm\u00e4 k\u00e4ytt\u00e4\u00e4 m\u00e4rehtimiseen kaikkia nelj\u00e4\u00e4 vatsaansa. Mitk\u00e4 ovat n\u00e4iden vatsojen nimet?",
+    "answer":"P\u00f6tsi, Verkkomaha, Satakerta, Juoksutusmaha",
+    "comment":null
+  },
+  {
+    "question":"Kuka Rooman keisari soitti legendan mukaan viulua, kun Rooma paloi?",
+    "answer":"Nero",
+    "comment":"Nero hallitsi Roomaa vuosina 54-68 jaa."
+  },
+  {
+    "question":"Mink\u00e4 elokuvan teossa hy\u00f6dynnettiin Bruce-nimist\u00e4 animatronista el\u00e4int\u00e4?",
+    "answer":"Tappajahaissa",
+    "comment":"Tappajahai popularisoi ilmestyess\u00e4\u00e4n \"blockbuster\"-tyylisen elokuvalevityksen."
+  },
+  {
+    "question":"Kuka kirjailija kirjoitti Narnia-kirjasarjan?",
+    "answer":"C.S. Lewis",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta vuotta aviopari on ollut naimisissa, kun vietet\u00e4\u00e4n timanttih\u00e4it\u00e4?",
+    "answer":"60 vuotta",
+    "comment":null
+  },
+  {
+    "question":"Kenen faaraon hauta sijaitsee Gizan suurimmassa pyramidissa?",
+    "answer":"Kheops (Khufu)",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 valtiolla on eniten rantaviivaa kilometreiss\u00e4 mitattuna CIA:n World Factbookin mukaan?",
+    "answer":"Kanadalla (202,080 km)",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa sijaitsi Viisauden talo, joka oli pime\u00e4n keskiajan aikaan maailman suurin kirjasto?",
+    "answer":"Bagdadissa",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa sijaitsee Meripihkahuone?",
+    "answer":"Pietarissa",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen oli Beatlesin viimeisen\u00e4 \u00e4\u00e4nitetty studioalbumi?",
+    "answer":"Abbey Road",
+    "comment":"Let It Be julkaistiin Abbey Roadin j\u00e4lkeen, mutta \u00e4\u00e4nitettiin ennen sit\u00e4, t\u00e4m\u00e4n takia Abbey Roadia pidet\u00e4\u00e4n Beatlesin todellisena viimeisen\u00e4 albumina"
+  },
+  {
+    "question":"Mik\u00e4 yhti\u00f6 toi markkinoille ensimm\u00e4isen kannettavan musiikkisoittimen?",
+    "answer":"Sony",
+    "comment":"Sonyn Walkman tuotiin markkinoille vuonna 1979"
+  },
+  {
+    "question":"Maailmassa on kaksi sis\u00e4maata, joiden naapurimaat ovat kaikki my\u00f6s sis\u00e4maita. Mitk\u00e4 kaksi valtiota n\u00e4m\u00e4 ovat? \/\/ What are the two countries in the world that are landlocked and have only other landlocked countries as neighbors?",
+    "answer":"Liechtenstein ja Uzbekistan",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 alle 2,11 % hiilt\u00e4 sis\u00e4lt\u00e4vi\u00e4 rautaseoksia kutsutaan?",
+    "answer":"Ter\u00e4s",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on keskil\u00e4mm\u00f6lt\u00e4\u00e4n aurinkokunnan kumin planeetta?",
+    "answer":"Venus (keskil\u00e4m\u00f6tila n. 460 C)",
+    "comment":"Vaikka Merkurius on l\u00e4hemp\u00e4n\u00e4 Aurinkoa, niin sen l\u00e4mp\u00f6tila ei nouse samoille tasoille kaasukeh\u00e4n puutteen takia."
+  },
+  {
+    "question":"Mik\u00e4 on toiseksi kevein alkuaine? \/\/ What is the second lightest element?",
+    "answer":"Helium",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on pohjoisen pallonpuoliskon suurin jyrsij\u00e4?",
+    "answer":"Majava",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on rubriikki?",
+    "answer":"Otsikko",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 maasta islanninponi on alunperin kotoisin?",
+    "answer":"Norjasta",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa kompassi keksittiin?",
+    "answer":"Kiinassa",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on maailman suurin lintu?",
+    "answer":"Strutsi",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 metallia l\u00f6ytyy hemoglobiinista?",
+    "answer":"Rautaa",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on keltavahveron toinen nimi? \/\/ What is a another name for girolle?",
+    "answer":"Kantarelli \/\/ (Golden) cantharelle",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen on Charles Darwinin kirjoittama kirja, jossa h\u00e4n loi perustan evoluutioteorialle? \/\/ What is the name of the book written by Charles Darwin that laid the foundation for the theory of evolution?",
+    "answer":"Lajien synty (Origin of Species)",
+    "comment":"Kirjan koko suomenkielinen nimi on \"Lajien synty luonnollisen valinnan kautta eli luonnon suosimien rotujen s\u00e4ilyminen taistelussa olemassaolosta\""
+  },
+  {
+    "question":"Kuka ratsasti Marengo-nimisell\u00e4 hevosella Waterloon taistelussa? \/\/ Who rode the horse named Marengo in the Battle of Waterloo?",
+    "answer":"Napoleon",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 Yhdysvaltain vanhin ja arvovaltaisin yliopisto?",
+    "answer":"Harvard",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 planeetan kuu Phobos on?",
+    "answer":"Mars",
+    "comment":"Marsin toisen kuun nimi on Deimos ja molemmat ovat k\u00e4yt\u00e4nn\u00f6ss\u00e4 suuria asteroideja, jotka ovat j\u00e4\u00e4neet marsia kiert\u00e4v\u00e4lle kiertoradalle."
+  },
+  {
+    "question":"Mink\u00e4 maan alueita on Sis\u00e4-Mongolia?",
+    "answer":"Kiinan",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Gaussin k\u00e4yr\u00e4n toinen nimitys?",
+    "answer":"Kellok\u00e4yr\u00e4, normaalijakauma",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 metallista rubiini p\u00e4\u00e4osin koostuu?",
+    "answer":"Alumiinista",
+    "comment":"Rubiini, kuten my\u00f6s safiiri, on alumiinioksidia, joka saa ep\u00e4puhtauksista tunnuomaisen v\u00e4rins\u00e4."
+  },
+  {
+    "question":"Miksi kutsuttiin Espanjan pitk\u00e4\u00e4n voittamatonta sotalaivastoa 1500-luvulta?",
+    "answer":"Armada",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 vitamiinin puutostila johtaa keripukkiin?",
+    "answer":"C-vitamiinin",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 elokuvasta laulu Somewhere Over the Rainbow on alunperin tuttu?",
+    "answer":"Ihmemaa Oz (Wizard of Oz)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 yritys on kehitt\u00e4nyt ohjelmointikieli Go:n? \/\/ Which company has developed the programming language Go?",
+    "answer":"Google",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 maasta Gouda on per\u00e4isin? \/\/ What country does Gouda originate from?",
+    "answer":"Alankomaat\/hollanti",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta syd\u00e4nt\u00e4 on mustekalalla? \/\/ How many hearts does an octopus have?",
+    "answer":"3",
+    "comment":null
+  },
+  {
+    "question":"Mihin peliin liittyy termi kuningatargamibiitti? \/\/ To which game term Queen's gambit is related to?",
+    "answer":"Shakki",
+    "comment":null
+  },
+  {
+    "question":"Suositussa Craps-noppapeliss\u00e4 ly\u00f6d\u00e4\u00e4n vetoa nopanheitt\u00e4j\u00e4n puolesta tai h\u00e4nt\u00e4 vastaan. Pelaaja h\u00e4vi\u00e4\u00e4, mik\u00e4li h\u00e4n heitt\u00e4\u00e4 ensimm\u00e4isell\u00e4 vuorolla tuloksen nimelt\u00e4 Craps. Mit\u00e4 tarkoittaa tulos Craps? \/\/ In the popular game of Craps, bets are placed for or against the dice roller. The player loses if they roll a result called Craps on their first turn. What does the result Craps mean?",
+    "answer":"Summa 2,3 tai 11.",
+    "comment":null
+  },
+  {
+    "question":"Hindulaisessa jumaluuden kolmiopissa Vishnu on rakkautta ja el\u00e4m\u00e4\u00e4 yll\u00e4pit\u00e4v\u00e4 jumala. Kuka on h\u00e4nen puolisonsa?",
+    "answer":"Lakshmi",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 kaksi opintosuunta aloitti opinnot Hervannassa t\u00e4n\u00e4 syksyn\u00e4?",
+    "answer":"Robotiikka ja Energiamurros",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 sijaitsee Suomen pohjoisin Alko? \/\/ Where is the northernmost Alko store in Finland located?",
+    "answer":"Utsjoki (Nuorgam)",
+    "comment":null
+  },
+  {
+    "question":"Viskisota, tai Lik\u00f6\u00f6risota, oli Tanskan ja Kanadan v\u00e4linen rajakiista Hansisaaresta, jossa kiistan molemmat osapuolet pystyttiv\u00e4t vuorotellen kyseiselle saarelle oman lippunsa j\u00e4tt\u00e4en samalla lahjaksi vastustajilleen alkoholipullon. Vastaavat tapahtumat toistuivat vuosikymmenien ajan useaan kertaan. Min\u00e4 vuonna t\u00e4m\u00e4 konflikti loppui? a) 1982 b) 2002 c) 2022.",
+    "answer":"2022",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta vuotta digitaalinen videopelien latauspalvelu Steam t\u00e4ytt\u00e4\u00e4 t\u00e4n\u00e4 vuonna? \/\/ How many years did the digital video game download service Steam turn this year?",
+    "answer":"20",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 tunnetun p\u00f6yt\u00e4roolipelin maailmaan sijoittuu t\u00e4n\u00e4 vuonna julkaistu \u201cBaldur\u2019s Gate 3\u201d videopeli?",
+    "answer":"Dungeons and Dragons",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa pelataan League of Legends pelin Worlds-turnausta t\u00e4ll\u00e4 hetkell\u00e4? \/\/ In which country is the League of Legends Worlds tournament currently being played?",
+    "answer":"Etel\u00e4-Korea \/\/ South Korea",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 urheilussa pelaaja voi tehd\u00e4 albatrossin?",
+    "answer":"Golffissa",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on kansainv\u00e4linen radioselvennys G-kirjaimelle?",
+    "answer":"Golf",
+    "comment":null
+  },
+  {
+    "question":"Mille valtiolle kuuluu Intian valtameress\u00e4 sijaitseva Joulusaari?",
+    "answer":"Australialle",
+    "comment":"Jouluvisa 2022"
+  },
+  {
+    "question":"Mit\u00e4 tarkoittaa suomeksi \"Veni, vidi, vici\"?",
+    "answer":"Tulin, n\u00e4in, voitin",
+    "comment":null
+  },
+  {
+    "question":"Kuinka paljon on tiu?",
+    "answer":"20",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 tietokonepelist\u00e4 Gordon Freeman on tuttu?",
+    "answer":"Half-Life",
+    "comment":"K\u00e4ytetty wappuwisan pikaversiossa"
+  },
+  {
+    "question":"Kuka on ainoa yhdysvaltojen presidentti, joka on hallinnut yli kaksi kautta?",
+    "answer":"Franklin D. Roosevelt",
+    "comment":null
+  },
+  {
+    "question":"Montako eri kirjainta on Ven\u00e4j\u00e4ll\u00e4 k\u00e4ytetyiss\u00e4 kyrillisiss\u00e4 aakkosissa?",
+    "answer":"33",
+    "comment":null
+  },
+  {
+    "question":"Kultalevykysymys, ei jostain syyst\u00e4 copypasteta suoraan XD LSD",
+    "answer":"10\u00a0000",
+    "comment":null
+  },
+  {
+    "question":"Marsalkka Mannerheim \u00e4\u00e4nestettiin vuonna 2004 kaikkien aikojen suurimmaksi suomalaiseksi. Mik\u00e4 on Suomen kansan rakastaman marsalkan koko nimi?",
+    "answer":"Carl Gustaf Emil Mannerheim",
+    "comment":null
+  },
+  {
+    "question":"Tampere oli ensimm\u00e4inen Suomen kaupunki, joka sai pysyv\u00e4t katuvalot ja kunnallisen s\u00e4hk\u00f6laitoksen. Min\u00e4 vuonna t\u00e4m\u00e4 tapahtui?",
+    "answer":"1888",
+    "comment":null
+  },
+  {
+    "question":"Nokia on osittain j\u00e4tevesist\u00e4\u00e4n tunnettu pirkanmaalainen kaupunki. Mik\u00e4 el\u00e4in esiintyy Nokian vaakunassa?",
+    "answer":"(Musta) n\u00e4\u00e4t\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli Suomen valtion tilaama ja Turussa 13. lokakuuta 1931 valmistunut Iku-Turso? ",
+    "answer":"Sukellusvene",
+    "comment":null
+  },
+  {
+    "question":"Cities: Skylines on kaupunkisimulaatiopeli, joka mm. oli julkaisuviikollaan Steamin myydyin peli. Mink\u00e4 niminen on pelin\u00a0kehitt\u00e4nyt pelitalo?",
+    "answer":"Colossal Order",
+    "comment":null
+  },
+  {
+    "question":"Useimmista muovisista virvoitusjuomapulloista voit l\u00f6yt\u00e4\u00e4 merkinn\u00e4n PET. Mit\u00e4 kyseinen merkint\u00e4 tarkoittaa?",
+    "answer":"Pullo on valmistettu polyeteenitereftalaatista (my\u00f6s polyetyleenitereftalaatti)",
+    "comment":null
+  },
+  {
+    "question":"Mount Everest on maailman korkein vuori. Sen korkeus on noin 8 848 metri\u00e4. Kuinka monta Celsius-astetta on veden kiehumispiste Mount Everestin huipulla asteen tarkkuudella?",
+    "answer":"71 C",
+    "comment":null
+  },
+  {
+    "question":"Urho Kaleva Kekkonen oli Suomen kahdeksas presidentti. Kuinka monta vuotta h\u00e4n toimi presidenttin\u00e4?",
+    "answer":"25",
+    "comment":null
+  },
+  {
+    "question":"Kulta on alkuaine, jota on k\u00e4ytetty tuhansien vuosien ajan valuuttana. Mik\u00e4 on kullan kemiallinen merkki?",
+    "answer":"Au",
+    "comment":null
+  },
+  {
+    "question":"Messinki on metalliseos, josta tehd\u00e4\u00e4n paljon k\u00e4ytt\u00f6esineit\u00e4. Mitk\u00e4 kaksi metallia ovat messingin p\u00e4\u00e4raaka-aineet? ",
+    "answer":"Kupari ja sinkki",
+    "comment":null
+  },
+  {
+    "question":"Tampere3:n ensimm\u00e4inen ehdotettu tiedekuntajako julkaistiin kommentoitavaksi viime viikolla. Kuinka monta tiedekuntaa uudessa yliopistossa ehdotuksen mukaan olisi?",
+    "answer":"7",
+    "comment":null
+  },
+  {
+    "question":"Olkiluoto-3:n rakentaminen aloitettiin 12. Elokuuta 2005. Jos se joskus valmistuisi, monesko toimiva ydinvoimalaitosyksikk\u00f6 Suomessa se olisi?",
+    "answer":"5.",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 Suomenkin luonnosta tuttu sy\u00f6m\u00e4kelpoinen kasvi on latinankieliselt\u00e4 nimelt\u00e4\u00e4n Fragaria vesca?",
+    "answer":"Aho- tai mets\u00e4mansikka",
+    "comment":null
+  },
+  {
+    "question":"Kuinka moneen \u00e4\u00e4nestysalueeseen Hervanta jakautui vuoden 2018 presidentinvaaleissa?",
+    "answer":"seitsem\u00e4\u00e4n",
+    "comment":null
+  },
+  {
+    "question":"Luettele sinkkuel\u00e4m\u00e4\u00e4 sarjan nelj\u00e4n p\u00e4\u00e4henkil\u00f6n etunimet.",
+    "answer":"Carrie, Samantha, Miranda, Charlotte",
+    "comment":null
+  },
+  {
+    "question":"Maailman suurin kissa, nimelt\u00e4\u00e4n Stewie, on 123 cm pitk\u00e4 ja painaa 16 kg. Mik\u00e4 on Stewien rotu?",
+    "answer":"Maine Coon",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli v\u00e4kiluvultaan maailman suurin kaupunki vuonna 1 jaa.",
+    "answer":"Rooma (l\u00e4hde: Ian Morris, Social development, 2010",
+    "comment":"Rooman v\u00e4itet\u00e4\u00e4n olevan my\u00f6s kaikkien aikojen ensimm\u00e4inen miljoonakaupunki"
+  },
+  {
+    "question":"Bremenin soittoniekat on yksi monista Grimmin veljesten saduista. Ketk\u00e4 4 j\u00e4sent\u00e4 kuului Bremenin soittoniekkoihin?",
+    "answer":"Aasi, koira, kissa ja kukko.",
+    "comment":null
+  },
+  {
+    "question":"Suomi t\u00e4ytti juuri 100 vuotta, ja on l\u00e4hes itsen\u00e4istymisest\u00e4\u00e4n asti ollut tasavalta. Mik\u00e4 maa on maailman vanhin tasavalta?",
+    "answer":"San Marino",
+    "comment":"3.9.301 seuraavaksi vanhin hollanti\u00a026.7.1581"
+  },
+  {
+    "question":"Sauli Niinist\u00f6 valittiin juuri toiselle kaudelle suomen presidentiksi. Presidentin kausihan suomessa on 6 vuotta. Ketk\u00e4 suomen 12:sta presidentist\u00e4 ovat olleet presidenttin\u00e4 alle yhden kauden verran eli alle 6 vuotta?",
+    "answer":"Ky\u00f6sti Kallio, Risto Ryti, Carl Gustaf Emil Mannerheim",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 mielenkiintoista on\u00a0Ernest Vincent Wrightin kirjassa Gadsby?",
+    "answer":"Siin\u00e4 ei ole yht\u00e4\u00e4n e-kirjainta.",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 muista yhdysvaltojen presidenteist\u00e4 poikkeavaa oli James Buchananissa, kun h\u00e4nest\u00e4 tuli yhdysvaltojen presidentti?",
+    "answer":"H\u00e4n ei ollut naimisissa",
+    "comment":"H\u00e4nen ep\u00e4ill\u00e4\u00e4n olleen homoseksuaali."
+  },
+  {
+    "question":"Suomen ensimm\u00e4inen ydinvoimala otettiin k\u00e4ytt\u00f6\u00f6n 1977. Miss\u00e4?",
+    "answer":"Loviisan Hevossaaressa",
+    "comment":null
+  },
+  {
+    "question":"Kerttu ja Sylvian joululaulu liittyv\u00e4t toisiinsa. Miten?",
+    "answer":"Sylvia on kerttu-lintujen tieteellinen nimi",
+    "comment":null
+  },
+  {
+    "question":"Frisbeegolf on suomessakin alati kasvava laji. Kuka on lajin t\u00e4m\u00e4n hetken maailman mestari? A) Ken Climo B) Ricky\u00a0Wysocki C) Simon Lizotte D) Paul McBeth",
+    "answer":"B)",
+    "comment":null
+  },
+  {
+    "question":"Phantom of the opera on\u00a0broadwayn esitetyin musikaali. Mik\u00e4 on seuraavaksi esitetyin musikaali broadwayll\u00e4?",
+    "answer":"Cats",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli miss Piggyn suuri rakkaus?",
+    "answer":"Kermit",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 roomalaisella jumalalla oli kahdet kasvot?",
+    "answer":"Januksella",
+    "comment":"Janus oli  alkujen, loppujen ja muutoksen sek\u00e4 ovien ja porttien jumala"
+  },
+  {
+    "question":"Ketk\u00e4 olivat Kainin ja Aabelin vanhemmat?",
+    "answer":"Aatami ja Eeva",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on korkea\u00e4\u00e4nisin puupuhallin?",
+    "answer":"Pikkolo",
+    "comment":null
+  },
+  {
+    "question":"Miten Aleksanteri Suuri avasi legendan mukaan avaamattomana pidetyn Gordionin solmun?",
+    "answer":"H\u00e4n leikkasi sen miekalla",
+    "comment":null
+  },
+  {
+    "question":"Pyh\u00e4 Valentinus eli kolmannella vuosisadalla ja h\u00e4nen kunniakseen vietet\u00e4\u00e4n yst\u00e4v\u00e4np\u00e4iv\u00e4\u00e4 14.2. Milloin vietettiin yst\u00e4v\u00e4np\u00e4iv\u00e4\u00e4 ensimm\u00e4ist\u00e4 kertaa?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"T\u00e4n\u00e4\u00e4n on yst\u00e4v\u00e4np\u00e4iv\u00e4, mutta kenen nimip\u00e4iv\u00e4 t\u00e4n\u00e4\u00e4n on?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"10 000 metrin juoksua on juostu olympialaisissa jo vuodesta 1912. Mill\u00e4 maalla on eniten mitaleja kyseiselt\u00e4 matkalta?",
+    "answer":"Suomi",
+    "comment":"15 kaikkiaan 7-4-4 (etiopialla 14, 5-3-6)"
+  },
+  {
+    "question":"Jo esihistoriallisella ajalla hiihdettiin, jolloin k\u00e4ytettii kahta eripitk\u00e4\u00e4 suksea. Mitk\u00e4 olivat n\u00e4iden eripitkien suksien nimet? (molemmilla suksilla oma nimi)",
+    "answer":"Kalhu ja Lyly",
+    "comment":null
+  },
+  {
+    "question":"Vanhan kansanperinteen mukaan karkausp\u00e4iv\u00e4n\u00e4 nainen saa kosia miest\u00e4. Jos mies kielt\u00e4ytyy kosinnasta, tulee h\u00e4nen perinteen mukaan ostaa naiselle mit\u00e4?",
+    "answer":"hamekangas",
+    "comment":null
+  },
+  {
+    "question":"mink\u00e4 kasvin latinan kielinen nimi on linnea borealis?",
+    "answer":"vanamo",
+    "comment":"vanamo oli carl von linnen lempikukka, miksi se on nimetty h\u00e4nen mukaansa, carl von linne siis kehitti latinankielisen nimitysj\u00e4rjestelm\u00e4n kaikille eli\u00f6ille"
+  },
+  {
+    "question":"mink\u00e4 el\u00e4imen latinankielinen nimi on bufo bufo?",
+    "answer":"rupikonna",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna ensimm\u00e4inen Playstation-konsoli tuli markkinoille?",
+    "answer":"1994",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta n\u00e4pp\u00e4int\u00e4 oli ensimm\u00e4isess\u00e4 tietokoneen hiiress\u00e4?",
+    "answer":"yksi",
+    "comment":"Douglas Engelbart patentoi hiiren jo vuonna 1970"
+  },
+  {
+    "question":"Luciferia pidet\u00e4\u00e4n kristinuskossa helvetin hallitsija ja yksi nelj\u00e4st\u00e4 arkkienkelist\u00e4. Mit\u00e4 h\u00e4nen nimens\u00e4 tarkoittaa kirjaimellisesti suomennettuna?",
+    "answer":"Valonkantajaa",
+    "comment":"Valosta 0,5 pistett\u00e4 jne"
+  },
+  {
+    "question":"Kristoffer Kolumbus \"l\u00f6ysi\" Amerikan mantereen vuonna 1492. Mihin h\u00e4nen oli alun perin tarkoitus p\u00e4\u00e4ty\u00e4 tuolla matkalla?",
+    "answer":"Intiaan",
+    "comment":null
+  },
+  {
+    "question":"Mandariinikiina on maailman puhutuin virallinen kieli. Mik\u00e4 on toiseksi puhutuin?",
+    "answer":"espanja",
+    "comment":null
+  },
+  {
+    "question":"Tarinan mukaan mist\u00e4 V\u00e4in\u00e4m\u00f6isen kannel oli tehty?",
+    "answer":"Hauen leuasta\/ leuka luusta, (pelkk\u00e4 hauki ei riit\u00e4)",
+    "comment":"Kanteleen kielet hiiden olennon hiuksista."
+  },
+  {
+    "question":"Er\u00e4\u00e4ss\u00e4 Grimmin veljesten sadussa tytt\u00f6 lukitaan torniin, jossa h\u00e4nen on m\u00e4\u00e4r\u00e4 kehr\u00e4t\u00e4 oljista kultaa kuninkaalle. T\u00e4h\u00e4n h\u00e4nen ollessa kykenem\u00e4t\u00f6n k\u00e4\u00e4pi\u00f6 auttaa h\u00e4nt\u00e4, jos saa lopulta palkkioksi tyt\u00f6n esikoisen. Esikoisen synnytty\u00e4 tytt\u00f6 ei halunnut luopua lapsestaan ja k\u00e4\u00e4pi\u00f6 totesi, jos tytt\u00f6 arvaa h\u00e4nen nimens\u00e4 niin k\u00e4\u00e4pi\u00f6 ei vie esikoistaan. Mik\u00e4 oli t\u00e4m\u00e4n sadun k\u00e4\u00e4pi\u00f6n nimi?",
+    "answer":"Tittelintuure, Rompanruoja, Hopskukkeli",
+    "comment":"Vaaditaan t\u00e4ydellinen vastaus (jokin siis kolmesta)"
+  },
+  {
+    "question":"Antti Tuisku on menestyv\u00e4 suomalainen artisti, joka nousi kuuluisuuteen 2003 idols-nimisest\u00e4 ohjelmasta. Monenneksiko Antti Tuisku sijoittui kyseisess\u00e4 kilpailussa?",
+    "answer":"3.",
+    "comment":"1. Hanna Pakarinen 2. Jani Wickholm"
+  },
+  {
+    "question":"Min\u00e4 vuonna legendaarisen uutisankkuri Arvi Lindin viimeinen uutisl\u00e4hetys l\u00e4hetettiin?",
+    "answer":"2003",
+    "comment":"15.10.2003, el\u00e4k\u00f6ityi virallisesti 2004"
+  },
+  {
+    "question":"Mill\u00e4 ehk\u00e4 tunnetummalla nimella matemaatikko Leonardo Pisano tunnetaan?",
+    "answer":"Fibonacci",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on pokedexiss\u00e4 pokemon numerolla 1?",
+    "answer":"Bulbasaur",
+    "comment":null
+  },
+  {
+    "question":"James Naismith oli kanadalainen opettaja. Mink\u00e4 suuren urheilulajin kehitt\u00e4j\u00e4n\u00e4 h\u00e4nt\u00e4 pidet\u00e4\u00e4n?",
+    "answer":"Koripallo",
+    "comment":"H\u00e4n kehitti pelin 1892 ja ensimm\u00e4inen peli pelattiin h\u00e4nen koulussa springfield, massachusettissa oppilaat vs. opettajat, jonka oppilaat voitti 5-1"
+  },
+  {
+    "question":"Mik\u00e4 on etel\u00e4-korean kansallis(urheilu)laji?",
+    "answer":"taekwondoo",
+    "comment":null
+  },
+  {
+    "question":"Lorem ipsum on latin kielinen p\u00e4tk\u00e4 teksti\u00e4, jota k\u00e4ytet\u00e4\u00e4n kirjainten tai tekstien ulkoasun ja asettelun suunnitteluun. Kenen \"proosan mestarinakin\" tunnetun henkil\u00f6n tekstist\u00e4 lorem ipsumiin on otettu viitteit\u00e4?",
+    "answer":"Cicero",
+    "comment":"Lorem ipsum teksti itsess\u00e4\u00e4n ei tarkoita mit\u00e4\u00e4n, mutta on alunperin teoksesta De finibus bonorum et malorum, josta on vain poisteltu sanoja sielt\u00e4 t\u00e4\u00e4lt\u00e4."
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa prinsessa Diana kuoli auto-onnettomuudessa?",
+    "answer":"Pariisissa",
+    "comment":null
+  },
+  {
+    "question":"Mihin kaupunkiin Pillipiipari kutsuttiin ratkaisemaan vallitsevaa hiiriepidemiaa?",
+    "answer":"Hameliniin",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 valtio lahjoiiti Vapaudenpatsaan Yhdysvalloille?",
+    "answer":"Ranska",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 kirjaa Orson Welles luki radiossa 1938, jonka tapahtumia ihmiset luulivat uutisl\u00e4hetykseksi aiheuttaen laajaa paniikkia?",
+    "answer":"Maailmojen sota (War of the worlds)",
+    "comment":null
+  },
+  {
+    "question":"Kevin Systrom tunnetaan Instagramin kehitt\u00e4neen\u00e4 henkil\u00f6n\u00e4 ja vuonna 2010 h\u00e4n itse postasi sovelluksen ensimm\u00e4isen kuvan, mit\u00e4 kuvassa oli? a)Kevin Systrom B) koira c) kulhollinen nuudeleita c)auringonlasku",
+    "answer":"b)",
+    "comment":null
+  },
+  {
+    "question":"Kuka tunnettu artisti tunnettiin nimell\u00e4 satchmo?",
+    "answer":"Louis Armstrong",
+    "comment":"Nimi satchmo tulee sanoista satchel mouth, koska armstrongilla oli iso suu"
+  },
+  {
+    "question":"Mik\u00e4 oli kreikkalaisen mytologian p\u00e4\u00e4jumalan Zeuksen vaimon nimi?",
+    "answer":"Hera",
+    "comment":"Hera oli my\u00f6s Zeuksen sisko"
+  },
+  {
+    "question":"Kuinka montanykyist\u00e4 valtiota kuului entiseen Jugoslaviaan ennen kylm\u00e4n sodan loppua?",
+    "answer":"7",
+    "comment":"M\u00e4n\u00e4 maat ovat Slovenia, Kroatia, Bosnia ja Herzegovina, Montenegro, Kosovo, Serbia sek\u00e4 Makedonia"
+  },
+  {
+    "question":"Mit\u00e4 sukua Ter\u00e4stytt\u00f6 on Ter\u00e4smiehelle sarjakuvissa?",
+    "answer":"Serkku",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna Barbie-nukke lanseerattiin markkinoille? a) 1949 b) 1959 c) 1969 d) 1979",
+    "answer":"b) 1959",
+    "comment":"Barbie oli lelumarkkinoiden ensimm\u00e4inen nukke, joka suunniteltiin aikuisen n\u00e4k\u00f6iseksi."
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 kutsutaan luoteisella Tyynell\u00e4merell\u00e4 syntyvi\u00e4 trooppisia sykloneja?",
+    "answer":"Taifuuni",
+    "comment":"Hurrikaaneiksi kutsutaan Pohjois-Atlantilla ja koillis-Tyynell\u00e4merell\u00e4 syntyvi\u00e4 trooppisia sykloneja"
+  },
+  {
+    "question":"Simpsonien perheeseen kuuluvat Homer, Marge, Bart, Lisa ja Maggie. Mik\u00e4 on Homerin is\u00e4n nimi?",
+    "answer":"Abraham",
+    "comment":null
+  },
+  {
+    "question":"Yhdysvalloissa on paikka nimelt\u00e4 four corners, miss\u00e4 4 osavaltiota kohtaa. Mitk\u00e4 ovat n\u00e4m\u00e4 osavaltiot?",
+    "answer":"Colorado, New Mexico, Arizona, Utah",
+    "comment":null
+  },
+  {
+    "question":"Miksi kutsutaan lausetta, jossa on k\u00e4ytetty aakkosten kaikkia kirlaimia v\u00e4hint\u00e4\u00e4n kerran?",
+    "answer":"pangrammi",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 nykyinen suurkaupunki oli alkuper\u00e4iselt\u00e4 nimelt\u00e4\u00e4n Lutetia?",
+    "answer":"Pariisi",
+    "comment":"K\u00e4ytetty wappuwisan pikavisassa 2022"
+  },
+  {
+    "question":"Kuka kirjoitti kirjan Ajan Lyhyt Historia?",
+    "answer":"Stephen Hawking",
+    "comment":"F, K\u00e4ytetty wappuwisan pikaversiossa"
+  },
+  {
+    "question":"Mik\u00e4 on JVG-yhtyeest\u00e4 tutun VilleGallen sukunimi?",
+    "answer":"Galle",
+    "comment":"H\u00e4nen oikea nimens\u00e4 on Ville-Petteri Galle"
+  },
+  {
+    "question":"Luettele kaikki nelj\u00e4 maailmanlopun ratsumiest\u00e4?",
+    "answer":"Sota, n\u00e4lk\u00e4, rutto, kuolema (englanniksi war, famine, pestilence, death)",
+    "comment":null
+  },
+  {
+    "question":"Finias ja Ferb on Disneyn tuottama animaatiosarja, jonka p\u00e4\u00e4osassa ovat velipuolet Finias ja Ferb. Mik\u00e4 el\u00e4in on heid\u00e4n perheens\u00e4 lemmikki Perry?",
+    "answer":"Vesinokkael\u00e4in",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 artistinimell\u00e4 Paul Hewson tunnetaan paremmin?",
+    "answer":"Bono",
+    "comment":null
+  },
+  {
+    "question":"Nime\u00e4 kaikki valtiot, jotka alkavat kirjaimella O",
+    "answer":"Oman",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen oli antiikin eri mesopotamialaisten kansojen k\u00e4ytt\u00e4m\u00e4 kirjoitusj\u00e4rjestelm\u00e4?",
+    "answer":"Kuneiformi, nuolenp\u00e4\u00e4kirjoitus",
+    "comment":"T\u00e4t\u00e4 pidet\u00e4\u00e4n historian ensimm\u00e4isen\u00e4 laajalle levinneen\u00e4 kirjoitusj\u00e4rjestelm\u00e4n\u00e4"
+  },
+  {
+    "question":"Mik\u00e4 on Aurinkokunnan pienin planeetta?",
+    "answer":"Merkurius",
+    "comment":null
+  },
+  {
+    "question":"Kuka aikoinaan sanoi kuuluisat sanat: \"The only thing to fear is fear itself\"?",
+    "answer":"Franklin D. Roosevelt",
+    "comment":null
+  },
+  {
+    "question":"Kuka sarjakuvahahmo tunnetaan Italiassa nimell\u00e4 Paperino?",
+    "answer":"Aku Ankka",
+    "comment":null
+  },
+  {
+    "question":"Kuka s\u00e4velsi musiikkiteoksen \"Nelj\u00e4 vuodenaikaa\"",
+    "answer":"Antonio Vivaldi",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on maapallon kuoren yleisin alkuaine?",
+    "answer":"Happi (n. 46%)",
+    "comment":"wappuwisassa k\u00e4ytetty"
+  },
+  {
+    "question":"Mik\u00e4 on kiwano?",
+    "answer":"Hedelm\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Kuka on Iron Maidenin solisti?",
+    "answer":"Bruce Dickinson",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 sana Buddha tarkoittaa?",
+    "answer":"Valaistua",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 maasta tango on kotoisin?",
+    "answer":"Argentiinasta",
+    "comment":"k\u00e4ytetty wappuwisan pikaversiossa"
+  },
+  {
+    "question":"Kuka on kreikkalaisessa mytologiassa Herculeen (Herculeksen?) is\u00e4? \/\/ Who is the father of Hercules in greek mythology?",
+    "answer":"Zeus",
+    "comment":null
+  },
+  {
+    "question":"Valtatie 4 tunnetaan Suomen pisimp\u00e4n\u00e4 tien\u00e4. Mist\u00e4 kaupungista tie alkaa ja mihin se loppuu?",
+    "answer":"Helsinki, Utsjoki",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on kiinalaisen horoskoopin ainoa fiktiivinen el\u00e4in?",
+    "answer":"Lohik\u00e4\u00e4rme",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on maailman valtioiden lippujen yleisin v\u00e4ri?",
+    "answer":"Punainen",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta ihmist\u00e4 t\u00e4ytyy virallisesti mahtua (mukavasti) onkaloon, jotta se voidaan Suomessa laskea luolaksi?",
+    "answer":"2-3",
+    "comment":"Eri valtioilla on erilaisia m\u00e4\u00e4ritelmi\u00e4 luolalle, esim "
+  },
+  {
+    "question":"Mik\u00e4 on maailman yleisin veriryhm\u00e4?",
+    "answer":"O+",
+    "comment":"Noin 37,4% maailman ihmisist\u00e4 on t\u00e4t\u00e4 verityyppi\u00e4"
+  },
+  {
+    "question":"Min\u00e4 vuonna Kirka esitti Euroviisuissa kappaleen \"Hengaillaan\"?",
+    "answer":"1984",
+    "comment":null
+  },
+  {
+    "question":"Kuka maalasi maalauksen \"Pyh\u00e4 Ehtoollinen\"?",
+    "answer":"Leonardo da Vinci",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 maanosasta peruna on kotoisin? \/\/ From which continent is potato from?",
+    "answer":"Etel\u00e4-Amerikasta",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 sarjakuvasankari tunnetaan Italiassa nimell\u00e4 Topolino?",
+    "answer":"Mikki Hiiri",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Suomen vanhin sis\u00e4maakaupunki?",
+    "answer":"H\u00e4meenlinna",
+    "comment":"Perustettu vuonna 1639"
+  },
+  {
+    "question":"Mitk\u00e4 el\u00e4imet jaetaan pysty- ja sivutaivuttajiin? (englanniksi hidden-necked ja side-necked)",
+    "answer":"Kilpikonnat",
+    "comment":null
+  },
+  {
+    "question":"Mihin elimeen hepatiitti vaikuttaa?",
+    "answer":"Maksaan",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 yhti\u00f6 toi ensimm\u00e4isen\u00e4 tietokoneen hiiren markkinoille?",
+    "answer":"Apple",
+    "comment":null
+  },
+  {
+    "question":"Mihin saariryhm\u00e4\u00e4n kuuluu mm. Oahu, Kauai ja Maui -saaret?",
+    "answer":"Havaiji",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 el\u00e4imet ovat kuvattuna Finlandia-vodkan etiketiss\u00e4?",
+    "answer":"Porot",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Suomen suurin hy\u00f6nteissy\u00f6j\u00e4?",
+    "answer":"Siili",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 p\u00e4iv\u00e4n\u00e4 ensimm\u00e4inen Alko avasi ovensa Suomessa? (Kellonajasta ei tule bonusta)",
+    "answer":"Alko avasi ensimm\u00e4isen myym\u00e4l\u00e4ns\u00e4 tiistaina 5. huhtikuuta 1932 klo 10. P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n muistamista auttaa Suomen historian tunnetuimpiin kuuluva lukusarja 543210",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Japanin suurin saari? \/\/ What is the largest island of Japan?",
+    "answer":"Honshu",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 hedelm\u00e4n hillo on olennainen osa Sacher-kakkua?",
+    "answer":"Aprikoosi",
+    "comment":null
+  },
+  {
+    "question":"Moni saattaakin jo tiet\u00e4\u00e4, ett\u00e4 Suomi voitti olympiakultaa miesten j\u00e4\u00e4kiekossa 2022. Kuka oli kyseisen joukkueen kapteeni? \/\/ You might know that Finland won gold in the winter olympics in 2022 in ice hockey. Who was the captain of Finland\u2019s hockey team?",
+    "answer":"Valtteri Filppula",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 pohjoismaista on eniten maapinta-alaa? \/",
+    "answer":"Tanska",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna Ruotsissa siirryttiin oikeanpuoleiseen liikenteeseen?",
+    "answer":"1967",
+    "comment":"3.9.1967 H-p\u00e4iv\u00e4"
+  },
+  {
+    "question":"Mainitse kaksi kasvia, jota perinteisesti k\u00e4ytet\u00e4\u00e4n absintissa? \/\/  Name two plants, which are commonly used in absinthe?",
+    "answer":"Koiruoho, anis, fenkoli \/\/ Anise, grand wormwood (artemisia absinthium), (sweet) fennel",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 liputusp\u00e4iv\u00e4 on t\u00e4n\u00e4\u00e4n? (10.10.)",
+    "answer":"Aleksis Kiven p\u00e4iv\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 tunnetun videopelin nimi oli tekovaiheessa \u201cSonic\u2019s Ass Game\u201d?",
+    "answer":"Crash Bandicoot",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kertaa matkustaessasi Tampereen Ratikalla Hervantaj\u00e4rven pys\u00e4kilt\u00e4 Pyynikintorille ja takasin, kuulet kuulutuksen \u201cOvet aukeavat kulkusuuntaan n\u00e4hden vasemmalta\u201d \/\/ In Tampere Tram you can hear the phrase \u201cOvet aukeavat kulkusuuntaan n\u00e4hden vasemmalta\u201d which means that the doors open on left side of the Tram. How many times can you hear this phrase when you travel from Hervantaj\u00e4rvi to Pyynikintori and back?",
+    "answer":"5",
+    "comment":"Menomatkalla kolmesti ja paluumatkalla kahdesti koska Hervantakeskuksen pys\u00e4kki \/\/ Three times when going and to times when coming back because of the Hervantakeskus."
+  },
+  {
+    "question":"Mik\u00e4 valtio on ollut viimeiset kolme vuotta putkeen maailman turvallisin maa Maailmanlaajuisen rauhan indeksin perusteella? \/\/ What country has, for the last three years in a row, been the safest country in the world according to the Global Peace Index?",
+    "answer":"Islanti \/\/ Iceland",
+    "comment":"Viitattu 2023, data vuosilta 2020-2022"
+  },
+  {
+    "question":"Miss\u00e4 kahdessa kaupungissa j\u00e4rjestet\u00e4\u00e4n vuoden 2023 j\u00e4\u00e4kiekon MM-kilpailut? In which two cities the world championships of ice hockey 2023 will be held?",
+    "answer":"Tampere ja Riika",
+    "comment":null
+  },
+  {
+    "question":"Skandinaavisessa mytologiassa Ratatoskr jouksee maailmanpuu Yggdrasilia pitkin v\u00e4litt\u00e4en samalla viestej\u00e4 latvan kotkien ja juurten Nidh\u00f6ggr-k\u00e4\u00e4rmeen v\u00e4lill\u00e4. Mik\u00e4 el\u00e4in Ratatoskr on?",
+    "answer":"Orava",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 rikoksesta pahamaineinen gangsteri Al Capone lopulta tuomittiin vankilaan vuonna 1931.",
+    "answer":"Veronkierto",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 ainesosia ei vaadita kakun tekemiseen videopeliss\u00e4 Minecraft? a) Maitoa b) Jauhoja c) Kananmunia",
+    "answer":"b) Jauhoja",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 maan keisarisuvun sanotaan periytyv\u00e4n Amaterasu-jumalattaresta?",
+    "answer":"Japanin",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on sitar?",
+    "answer":"N\u00e4pp\u00e4ilysoitin",
+    "comment":null
+  },
+  {
+    "question":"Miksi kutsutaan paperiarkkia, jonka mitat ovat 297 kertaa 420 millimetri\u00e4?",
+    "answer":"A3",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 el\u00e4in on kuttu?",
+    "answer":"Vuohi",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa Sakari Topelius syntyi?",
+    "answer":"Uudessakaarlepyyss\u00e4",
+    "comment":"T\u00e4t\u00e4 voi k\u00e4ytt\u00e4\u00e4 vai Topeliuksen p\u00e4iv\u00e4n tienoilla"
+  },
+  {
+    "question":"Mink\u00e4 helsinkil\u00e4isen talon sein\u00e4ss\u00e4 sanotaan latinaksi: \"Is\u00e4nmaa antoi toivoilleen\"",
+    "answer":"Vanhan ylioppilastalon",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Taiwanin virallinen kieli?",
+    "answer":"Kiina",
+    "comment":null
+  },
+  {
+    "question":"Milt\u00e4 Ranskan paikkakunnalta tunnettu kivenn\u00e4isvesi on saanut nimens\u00e4?",
+    "answer":"Vichy",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on YLE:n toiseksi k\u00e4ytetyin tekstitv sivu avausn\u00e4kym\u00e4n j\u00e4lkeen?",
+    "answer":"235 (NHL-tulossivu)",
+    "comment":null
+  },
+  {
+    "question":"Montako kierrosta ilmassa tekee taitoluistelija hypetess\u00e4\u00e4n kaksoisaxelin?",
+    "answer":"2,5",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 liikkuva rakennustyyppi tuli Eurooppaan joskus 1100-luvulla?",
+    "answer":"Tuulimylly",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen amerikkalainen kehitti gallup -tutkimukset?",
+    "answer":"George Gallup",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 nimisen saaren Haiti ja Dominikaaninen tasavalta jakavat?",
+    "answer":"Hispaniola",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Pirkanmaan suurin kaupunki?",
+    "answer":"Tampere",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 Espanja on espanjaksi?",
+    "answer":"Espa\u00f1a",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 kahta lik\u00f6\u00f6ri\u00e4 sekoitetaan yhteen, kun valmistetaan Grasshopper -drinkki\u00e4",
+    "answer":"Minttu- ja kaakaolik\u00f6\u00f6ri\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 viitt\u00e4 eri alkoholia sekoitetaan yhteen, kun valmistetaan Long Island Iced tea?",
+    "answer":"Vodka, rommi, tequila, gin ja triplesec",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 Suomen kaupungeissa on tai on ollut raitiotie?",
+    "answer":"Helsinki, Turku ja (Viipuri)",
+    "comment":"Tamperetta ei viel\u00e4 lasketa"
+  },
+  {
+    "question":"Mill\u00e4 tsaari Nikolai II uhkasi ymp\u00e4r\u00f6id\u00e4 koko Ven\u00e4j\u00e4n?",
+    "answer":"S\u00e4hk\u00f6aidalla",
+    "comment":null
+  },
+  {
+    "question":"Kuka ohjaa\/ohjasi uusimman\u00a0Star Wars -elokuvan The Last Jedi?",
+    "answer":"Rian Johnson",
+    "comment":null
+  },
+  {
+    "question":"Kumpi on leve\u00e4mpi jalkapallossa - rima vai maalilinja?",
+    "answer":"Yht\u00e4 leveit\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli Marxin veljesten oikea sukunimi?",
+    "answer":"Marx",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa j\u00e4\u00e4kiekkoliiga NHL:n uusin joukkue Golden Knights pelaa kotiottelunsa?",
+    "answer":"Las Vegasissa",
+    "comment":null
+  },
+  {
+    "question":"Laske roomalaisittain: paljonko on D jaettuna X:ll\u00e4",
+    "answer":"L",
+    "comment":null
+  },
+  {
+    "question":"Montako potkuria oli lentokoneessa, joka vei Wrightin veljekset ilmailuhistoriaan?",
+    "answer":"2",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 energian mittayksik\u00f6ll\u00e4 korvattiin kalorit?",
+    "answer":"Joule",
+    "comment":null
+  },
+  {
+    "question":"Simson on tunnettu vanhasta testamentista. H\u00e4n oli tunnettu suurista voimistaa,",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"h\u00e4n muunmuassa paini leijonan kanssa paljain k\u00e4sin. Miss\u00e4 piili Simsonin voima?",
+    "answer":"Tukassa",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta litraa on yksi (brittil\u00e4inen) pint mittayksikk\u00f6?",
+    "answer":"0,568L",
+    "comment":"Amerikan pintti on 0,473 l"
+  },
+  {
+    "question":"Merellisen ilmaston vuoksi Norjassa sataa jopa 3 kertaa enemm\u00e4n kuin Suomessa.",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Norjan sateisin kaupunki?",
+    "answer":"Bergen",
+    "comment":null
+  },
+  {
+    "question":"Monesko USA:n presidentti Donald Trump on?",
+    "answer":"45.",
+    "comment":null
+  },
+  {
+    "question":"Marjapussi on yksi eniten pelatuista korttipeleist\u00e4 Suomessa. Montako pistett\u00e4 Marjapussissa saa valtista?",
+    "answer":"2",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli Caligulan seuraaja Rooman keisarina?",
+    "answer":"Claudius",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 n\u00e4ytelm\u00e4st\u00e4 on lause: \"Ken t\u00e4st\u00e4 k\u00e4y saa kaiken toivon heitt\u00e4\u00e4\"?",
+    "answer":"Jumalaisesta n\u00e4ytelm\u00e4st\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 Pariisin rakennuksessa on 8 museota?",
+    "answer":"Louvre",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on teini-ik\u00e4isten mutanttininjakilpikonnien eli Turtlesien mestarin nimi?",
+    "answer":"Tikku (Splinter eng.)",
+    "comment":null
+  },
+  {
+    "question":"Kuinka moneen maahan Iso-Britannia ei ole historiansa aikana julistanut sotaa kertaakaan?",
+    "answer":"22",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa on Suomen suurimmat urut?",
+    "answer":"Lapua",
+    "comment":"\u00e4\u00e4nikertojen lukum\u00e4\u00e4r\u00e4n mukaan (85)"
+  },
+  {
+    "question":"Kuka n\u00e4yttelee paavia Sharknado 5 -elokuvassa?",
+    "answer":"Fabio",
+    "comment":"hymyilll\u00e4\u00e4n jos tiet\u00e4\u00e4 sukunimenkin Lanzioni :)"
+  },
+  {
+    "question":"Mik\u00e4 on rumeliini?",
+    "answer":"sitrushedelm\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli Ranskan kuningas, kun Ranskan vallankumous alkoi vuonna 1789?",
+    "answer":"Ludvig XVI (hyv\u00e4ksyt\u00e4\u00e4n my\u00f6s Louis)",
+    "comment":null
+  },
+  {
+    "question":"G\u00f6st\u00e4 Sundqvist oli Leevi and the Leavings yhtyeen laulaja. Mink\u00e4 ik\u00e4iseksi h\u00e4n eli?",
+    "answer":"46 vuotiaaksi",
+    "comment":null
+  },
+  {
+    "question":"taf on itsen\u00e4inen s\u00e4\u00e4ti\u00f6, joka nostaa esiin ihmisten el\u00e4m\u00e4nlaatua parantavia ja kest\u00e4v\u00e4\u00e4 kehityst\u00e4 edist\u00e4vi\u00e4",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"innovaatioita sek\u00e4 kannustaa nuoria teknologia-alolille Mist\u00e4 taf on lyhenne?",
+    "answer":"technology academy finland",
+    "comment":null
+  },
+  {
+    "question":"Nime\u00e4 kaikki Spice Girls -b\u00e4ndin\u00a0j\u00e4senet heid\u00e4n b\u00e4ndinimill\u00e4\u00e4n?",
+    "answer":"Baby Spice, Ginger Spice, Sporty Spice, Posh Spice ja Scary Spice",
+    "comment":null
+  },
+  {
+    "question":"Kuka on eniten tienannut suomalainen e-sports -pelaaja?",
+    "answer":"Lasse Urpalainen",
+    "comment":null
+  },
+  {
+    "question":"Kuka jalkapalloilija on ainoana pelaajana voittanut\u00a0jalkapallon MM-kultaa kolme kertaa?",
+    "answer":"Pel\u00e9",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 mitataan anemometrill\u00e4",
+    "answer":"Tuulen nopeutta",
+    "comment":null
+  },
+  {
+    "question":"Miten jatkuu sananalasku \"ken kuuseen kurkottaa...\"?",
+    "answer":"\"... se katajaan kapsahtaa.\"",
+    "comment":null
+  },
+  {
+    "question":"Mihin viitataan sanoilla \"the final frontier\"?",
+    "answer":"Avaruuteen",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Carrom?",
+    "answer":"P\u00f6yt\u00e4peli, koronan ja biljardin sukulainen",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kosketinta on nykyaikaisessa pianossa?",
+    "answer":"88",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta aaria on yhdess\u00e4 neli\u00f6kilometriss\u00e4?",
+    "answer":"10 000",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 brontofobiasta k\u00e4rsiv\u00e4 ihminen mahtaa pel\u00e4t\u00e4?",
+    "answer":"Ukkosta",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 elokuva on tuottanut toiseksi eniten lipputuloja koko maailmassa?",
+    "answer":"Titanic",
+    "comment":null
+  },
+  {
+    "question":"Ville Ritola, Hannes Kolehmainen sek\u00e4 Paavo Nurmi kulki jokainen aikanaan",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"nimell\u00e4 \"Lent\u00e4v\u00e4 Suomalainen\". Kuka heist\u00e4 on alkuper\u00e4inen lent\u00e4v\u00e4 suomalainen?",
+    "answer":"Hannes Kolehmainen",
+    "comment":null
+  },
+  {
+    "question":"Kenen Suomalaisen henkil\u00f6n kuva oli viimeisen markkasetelisarjan 500 markan seteliss\u00e4?\u00a0",
+    "answer":"Elias L\u00f6nnrot",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 mitataan seismografilla?",
+    "answer":"Maanj\u00e4ristyksi\u00e4, seismist\u00e4 toimintaa",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 on nappa?",
+    "answer":"nahkaa",
+    "comment":null
+  },
+  {
+    "question":"Moni on varmasti kuullut tarinoita Monte Criston kreivist\u00e4, mutta mik\u00e4 on Monte Cristo?",
+    "answer":"Italialainen saari",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 tarkoittaa pontifikaati? a) Paavin kautta b) Moskeijan syvennyst\u00e4 c) Islamin paastoa",
+    "answer":"a)",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa sijaitsee Apenniinit?",
+    "answer":"Italiassa",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa sijaitsee maailman suurin makean veden j\u00e4rvi?",
+    "answer":"USA\/Kanada",
+    "comment":"Suurin pinta-alaltaan"
+  },
+  {
+    "question":"Kuka James Bond n\u00e4yttelij\u00f6ist\u00e4 on n\u00e4ytellyt James Bondia vain kerran?",
+    "answer":"George Lazenby, (David Niven)",
+    "comment":"Pit\u00e4ydyt\u00e4\u00e4n virallisissa, koska sulkuihin pit\u00e4s laittaa Peter Sellers ja Woody Allen ja vaikka kuinka monta"
+  },
+  {
+    "question":"Luettele kaikki nykyaikaisen viisiottelun lajit",
+    "answer":"Maastojuoksu, ammunta, esteratsastus, vapaauinti, miekkailu",
+    "comment":null
+  },
+  {
+    "question":"Kuka seuraavista ei ole voittanut Oscar-palkintoa? a) Jared Leto, b) Gary Oldman, c) Leonardo DiCaprio,\u00a0d) Eminem",
+    "answer":"b)",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 tyylisuuntaa Parthenon edustaa?",
+    "answer":"Doorilaista tyyli\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Kenen kirjailijan luoma Dracula on?",
+    "answer":"Bram Stoker",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna Ter\u00e4smies esiintyi ensimm\u00e4isen kerran sarjakuvissa?",
+    "answer":"1938",
+    "comment":null
+  },
+  {
+    "question":"Muusikoiden keskuudessa 27-kerho on surullisen kuuluisa. Kuka seuraavista muusikoista ei kuulu",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"kyseiseen kerhoon?\u00a0a) Kurt Cobain, b) Jimi Hendrix, c) Randy Rhoads,\u00a0d) Robert Johnson",
+    "answer":"c)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Dannyn oikea nimi?",
+    "answer":"Ilkka Lipsanen",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Irwin Goodmanin oikea nimi?",
+    "answer":"Antti Hammarberg",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Michael Monroen oikea nimi?",
+    "answer":"Matti Fagerholm",
+    "comment":null
+  },
+  {
+    "question":"Kenen s\u00e4velt\u00e4j\u00e4n s\u00e4vellys on Sapelitanssi?",
+    "answer":"Aram Hat\u0161aturjan",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 maalla on eniten F1 mestaruuksia?",
+    "answer":"Iso-britannia",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta nuottia sis\u00e4ltyy kromaattiseen s\u00e4velasteikkoon?",
+    "answer":"12",
+    "comment":null
+  },
+  {
+    "question":"Kuka on kaikkien aikojen pisin suomalainen?",
+    "answer":"V\u00e4in\u00f6 Myllyrinne",
+    "comment":null
+  },
+  {
+    "question":"Kenen suomalaisen kuuluisan urheiluvaikuttajan\u00a0toimesta hiihtoloma lopulta otettiin k\u00e4ytt\u00f6\u00f6n",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"kouluissa 1933?",
+    "answer":"Lauri \"Tahko\" Pihkala",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 maalainen oli maailman vanhimmaksi todistettavasti el\u00e4nyt ihminen?",
+    "answer":"Ranskalainen",
+    "comment":null
+  },
+  {
+    "question":"Kirjoita lista loppuun: Do, Re, Mi...",
+    "answer":"Fa, So, La, Ti",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 antiikin kansalla oli ensimm\u00e4isen\u00e4 k\u00e4yt\u00f6ss\u00e4 sotalaivasto?",
+    "answer":"Foinikialaisilla",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kierrosta ajetaan kuuluisassa Indianapolis 500 -moottoriurheilukilpailussa?",
+    "answer":"200",
+    "comment":null
+  },
+  {
+    "question":"Miksi kutsutaan tenniksess\u00e4 saavutusta, jossa sama pelaaja voittaa saman kauden kaikki nelj\u00e4 suurinta turnausta?",
+    "answer":"Grand Slam",
+    "comment":null
+  },
+  {
+    "question":null,
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Kuka diktaattori antoi iteselleen liikanimen \"Ajatusten Tonava\"?",
+    "answer":"Nicolae Ceau\u0219escu",
+    "comment":null
+  },
+  {
+    "question":"Kenell\u00e4 historian henkil\u00f6ll\u00e4 oli pinta-alaltaan suurin henkil\u00f6kohtaisesti omistettu alue?",
+    "answer":"Belgian kuningas Leopold II",
+    "comment":"H\u00e4n omisti nykyist\u00e4 Kongon Demokraattista Tasvaltaa vastaavan alueen \/\/ He owned the area corresponding to the current Democratic Republic of the Congo"
+  },
+  {
+    "question":null,
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 maasta nykyinen paavi Franciscus on kotoisin?",
+    "answer":"Argentiinasta",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna South Park -animaatiosarjaa aloitettiin esitt\u00e4\u00e4 televisiossa Yhdysvalloissa?",
+    "answer":"1997",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 Suomen yli 100 000 asukkaan kaupungeista on pinta-alaltaan suurin?",
+    "answer":"Kuopio",
+    "comment":"Se on pinta-alaltaan 4 326,36 km\u00b2, ja on Suomen 14. suurin kunta pinta-alaltaan"
+  },
+  {
+    "question":"Mik\u00e4 tulee olemaan Tampereen raitiotien ensimm\u00e4isen\u00e4 valmistuvan osan l\u00e4ntinen p\u00e4\u00e4tepys\u00e4kki?",
+    "answer":"Pyynikintori",
+    "comment":"Raitiotiet\u00e4 suunnitellaan jatkettavaksi Lent\u00e4v\u00e4niemeen asti"
+  },
+  {
+    "question":"Kuka maalasi sikstuksen kappelin kattofreskon?",
+    "answer":"Michelangelo",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 artistinimell\u00e4 Ville Virtanen paremmin tunnetaan?",
+    "answer":"Darude",
+    "comment":"USA:ssa tehtiin aikoinaan addressi, jolla pyrittiin korvaamaan valtion kansallislaulu Sandstormilla"
+  },
+  {
+    "question":"Mik\u00e4 suosittu V\u00e4limeren matkakohde tunnettiin ennen nimell\u00e4 Ragusa?",
+    "answer":"Dubrovnik",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 maa julistautui vuonna 1970 ensimm\u00e4isen\u00e4 maailmassa t\u00e4ysin s\u00e4hk\u00f6istetyksi?",
+    "answer":"Albania",
+    "comment":"S\u00e4hk\u00f6ist\u00e4misprojekti aloitettiin Enver Hoxhan toimesta vuonna 1960 ja sen alkuper\u00e4inen valmistumisvuosi oli 1985."
+  },
+  {
+    "question":"Game of Thronesin viimeinen kausi esitet\u00e4\u00e4n HBO:lla ensi vuonna (2019). Montako jaksoa sarjassa tulee kaiken kaikkiaan olemaan sen loputtua ?",
+    "answer":"73",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli Suomen nuorin presidentti astuessaan virkaan?",
+    "answer":"Lauri Kristian Relander",
+    "comment":"H\u00e4n oli virkaan astuessaan 41vuotiaana kymmenen vuotta nuorempi kuin Risto Ryti, joka oli toiseksi nuorin"
+  },
+  {
+    "question":"Mille karjael\u00e4imelle myskih\u00e4rk\u00e4 on l\u00e4heisint\u00e4 sukua?",
+    "answer":"Lampaalle\/vuohelle",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 lempinimell\u00e4 Greyn Anatomia -sarjan neurokirurgi Derek Shepherd tunnettiin?",
+    "answer":"McDreamy",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen on Norjan Alkoa vastaava kauppa, jossa myyd\u00e4\u00e4n vahvempia alkoholituotteita?",
+    "answer":"Vinmonopolet",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Suomen suurin kaupunki, jossa on enemmist\u00f6 ruotsinkielisi\u00e4?",
+    "answer":"Raasepori",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 Suomen kunnassa tai kaupungissa on eniten kes\u00e4m\u00f6kkej\u00e4?",
+    "answer":"Mikkeliss\u00e4",
+    "comment":"Siell\u00e4 on noin 10400 m\u00f6kki\u00e4"
+  },
+  {
+    "question":"Kuka oli ensimm\u00e4inen suomalainen, joka ajoi Ferrarin F1-autoa?",
+    "answer":"JJ Lehto, Jyrki J\u00e4rvilehto",
+    "comment":"H\u00e4n oli Ferrarin testikuskina kaudella 1989, kymmenen vuotta ennen kuin Mika Salo ajoi tallissa kisakuskina korvaten loukkaantunutta Michael Schumacheria."
+  },
+  {
+    "question":"Mik\u00e4 alkoholijuoma lanseerattiin markkinoille Helsingin olympialaisten yhteydess\u00e4?",
+    "answer":"Lonkero",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on ainut Nobel-palkintokategoria, jossa Yhdysvalloilla ei ole k\u00e4rkisijaa voittajien lukum\u00e4\u00e4r\u00e4ss\u00e4?",
+    "answer":"Kirjallisuus",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on triptyykki?",
+    "answer":"Usein kirkollinen, kolmiosainen maalaus tai alttarin l\u00e4heisyyteen tehty rakennelma",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on gobeliini?",
+    "answer":"k\u00e4sin kudottu sein\u00e4vaate",
+    "comment":"Nimi johtaa gobel-suvun nimest\u00e4, jotka harjoittivat v\u00e4rj\u00e4rin ammattia ranskassa 1400-luvulla."
+  },
+  {
+    "question":"Mihin napoleon I on haudattu?",
+    "answer":"Pariisin invalidikirkkoon",
+    "comment":"Napoleonin arkku on tehty osittain suomalaisesta graniitista."
+  },
+  {
+    "question":"Mit\u00e4 muuta, suomenkielist\u00e4, nimityst\u00e4 k\u00e4ytet\u00e4\u00e4n Raynaud'n ilmi\u00f6st\u00e4?",
+    "answer":"valkosormisuus",
+    "comment":null
+  },
+  {
+    "question":"Moni muistaa Disneyn klassikko elokuvan viidakkokirja, mutta kuka on kirjoittanut alkuper\u00e4isen kirjan joka kantaa samaa nime\u00e4?",
+    "answer":"(Joseph) Rudyard Kipling",
+    "comment":null
+  },
+  {
+    "question":"Ketk\u00e4 kaksi henkil\u00f6\u00e4 ovat ainoat, jotka ovat voittaneet oscar-palkinnon postuumisti?",
+    "answer":"Heath Ledger (Dark Knight 2008), Peter Finch (Network 1976)",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 nimityst\u00e4 k\u00e4ytet\u00e4\u00e4n eurooppalaisesta avaruuslent\u00e4j\u00e4st\u00e4?",
+    "answer":"Spationautti",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 tutun alkoholijuoman Alko lanseerasi vuonna 1932 silloisella nimell\u00e4 \u201cViinake\u201d?",
+    "answer":"Gambina",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Maan merkitt\u00e4vin kasvihuonekaasu, joka aiheuttaa noin 36-70 % kasvihuoneilmi\u00f6st\u00e4?",
+    "answer":"Vesih\u00f6yry",
+    "comment":null
+  },
+  {
+    "question":"Oscar-palkinnolla palkitaan elokuva-alan toimijoita ja Emmy-palkinnolla televisioalan. Mink\u00e4 alan palkinto on Tony?",
+    "answer":"Teatterialan",
+    "comment":null
+  },
+  {
+    "question":"Tehotyt\u00f6t, alkuper\u00e4iselt\u00e4 nimelt\u00e4\u00e4n The Powerpuff Girls, on lasten piirrossarja, joka kertoo kolmesta eritt\u00e4in voimakkaasta pikkutyt\u00f6st\u00e4. Luettele n\u00e4iden kolmen pikkutyt\u00f6n suomenkieliset nimet.",
+    "answer":"Papu, Pipa, Poppana",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 kirjasta tunnettu lainaus \"tarjous, josta ei voi kielt\u00e4yty\u00e4\" on alun perin l\u00e4ht\u00f6isin?",
+    "answer":"Kummiset\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 monikansallinen yritys omistaa tunnetut suomalaiset tuotemerkit Arabia, Hackman ja Iittala?",
+    "answer":"Fiskars Oyj Abp",
+    "comment":null
+  },
+  {
+    "question":"Jackie ja Mack Robinson tunnetaan er\u00e4in\u00e4 urheiluhistorian parhaimpina veljespareina, tosin veljeksen eiv\u00e4t kilpailleet samassa lajissa, vaan kumpikin oli parhaimmistoa omassa lajissaan. Mitk\u00e4 olivat n\u00e4m\u00e4 urheilulajit, joista kumpikin tunnetaan.",
+    "answer":"Jackie: baseball, mack: pikamatkat (100m juoksu)",
+    "comment":"Jackie robinsonnin on yksi kaikkien aikojen baseball pelaajista ja mack saavutti hopeaa berliinin olympialaisissa 1936 100 metrill\u00e4 j\u00e4\u00e4den vain jesse owensin taakse."
+  },
+  {
+    "question":"mainitse molemmat urheiilijat, heid\u00e4n pelinumerot ja pelaamansa liigat, jotka ovat ainoat urheilijat, joiden numerot on j\u00e4\u00e4dytetty jossain pohjois-amerikan big4 liigoissa koko liigan laajuisesti. ",
+    "answer":"wayne gretzky, 99, NHL; Jackie Robinson, 42, MLB",
+    "comment":null
+  },
+  {
+    "question":"Mihin suurempaan t\u00e4htikuvioon Otava sis\u00e4ltyy?",
+    "answer":"Iso Karhu (Ursa Major)",
+    "comment":null
+  },
+  {
+    "question":"Kuka piirroshahmo tunnetaan lausahduksesta \u201cYabba-dabba-doo\u201d?",
+    "answer":"Retu Kivinen (Fred Flintstone)",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen on Eminemin viime kuun lopulla julkaisema albumi, joka on h\u00e4nen kymmenes studioalbumi?",
+    "answer":"Kamikaze",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 olivat Romeon ja Julian sukunimet William Sahkespearen samannimisess\u00e4 tragedian\u00e4ytelm\u00e4ss\u00e4?",
+    "answer":"Montague (Romeo) ja Capulet (Julia)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Swazimaan uusi virallinen nimi kuningas Mswatin III:n muutettua sen viime huhtikuussa?",
+    "answer":"eSwatini",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa ajettiin F1-sarjan ensimm\u00e4inen virallinen osakilpailu?",
+    "answer":"Isossa-Britanniassa",
+    "comment":"Kyseinen kilpailu ajettiin Silverstonen radalla vuonna 1950"
+  },
+  {
+    "question":"Mik\u00e4 on ensimm\u00e4isen ja my\u00f6s tunnetuimman Spider-Manin eli h\u00e4m\u00e4h\u00e4kkimiehen oikea nimi?",
+    "answer":"Peter Parker",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 thalassofobiasta k\u00e4rsiv\u00e4 ihminen pelk\u00e4\u00e4?",
+    "answer":"Merta",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta Yhdysvaltain presidentti\u00e4 on joutunut virassa ollessaan salamurhatuksi?",
+    "answer":"4",
+    "comment":"Abraham Lincoln (1865), James Garfield (1881), William McKinley (1901) ja John F. Kennedy (1963), nelj\u00e4 muuta on kuollut virassa: william h. harrison (1841), zachary taylor (1850), warren g harding(1923), frqnklin d roosevelt 1945"
+  },
+  {
+    "question":"Kenen naispuolisen pop-artistin n\u00e4nni vilahti suorassa l\u00e4hetyksess\u00e4 vuoden 2004 Superbowlin v\u00e4liaikashow'n lopussa",
+    "answer":"Janet Jackson",
+    "comment":"T\u00e4m\u00e4 kohu ja siit\u00e4 levinneet videotallenteet oli huhun mukaan yksi avaintekij\u00f6ist\u00e4 miksi Youtube perustettiin."
+  },
+  {
+    "question":"Jeff Bezos julistettiin Forbes-lehden toimesta maailman rikkaimmaksi mieheksi kuluvan viime helmikuussa. Mink\u00e4 yhti\u00f6n toimitusjohtaja Bezos on?",
+    "answer":"Amazon",
+    "comment":"H\u00e4nen varallisuutensa rikkoi 150 miljardin Yhdysvaltain dollarin rajan hein\u00e4kuussa"
+  },
+  {
+    "question":"Hjallis Harkimo kertoi eroavansa kokoomuksesta 19. huhtikuuta. Mink\u00e4 nimisen poliittisen liikkeen h\u00e4n perusti mm. Tuomas Enbusken ja Mikael Jungnerin kanssa muutama p\u00e4iv\u00e4 eron j\u00e4lkeen?",
+    "answer":"Liike Nyt",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli ensimm\u00e4inen 1 miljardi katsomiskertaa saavuttanut video youtubessa, joka on tehty ennen youtuben synty\u00e4?",
+    "answer":"Guns n'Roses - November Rain",
+    "comment":null
+  },
+  {
+    "question":"Kuka seuraavista skeittaajista kantaa lempinime\u00e4 \"Godfather of street skateboarding\" A)Rob Dyrdek B)Tony Hawk C)Eric Koston D)Rodney Mullen",
+    "answer":"D",
+    "comment":"Rodney Mullen on kehitt\u00e4nyt suuren osan skeittauksen tempuista, kuten kickflipin"
+  },
+  {
+    "question":"Mit\u00e4 modisti tekee ty\u00f6kseen?",
+    "answer":"Hattuja",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 suomalainen teos \u00e4\u00e4nestettiin 2004 suomessa kaikkien aikojen suosituimmaksi lastenkirjaksi?",
+    "answer":"Mestaritontun seikkailut",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna viimeisen kerran pystyi ostamaan kahden t\u00e4hden jaloviinaa alkoista?",
+    "answer":"2012",
+    "comment":"2 t\u00e4hden jaloviinaa myytiin vuosina 1932-1948, mutta sit\u00e4 tuli vuonna 2012 rajoitettu er\u00e4 myyntiin altian 80-vuotisjuhlan kunniaksi"
+  },
+  {
+    "question":"Mik\u00e4 on ainoa viina, jota suomen valtio on jakanut ilmaiseksi kansalaisille?",
+    "answer":"Jaloviina",
+    "comment":"Jallua jaettiin pullo per 5 miest\u00e4 mannerheimin 75 vuotisp\u00e4iv\u00e4n kunniaksi 1942, t\u00e4ll\u00f6in jaettu jallu oli ns. nollan t\u00e4hden jallua, jossa konjakkia oli vain v\u00e4riksi"
+  },
+  {
+    "question":"Mist\u00e4 maasta energiajuoma redbull on kotoisin?",
+    "answer":"It\u00e4valta",
+    "comment":"Juoma pohjautuu thaimaalaiseen juomaan  Krating Daeng"
+  },
+  {
+    "question":"Kun tehd\u00e4\u00e4n letti\u00e4 kolmesta s\u00e4ikeest\u00e4 ja reunimmainen s\u00e4ie vied\u00e4\u00e4n aina toisen yli, kutsutaan letti\u00e4 ranskalaiseksi letiksi, miksi kutsutaan letti\u00e4, kun s\u00e4ie vied\u00e4\u00e4n toisen alitse?",
+    "answer":"Hollantilainen letti",
+    "comment":null
+  },
+  {
+    "question":"Kenen nimi on mainittu eniten Oscar-palkintojen kiitospuheissa?",
+    "answer":"Steven Spielberg (42 kertaa) L\u00e4hde: Vocativ",
+    "comment":"Top 10 -lista on ohjaajien dominoima mutta mm. sijalta 6 l\u00f6ytyy Jumala"
+  },
+  {
+    "question":"Luettele kaikki Jupiterin nelj\u00e4 Galilein kuuta.",
+    "answer":"Ganymede, Kallisto, Europa ja Io",
+    "comment":null
+  },
+  {
+    "question":"Pergamenttia k\u00e4ytettiin aikoinaan laajasti kirjoitusalustana, mutta mist\u00e4 se valmistettiin?",
+    "answer":"El\u00e4inten nahasta (yleens\u00e4 lammas, vuohi tai vasikka)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on maailman arvokkain yritys, jonka osakkeiden kokonaisarvo hiljattain rikkoi biljoonan Yhdysvaltain dollarin haamurajan?",
+    "answer":"Apple",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli alunperin Lucius Malfoyn kotitontun nimi Harry Potter -sarjassa?",
+    "answer":"Dobby",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Euroopan Unionin v\u00e4kirikkain kaupunki? (Ei sis\u00e4ll\u00e4 suurkaupunkialuetta)",
+    "answer":"Lontoo",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 aakkonen on morsen aakkosissa -?",
+    "answer":"t",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 maut l\u00f6ytyv\u00e4t Metropolitan-j\u00e4\u00e4tel\u00f6st\u00e4?",
+    "answer":"Vanilja, suklaa ja mansikka",
+    "comment":"Tunnetaan Suomessa yksinkertaisesti TRIO-j\u00e4\u00e4tel\u00f6n\u00e4"
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 radiokanava YleX tunnettiin ennen?",
+    "answer":"Radiomafia",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 oppiainetta Professori Kalkaros\/Snape opetti p\u00e4\u00e4asiallisesti Tylypahkassa?",
+    "answer":"Taikajuomia",
+    "comment":"H\u00e4n my\u00f6s opetti puolustusta pimeyden voimia vastaan kirjassa Harry Potter ja Puoliverinen Prinssi"
+  },
+  {
+    "question":"Moni suomalainen julkisuuden henkil\u00f6 on viimevuosina julkaissut omael\u00e4m\u00e4kerran ja yksi n\u00e4ist\u00e4 henkil\u00f6ist\u00e4 on kimi r\u00e4ikk\u00f6nen. T\u00e4n\u00e4 vuonna Suzukan GP:n alla kimilt\u00e4 tuli ulos toinenkin kirja. Mink\u00e4lainen kirja oli kyseess\u00e4?",
+    "answer":"Haiku-kirja\/runokirja",
+    "comment":null
+  },
+  {
+    "question":"pewdiepie on pitk\u00e4\u00e4n tunnettu youtuben tilatuimpana kanavana. Mik\u00e4 youtube kanava kuitenkin on l\u00e4hip\u00e4ivin\u00e4 ohittamassa pewdiepien tilaajam\u00e4\u00e4r\u00e4ss\u00e4?",
+    "answer":"T-series",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 sanoista tulevat edesmenneen legendaarisen r\u00e4pp\u00e4rin Notorious B.I.G.:n nimess\u00e4 esiintyv\u00e4 lyhenne B.I.G.?",
+    "answer":"Business Instead of Game ja kuolemansa j\u00e4lkeen Books Instead of Guns",
+    "comment":null
+  },
+  {
+    "question":"Pojun biisiss\u00e4 Kruunalla kotiin lauletaan Esson baarista. Baaritoiminta ei kuintenkaan ollut Esson p\u00e4\u00e4asiallinen toimiala, vaan mik\u00e4 Esso oikeasti oli?",
+    "answer":"Huoltoasema",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 tulee nimitys \"allit\", mik\u00e4 tarkoittaa etenkin naisilla i\u00e4n my\u00f6t\u00e4 esiintyvi\u00e4 roikkuvia k\u00e4sivarisen ojentajalihaksia?",
+    "answer":"Allina \"Alli\" Paasikivelt\u00e4, juho kusti paasikiven vaimo",
+    "comment":null
+  },
+  {
+    "question":"Montako leip\u00e4\u00e4 on kivell\u00e4 heitetty maailman enn\u00e4tys leipienheitossa?",
+    "answer":"88",
+    "comment":null
+  },
+  {
+    "question":"Kuinka moni entinen Suomen presidentti oli virassaan alle yhden kauden verran?",
+    "answer":"3 (Kallio, Ryti ja Mannerheim)",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 el\u00e4inluokkaan kasuaarit kuuluvat?",
+    "answer":"Lintuihin",
+    "comment":"Kasuaari on suuri lentokyvyt\u00f6n lintu, joka el\u00e4\u00e4 Koillis-Australiassa Uudessa-Guineassa sek\u00e4 niiden l\u00e4hisaaristossa. Se tunnetaan my\u00f6s maailman vaarallisimpana lintuna"
+  },
+  {
+    "question":"Mink\u00e4 niminen on \u00e4skett\u00e4in ensi-iltansa saanut Freddie Mercurysta kertova elokuva",
+    "answer":"Bohemian Rhapsody",
+    "comment":null
+  },
+  {
+    "question":"Kuka suomalainen voitti viikonloppuna Starcraft 2:n maailmanmestaruuden?",
+    "answer":"Joona Sotala (nick on Serral)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 nykyinen valtio antoi ensimm\u00e4isen\u00e4 naisille \u00e4\u00e4nioikeuden?",
+    "answer":"Uusi-Seelanti",
+    "comment":"Naiset saivat \u00e4\u00e4nioikeuden Uudessa-Seelannissa vuonna 1893"
+  },
+  {
+    "question":"Kuka saksalainen muusikko esiintyi TTY:ll\u00e4 s\u00e4hk\u00f6p\u00e4ivill\u00e4 1.11. bommarissa?",
+    "answer":"Master Blaster",
+    "comment":null
+  },
+  {
+    "question":"NHL j\u00e4rjest\u00e4\u00e4 t\u00e4ll\u00e4 kaudella muutaman ottelun eruroopassa osana global series projektia ja kaksi ottelua pelattiin Helsingiss\u00e4, mitk\u00e4 kaksi nhl-joukkuetta kohtasivat n\u00e4iss\u00e4 otteluissa?",
+    "answer":"Florida Panthers, Winnipeg Jets",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 david pit\u00e4\u00e4 k\u00e4dess\u00e4\u00e4n Michelangelon david-veistoksessa?",
+    "answer":"linko",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Suomen pisin kaupunki nimelt\u00e4\u00e4n?",
+    "answer":"Kristiinankaupunki",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 kahdesta alkuaineesta maapallon ydin p\u00e4\u00e4osin koostuu?",
+    "answer":"Rauta ja nikkeli",
+    "comment":null
+  },
+  {
+    "question":"Miksi kutsutaan Aurinkokunnan kaukaisinta osaa, joka sijaitsee Pluton tuolla puolen?",
+    "answer":"Kuiperin vy\u00f6hykkeeksi",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta suomalaista on voittanut Nobel-palkinnnon?",
+    "answer":"5",
+    "comment":"Suomalaisille on my\u00f6nnetty palkinto kaikissa muissa kategorioissa paitsi fysiikassa"
+  },
+  {
+    "question":"Mik\u00e4 valittiin Suomen kansallisruoaksi kansan\u00e4\u00e4nestyksess\u00e4 vuonna 2016?",
+    "answer":"Ruisleip\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 el\u00e4in on Narnia-kirjasarjasta tuttu Aslan?",
+    "answer":"Leijona",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 horoskooppimerkki on latinaksi Sagittarius?",
+    "answer":"Jousimies",
+    "comment":null
+  },
+  {
+    "question":"Mille maalle kuuluu maailman pohjoisin tulivuori Erebus?",
+    "answer":"Norjalle",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 linnun n\u00e4kemisest\u00e4 ei sanonnan mukaan ole en\u00e4\u00e4 p\u00e4iv\u00e4\u00e4k\u00e4\u00e4n kes\u00e4\u00e4n?",
+    "answer":"P\u00e4\u00e4skynen",
+    "comment":"Koko sananlasku\/runo kuuluu: Kuu kiurusta kes\u00e4\u00e4n, puoli kuuta peipposesta, v\u00e4st\u00e4r\u00e4kist\u00e4 v\u00e4h\u00e4sen, p\u00e4\u00e4skysest\u00e4 ei p\u00e4iv\u00e4\u00e4k\u00e4\u00e4n"
+  },
+  {
+    "question":"Kuka historiallinen henkil\u00f6 tunnettiin nimell\u00e4 \"Il Duce\"?",
+    "answer":"Mussolini",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 titteli oli Suomen valtionp\u00e4\u00e4miehell\u00e4 Ven\u00e4j\u00e4n vallan aikaan?",
+    "answer":"Kenraalikuvern\u00f6\u00f6ri",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 ruokana kynsilaukka tunnetaan paremmin?",
+    "answer":"Valkosipuli",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on nimelt\u00e4\u00e4n kiitosp\u00e4iv\u00e4n j\u00e4lkeinen p\u00e4iv\u00e4, joka on tunnettu kauppjoen suurista alennusmyynneist\u00e4?",
+    "answer":"Black Friday\/Musta Perjantai",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta t\u00e4hte\u00e4 kuuluu Orionin vy\u00f6h\u00f6n?",
+    "answer":"3",
+    "comment":null
+  },
+  {
+    "question":"Mihin yhti\u00f6\u00f6n liitet\u00e4\u00e4n usein lause \"Meid\u00e4n \u00e4iti tekee teid\u00e4n \u00e4itien ruoat\"?",
+    "answer":"Saarioinen",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli shampanjasta tunnetun Dom Perignonin ammatti?",
+    "answer":"Munkki",
+    "comment":null
+  },
+  {
+    "question":"Ket\u00e4 pidet\u00e4\u00e4n ensimm\u00e4isen suomen kielisen\u00e4 runoilijana ja kirjailijana?",
+    "answer":"Jaakko Juteini",
+    "comment":null
+  },
+  {
+    "question":"Kenen suomalaiskirjailijan esikoiskokoelma oli Maaliskuun lauluja?",
+    "answer":"Eino Leino",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 ilmalaiva paloi ja tuhoutui 6. maaliskuuta 1937?",
+    "answer":"Hindenburg",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Virve Rostin taiteilijanimi?",
+    "answer":"Vicky",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 japanilainen tarkoittaa huutaessaan \"banzai\"?",
+    "answer":"El\u00e4k\u00f6\u00f6n (kirjaimellisesti 10 000 vuotta)",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 v\u00e4risell\u00e4 liekill\u00e4 vety palaa ilmassa?",
+    "answer":"Sinisell\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 sis\u00e4elin on vahingoittunut, jos ihminen k\u00e4rsii sokeritaudista?",
+    "answer":"Haima",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 Pariisin tunnettua rakennusta alettiin rakentaa 1546?",
+    "answer":"Louvre",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 sinulla on tavallista suurempi, jos sinulla on makrokefalia?",
+    "answer":"P\u00e4\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli Ruotsin nykyisen kuninkaan (Kaarle XVI Kustaa) is\u00e4?",
+    "answer":"Prinssi Kustaa Adolf",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 pulmateht\u00e4v\u00e4 esiintyi ensimm\u00e4isen kerran New York World - lehdess\u00e4 21. joulukuuta 1913?",
+    "answer":"Ristisana \/ ristikko",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 rakennuksesta tuli maailman korkein kun se valmistui 1889?",
+    "answer":"Eiffel torni",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 ihmisruumiissa on kaarik\u00e4yt\u00e4v\u00e4?",
+    "answer":"Korvassa",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 kielell\u00e4 Suomi on Suobma?",
+    "answer":"Saameksi",
+    "comment":null
+  },
+  {
+    "question":"Kuka esitti Michael Corleonea Kummised\u00e4ss\u00e4?",
+    "answer":"Al Pacino",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 kirkkopyh\u00e4\u00e4 vietet\u00e4\u00e4n Johannes Kastajan syntym\u00e4n johdosta?",
+    "answer":"Juhannusta",
+    "comment":null
+  },
+  {
+    "question":"Montako kertaa olympialaiset on pidetty afrikassa?",
+    "answer":"Ei koskaan \/ 0",
+    "comment":null
+  },
+  {
+    "question":"Kenell\u00e4 Lumikin k\u00e4\u00e4pi\u00f6ist\u00e4 oli jatkuva flunssa?",
+    "answer":"Nuhanen\u00e4ll\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 huilusoitinta englantilaiset kutsuvat nimell\u00e4 recorder?",
+    "answer":"Nokkahuilu",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 kuuluisalla parilla on nimip\u00e4iv\u00e4 jouluaattona?",
+    "answer":"Aatami ja Eeva",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli V\u00e4in\u00e4m\u00f6isen \u00e4iti?",
+    "answer":"Ilmatar",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli Finnairin nimi ennenkuin siit\u00e4 tuli Finnair?",
+    "answer":"Aero",
+    "comment":null
+  },
+  {
+    "question":"Millaisia vaatekappaleita ovat supikkaat?",
+    "answer":"Jalkineita",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 kansallisteoksemme julkaiseminen keskeytettiin murskaavan arvostelun takia?",
+    "answer":"Seitsem\u00e4n veljest\u00e4",
+    "comment":"Ilmestyess\u00e4\u00e4n kirja sai kuitenkin niukasti ymm\u00e4rryst\u00e4 kirjallisuuspiireiss\u00e4, koska ajan henkeen kuuluivat kansallismieliset ihanteet, idyllisen kuvan antaminen Suomesta ja kansan kuvaaminen ylev\u00e4sti"
+  },
+  {
+    "question":"Ket\u00e4 Beethoven nimitti kaikkien aikojen suurimmaksi s\u00e4velt\u00e4j\u00e4ksi?",
+    "answer":"Georg Friedrich H\u00e4ndeli\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Jurva sijaitsee Etel\u00e4-Pohjanmaalla ja on nykyisell\u00e4\u00e4n osa Kurikan kuntaa. Mist\u00e4 pienteollisuustuotteista se on kuuluisa?",
+    "answer":"Huonekaluista",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 eurooppalaista p\u00e4\u00e4kaupunkia on kutsuttu tornien ja kattojensa takia \"kultaiseksi kaupungiksi\"?",
+    "answer":"Prahaa",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 kirjan ilmestytty\u00e4 V\u00e4in\u00f6 Linna saattoi lopettaa ty\u00f6ns\u00e4 tehtaassa?",
+    "answer":"Tuntematon sotilas",
+    "comment":null
+  },
+  {
+    "question":"Kenell\u00e4 oli vuoteen 1995 asti yksinoikeus julkaista almanakkaa Suomessa?",
+    "answer":"Helsingin yliopisto",
+    "comment":"Suomessa Helsingin yliopistolla ja sen edelt\u00e4jill\u00e4 oli vuodesta 1811 aina vuoden 1995 alkuun saakka yksinoikeus almanakkojen ja kalenterien julkaisemiseen."
+  },
+  {
+    "question":"Mink\u00e4 niminen oli oikeuden jumalatar roomalaisessa mytologiassa?",
+    "answer":"Justitia",
+    "comment":null
+  },
+  {
+    "question":"Montako seepralajia on olemassa? (ei sukupuuttoon kuolleita)",
+    "answer":"Kolme",
+    "comment":"Aro-, vuori- ja Grevynseepra"
+  },
+  {
+    "question":"Mik\u00e4 on Suomen yleisin kadun-\/tiennimi?",
+    "answer":"Rantatie",
+    "comment":"l\u00e4hde: kansalaisen karttapaikka"
+  },
+  {
+    "question":"Mik\u00e4 on ensimm\u00e4inen valtio aakkosj\u00e4rjestyksess\u00e4? (Suomen kielell\u00e4)",
+    "answer":"Afganistan",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 animaatiosarja Peanuts tunnetaan Suomessa?",
+    "answer":"Tenavat",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa sijaitsee Euroopan korkein aktiivinen tulivuori Etna?",
+    "answer":"Italiassa",
+    "comment":null
+  },
+  {
+    "question":"Miksi kutsuttiin Keski-Euroopan poliittisesti kahteen osaan jakavaa rajaa kylm\u00e4n sodan aikana?",
+    "answer":"Rautaesirippu",
+    "comment":"T\u00e4n voi ehk\u00e4 muotoilla paremminki"
+  },
+  {
+    "question":"Mill\u00e4 toisella nimell\u00e4 Ison-Britannian lippu tunnetaan?",
+    "answer":"Union jack",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 elokuvassa on keski\u00f6ss\u00e4 DMC DeLorean -mallinen auto?",
+    "answer":"Paluu tulevaisuuteen (Back to the Future)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on maailman vanhin k\u00e4yt\u00f6ss\u00e4 oleva kansallislippu?",
+    "answer":"Tanskan lippu",
+    "comment":"Tunnetaan my\u00f6s nimell\u00e4 Dannebrog"
+  },
+  {
+    "question":"Antarktis on jaettu kuuden valtion toimesta aluevaltuksiin tieteellisi\u00e4 tutkimuksia varten. Mill\u00e4 valtiolla on pinta-alaltaan suurin valtaus Antarktiksella?",
+    "answer":"Australia",
+    "comment":"Muut maat ovat Ranska, Chile, Argentiina, Norja, Uusi-Seelanti ja Iso-Britannia"
+  },
+  {
+    "question":"Miss\u00e4 maassa valittiin ensimm\u00e4inen naispuolinen p\u00e4\u00e4ministeri?",
+    "answer":"Sri Lanka (silloin Ceylon)",
+    "comment":"Sirimavo Bandaranaike oli p\u00e4\u00e4ministerin\u00e4 vuodesta 1970-1977"
+  },
+  {
+    "question":"Mik\u00e4 on Suomen kielen yleisin sana Wiktionaryn mukaan?",
+    "answer":"olla",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 kaupungista viimeisimm\u00e4n SuperBowlin (pelattu 3.2.2019) voittanut Patriots on kotoisin?",
+    "answer":"Bostonista",
+    "comment":"Joukkue on yksi harvoista Big4 -joukkueista joiden nimess\u00e4 ei ole kaupungin nime\u00e4"
+  },
+  {
+    "question":"Miss\u00e4 maakunnassa sijaitsee Piippola?",
+    "answer":"Pohjois-Pohjanmaa",
+    "comment":"Piippolan kunta liittyi vuonna 2009 osaksi Siikalatvan kuntaa"
+  },
+  {
+    "question":"Mink\u00e4 puun hedelmi\u00e4 Aatamia ja Eevaa oli kielletty sy\u00f6m\u00e4st\u00e4 Raamatun luomiskertomuksessa?",
+    "answer":"Hyv\u00e4n- ja pahantiedon puu",
+    "comment":null
+  },
+  {
+    "question":"Miksi kutsutaan kirjallisuudessa esinett\u00e4 tai asiaa, joka vaikuttaa aluksi t\u00e4ysin ep\u00e4olennaiselta, mutta joka muuttuu tarinan edetess\u00e4 merkitt\u00e4v\u00e4\u00e4n asemaan juonen kannalta?",
+    "answer":"Tshehovin ase (pyssy, pistooli)",
+    "comment":"Tekniikka on saanut nimens\u00e4 Anton Tshehovin \"Vanja-eno\"-n\u00e4ytelm\u00e4st\u00e4"
+  },
+  {
+    "question":"5.2. vietettiin kiinalaista uutta vuotta. Mink\u00e4 el\u00e4imen vuosi alkoi kiinalaisen horoskoopin mukaan?",
+    "answer":"Sika",
+    "comment":"Viime vuonna oli koiran vuosi ja ensi vuonna tulee olemaan rotan vuosi"
+  },
+  {
+    "question":"Mihin legendaariseen elokuvahahmoon usein liitet\u00e4\u00e4n sana \"supercalifragilisticexpialidocious\"",
+    "answer":"Maija Poppanen (Mary Poppins)",
+    "comment":"Viime vuonna (2018) julkaistu Maija Poppasen Paluu julkaistiin 54 vuotta alkuper\u00e4isen Disneyn Maija Poppasen j\u00e4lkeen"
+  },
+  {
+    "question":"Mainitse kaksi yliopistoa, jotka kuuluvat Ivy Leagueen.",
+    "answer":"Mitk\u00e4 tahansa kaksi seuraavista: Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, University of Pennsylvania, Princeton University, Yale University",
+    "comment":"Kaikki ovat tasaisesti sijoittuneet maailman paarhaiden yliopistojen joukkoon."
+  },
+  {
+    "question":"Suomen vanhin edelleen ilmestyv\u00e4 suomalainen sanomalehti on \u00c5bo Underr\u00e4ttelser. Min\u00e4 vuonna lehti ilmestyi ensimm\u00e4isen kerran?",
+    "answer":"1824",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna Suomi osallistui ensimm\u00e4ist\u00e4 kertaa olympialaisiin?",
+    "answer":"1908",
+    "comment":"Olympialaiset j\u00e4rjestettiin tuolloin Lontoossa."
+  },
+  {
+    "question":"Mik\u00e4 oli ensimm\u00e4inen suomen kielell\u00e4 julkaistu kirja?",
+    "answer":"Abckiria (Abc-kirja)",
+    "comment":"Kirjan kirjoitti Mikael Agricola ja se julkaistiin vuonna 1543"
+  },
+  {
+    "question":"Facebook on maailman k\u00e4ytetyin sosiaalinen media 2,2 miljardilla kuukausittaisella k\u00e4ytt\u00e4j\u00e4ll\u00e4\u00e4n. Min\u00e4 vuonna Facebook on julkaistu?",
+    "answer":"2004",
+    "comment":null
+  },
+  {
+    "question":"Jalkapallon MM-kisoja on j\u00e4rjestetty vuodesta 1930 l\u00e4htien. Miss\u00e4 maassa j\u00e4rjestettiin ensimm\u00e4iset jalkapallon MM-kisat?",
+    "answer":"Uruguayssa",
+    "comment":"Turnauksen voitti my\u00f6s Uruguay"
+  },
+  {
+    "question":"Mink\u00e4 mediayhti\u00f6n alle kuuluvat mm. Aamulehti ja Iltalehti?",
+    "answer":"Alma (Media)",
+    "comment":null
+  },
+  {
+    "question":"Ainej\u00e4rjest\u00f6 on yleens\u00e4 yliopiston tai korkeakoulun opiskelijakunnan piiriss\u00e4 toimiva yhdistys, jonka tarkoituksena on yhdist\u00e4\u00e4 saman oppiaineen tai alan opiskelijoita, ajaa n\u00e4iden etuja ja j\u00e4rjest\u00e4\u00e4 toimintaa. Mik\u00e4 on Suomen vanhin ainej\u00e4rjest\u00f6?",
+    "answer":"Teologian ylioppilaiden tiedekuntayhdistys",
+    "comment":"Ainej\u00e4rjest\u00f6 on perustettu vuonna 1853"
+  },
+  {
+    "question":"Mainitse kaksi valtiota, jotka sijaitsevat Kaspianmeren rannikolla.",
+    "answer":"Ven\u00e4j\u00e4, Kazakhstan, Iran, Azerbaijan, Turkmenistan",
+    "comment":"Nimest\u00e4\u00e4n huolimatta Kaspianmeri on j\u00e4rvi."
+  },
+  {
+    "question":"Montako markkaa Erottaja maksoi alunperin Monopolissa? (Suomalaisessa versiossa)",
+    "answer":"8000mk",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Australian Kookossaarten suurin vientituote?",
+    "answer":"Kookosp\u00e4hkin\u00e4t",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 tutkinnon saa, kun valmistuu kauppaopistosta?",
+    "answer":"Merkonomi",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 kalavalmistetta k\u00e4ytet\u00e4\u00e4n janssoninkiusauksen valmistuksessa?",
+    "answer":"Anjovis",
+    "comment":null
+  },
+  {
+    "question":"Mihin kuningaskuntaan Hamlet sijoittuu?",
+    "answer":"Tanskaan",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta j\u00e4sent\u00e4 kuului Sormuksen Ritareihin Taru Tormusten Herrasta-kirjassa?",
+    "answer":"9",
+    "comment":"N\u00e4m\u00e4 ovat Frodo, Sam, Gandalf, Legolas, Gimli, Aragorn, Boromir, Merri ja Pippin"
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 kutsutaan Australiassa el\u00e4vi\u00e4 villikoiria?",
+    "answer":"Dingo",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 kaupungit ovat Afrikan T\u00e4hti -lautapelin aloitus- ja lopetuskaupungit?",
+    "answer":"Kairo ja Tanger (Cairo, Tangiers)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Ruotsin kuningassuvun sukunimi?",
+    "answer":"Bernadotte",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen kadonnut manner legendan mukaan sijaitsi Tyynell\u00e4merell\u00e4?",
+    "answer":"Mu",
+    "comment":null
+  },
+  {
+    "question":"Kuka s\u00e4velsi Maamme-laulun?",
+    "answer":"Frederic Pacius",
+    "comment":null
+  },
+  {
+    "question":"Mainitse kaikki nelj\u00e4 kilpauintityyli\u00e4.",
+    "answer":"Vapaa-, selk\u00e4-, rinta- ja perhosuinti \/\/ Freestyle, backstroke, breaststroke, and butterfly swimming.",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 ovat Viron kaksi suurinta saarta?",
+    "answer":"Hiidenmaa ja Saarenmaa",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 sanoista tulee lyhenne DVD?",
+    "answer":"Digital Versatile Disc",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 Rauhallisuudenmeri sijaitsee?",
+    "answer":"Kuussa",
+    "comment":null
+  },
+  {
+    "question":"Millainen ihminen on hyperbolinen?",
+    "answer":"Liioitteleva",
+    "comment":null
+  },
+  {
+    "question":"Montako aaria on yhdess\u00e4 hehtaarissa?",
+    "answer":"100",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 L\u00e4hi-id\u00e4n maassa sijaitsee Palmyran muinaiskaupunki",
+    "answer":"Syyriassa",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 kielest\u00e4 ventti-korttipelin nimi on l\u00e4ht\u00f6isin?",
+    "answer":"Ranskasta",
+    "comment":"Ranskaksi numero 21 on \"vingt-et-un\""
+  },
+  {
+    "question":"Mik\u00e4 suomalainen juoma tuli myyntiin Alkoon vuonna 1953?",
+    "answer":"Koskenkorva",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 ovat luterilaisen kirkon kaksi sakramenttia eli pyh\u00e4\u00e4 toimitusta?",
+    "answer":"Kaste ja konfirmaatio",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli entisen Etel\u00e4-Suomen l\u00e4\u00e4nin p\u00e4\u00e4kaupunki?",
+    "answer":"H\u00e4meenlinna",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 lyhyemm\u00e4ll\u00e4 nimell\u00e4 nimitet\u00e4\u00e4n naarasmetsoa?",
+    "answer":"Koppelo",
+    "comment":"Urosta taas kutsutaan \"ukkometsoksi\" tai \"homenokaksi\""
+  },
+  {
+    "question":"Mink\u00e4 el\u00e4imen p\u00e4\u00e4 on griippi-nimisell\u00e4 taruolennolla?",
+    "answer":"Kotka",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 tuomion sai itsemurhan yrityksest\u00e4 Viktoriaanisessa Lontoossa?",
+    "answer":"Kuolemantuomion",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 Helsingin Yliopisto tunnettiin vuoteen 1827 asti?",
+    "answer":"(Keisarillinen) Turun Akatemia",
+    "comment":"Instituution toiminta siirrettiin Helsinkiin Turun palon takia. Sana keisarillinen esiintyi nimess\u00e4 vuodet 1809-1827"
+  },
+  {
+    "question":"Mink\u00e4 kansainv\u00e4lisen hyv\u00e4ntekev\u00e4isysj\u00e4rjest\u00f6n lyhenne on MSF?",
+    "answer":"L\u00e4\u00e4k\u00e4rit ilman rajoja (Doctors without borders)",
+    "comment":"Lyhenne tulee Ranskan kielen sanoista M\u00e9decins Sans Fronti\u00e9res"
+  },
+  {
+    "question":"HK:n sininen on kaikille tuttu ruokavalmiste, mutta mik\u00e4 liha konserni valmistaa punaista lenkki\u00e4?",
+    "answer":"Atria",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 joki virtaa Pietarin l\u00e4pi?",
+    "answer":"Neva",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 viljakasvista valmistetaan graham-jauhoja?",
+    "answer":"Vehn\u00e4st\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 tarkoittaa suomeksi vironkielinen sana \"pulmad\"?",
+    "answer":"H\u00e4\u00e4t",
+    "comment":null
+  },
+  {
+    "question":"Ylell\u00e4 alkoi t\u00e4n\u00e4 kev\u00e4\u00e4n\u00e4 uusi animoitu Muumeista kertova sarja. Mik\u00e4 on t\u00e4m\u00e4n sarjan virallinen nimi?",
+    "answer":"Muumilaakso",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 tallissa Kimi R\u00e4ikk\u00f6nen kilpailee t\u00e4ll\u00e4 kaudella?",
+    "answer":"Alfa romeo",
+    "comment":null
+  },
+  {
+    "question":"Suomessa nostettiin hiljattain lippu Haminan 100m korkeaan lipputankoon, joka on siis euroopan korkein liiputanko, muttei maailman esimerkiksi yhdysvalloissa on 120m korkea lipputanko. Mainitse yhdysvaltojen lis\u00e4ksi maa, miss\u00e4 on Haminan lipputankoa korkeampi lipputanko.",
+    "answer":"Saudi-arabia (170m), Tajikistan (165m), Azerbaijan (162m), Pohjois-korea (160m), Turkmenistan (133m), Jordan (130m sek\u00e4 127m), Arabiemiraatit (123m), Pakistan (123m), Malaysia (100m)",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 sanoista tietotekniikasta tuttu lyhenne BIOS tulee?",
+    "answer":"Basic Input-Output System",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 kaatumatauti tunnetaan virallisesti l\u00e4\u00e4ketieteess\u00e4?",
+    "answer":"Epilepsia",
+    "comment":null
+  },
+  {
+    "question":"Suomi p\u00e4\u00e4si ensimm\u00e4ist\u00e4 kertaa  ensimm\u00e4ist\u00e4 kertaa naisten j\u00e4\u00e4kiekon MM-kisojen finaaliin ja h\u00e4visi siell\u00e4 USA:lle. Mink\u00e4 maan Suomi voitti v\u00e4lieriss\u00e4 matkalla finaaliin?",
+    "answer":"Kanada",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna silloinen Yhteiskunnallinen korkeakoulu muutti nimens\u00e4 Tampereen yliopistoksi?",
+    "answer":"1966",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 el\u00e4imell\u00e4 Jeesus ratsasti Jerusalemiin palmusunnuntaina Raamautun mukaan?",
+    "answer":"Aasilla",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 kutsutaan palmusunnuntain j\u00e4lkeist\u00e4 maanantaita kutsutaan?",
+    "answer":"Malkamaanatai",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta p\u00e4iv\u00e4\u00e4 on paastonaika ennen p\u00e4\u00e4si\u00e4ist\u00e4?",
+    "answer":"40",
+    "comment":null
+  },
+  {
+    "question":"Kenen suomalaisen j\u00e4nnityskirjailijan teoksia ovat Ruttokellot ja Karjalan lunnaat?",
+    "answer":"Ilkka Remes",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 meri on Saudi-Arabian ja Egyptin v\u00e4liss\u00e4?",
+    "answer":"Punainenmeri",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 ihmisell\u00e4 on hypotalamus?",
+    "answer":"Aivoissa",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 joki virtaa Kuusankosken l\u00e4pi?",
+    "answer":"Kymijoki",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 kasvi oli Rentun Ruusu Irwinin samannimisess\u00e4 laulussa?",
+    "answer":"Horsma",
+    "comment":null
+  },
+  {
+    "question":"Nebukadnessar oli yhden maailman vanhimman sivistysvaltion kuningas, mutta mink\u00e4?",
+    "answer":"Babylonia",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 sukupuolitauti tunnetaan my\u00f6s nimell\u00e4 syfilis?",
+    "answer":"Kuppa",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta vuotta tuli kuluneeksi Urho Kekkosen syntym\u00e4st\u00e4 vuonna 2000?",
+    "answer":"100 vuotta",
+    "comment":null
+  },
+  {
+    "question":"Kuka Tuntemattoman sotilaan henkil\u00f6ist\u00e4 v\u00e4itti sy\u00f6v\u00e4ns\u00e4 rautaa ja paskantavansa kettinki\u00e4?",
+    "answer":"Koskela",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 asetyylisalisyylihappo rekister\u00f6itiin vuonna 1899?",
+    "answer":"Aspirin",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 lajissa pelaajat yritt\u00e4v\u00e4t p\u00e4\u00e4st\u00e4 mahdollisimman l\u00e4helle snadia? (Snadi on alunperin nimelt\u00e4\u00e4n cochonnet, jos tarvii k\u00e4\u00e4nt\u00e4\u00e4)",
+    "answer":"Petankissa",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 antropofagi harrastaa?",
+    "answer":"Ihmissy\u00f6nti\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 valtio ly\u00f6tti ensimm\u00e4isen\u00e4 olympiarahan nykyaikaisten olympialaisten kunniaksi",
+    "answer":"Suomi",
+    "comment":null
+  },
+  {
+    "question":"Kes\u00e4isin syanobakteeri on paljon otsikoissa. Mik\u00e4 on sen yleisempi nimi?",
+    "answer":"Sinilev\u00e4 (Blue-Green Algae, jos tarvii k\u00e4\u00e4nt\u00e4\u00e4)",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 maasta minestronekeitto on alunperin kotoisin?",
+    "answer":"Italiasta",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 taiteilijanimell\u00e4 Ilkka Sysimets\u00e4 tunnetaan paremmin?",
+    "answer":"Frederik",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 \"art nouveau\" -tyylisuunta tunnettiin Suomessa?",
+    "answer":"Jugend",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa kappaleen \"House of the Rising Sun\" nimikkotalo sijaitsee?",
+    "answer":"New Orleansissa",
+    "comment":null
+  },
+  {
+    "question":"Mis\u00e4 televisiosarjassa keskeisiess\u00e4 osassa on Southforkin tila?",
+    "answer":"Dallasissa",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli ensimm\u00e4inen Rooman keisari, joka joutui salamurhatuksi?",
+    "answer":"Caligula",
+    "comment":"H\u00e4n oli Rooman imperiumin kolmas keisari j\u00e4rjestyksess\u00e4 Augustuksen ja Tiberiuksen j\u00e4lkeen. Julius Caesar ei pit\u00e4nyt keisarin titteli\u00e4 koskaan."
+  },
+  {
+    "question":"Kenet USA:n presidenteist\u00e4 John Wilkes Booth salamurhasi?",
+    "answer":"Abraham Lincoln",
+    "comment":"H\u00e4n oli ensimm\u00e4inen nelj\u00e4st\u00e4 t\u00e4h\u00e4n asti salamurhatusta USA:n presidentist\u00e4"
+  },
+  {
+    "question":"Mik\u00e4 kaupunki sijaitsee Sokeritoppavuoren juurella? (englanniksi Sugarloaf Mountain)",
+    "answer":"Rio de Janeiro",
+    "comment":null
+  },
+  {
+    "question":"Kuka F1-kuski saavutti ensimm\u00e4isen osakilpailuvoittonsa sunnuntaisessa (1.9.) Belgian GP:ss\u00e4?",
+    "answer":"Charles Leclerc",
+    "comment":"H\u00e4n oli my\u00f6s ensimm\u00e4inen monacolainen osakilpailuvoittaja"
+  },
+  {
+    "question":"Kuka Suomen presidenteist\u00e4 oli nuorin virkaan astuessaan?",
+    "answer":"Lauri Kristian Relander",
+    "comment":"\"Reissu-Lasse\" oli vain 41-vuotias aloittaessaan presidenttikautensa"
+  },
+  {
+    "question":"Kuinka monta arkkiatria voi Suomessa olla samanaikaisesti?",
+    "answer":"Yksi",
+    "comment":"Arkkiatri on korkein l\u00e4\u00e4k\u00e4riarvo Suomessa ja sen my\u00f6nt\u00e4\u00e4 Tasavallan Presidentti"
+  },
+  {
+    "question":"Mink\u00e4 maan kansallislaulussa on vanhimmat sanat? a) Ranska, b) USA, c) Japani, d) Suomi",
+    "answer":"c) Japani",
+    "comment":"Japanin kansallislaulu \"Kimi ga yo\" on my\u00f6s yksi maailman lyhimmist\u00e4 kansallislauluista, ja sanojen on arvioitu olevan per\u00e4isin jopa 1200 vuoden takaa."
+  },
+  {
+    "question":"Mihin joukkuepeliin liittyv\u00e4t termit catcher, pitcher ja short stop?",
+    "answer":"Baseballiin",
+    "comment":null
+  },
+  {
+    "question":"Millainen sy\u00f6t\u00e4v\u00e4 vatruska on?",
+    "answer":"(Rahka)piiras",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on sampaani?",
+    "answer":"Vene",
+    "comment":null
+  },
+  {
+    "question":"Miten Kleopatra teki itsemurhan?",
+    "answer":"Myrkyll\u00e4",
+    "comment":"H\u00e4n antoi myrkkyk\u00e4\u00e4rmeen purra itse\u00e4\u00e4n, sen j\u00e4lkeen kun Markus Antonius surmasi itsens\u00e4 miekallaan."
+  },
+  {
+    "question":"Mink\u00e4 kirjan mukaan \"herran pelko on viisauden alku\"? (englanniksi \"fear of the lord is the beginning of wisdom\")",
+    "answer":"Raamatun",
+    "comment":null
+  },
+  {
+    "question":"Kenen luonnontieteilij\u00e4n v\u00e4itet\u00e4\u00e4n sanoneen \"eppur si muove\" eli \"se liikkuu sittenkin\"? (\"And yet it moves\")",
+    "answer":"Galileo Galilei",
+    "comment":null
+  },
+  {
+    "question":"Pikku G esiintyy yliopiston avajaisviikolla Opiskelijoiden omissa bileissa. Mik\u00e4 on Pikku G:n oikea nimi?",
+    "answer":"Henri V\u00e4h\u00e4kainu",
+    "comment":null
+  },
+  {
+    "question":"Legendan mukaan, mit\u00e4 Pandoran lippaaseen j\u00e4i j\u00e4ljelle, kun se avautuessaan p\u00e4\u00e4sti maailmaan kuoleman, sairaudet ja muita pahuuksia?",
+    "answer":"Toivo",
+    "comment":"Pandoran lipas oli alunperin kuvailtu uurnana, mutta my\u00f6hemm\u00e4t k\u00e4\u00e4nn\u00f6kset virheellisesti ovat esitt\u00e4neet sen lippaana"
+  },
+  {
+    "question":"Gheorge Zamfir on romanialainen artisti jonka sanotaan olevan er\u00e4\u00e4n soittimen mestari. Mik\u00e4 soitin on kyseess\u00e4?",
+    "answer":"panhuilu",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on pinta-alaltaan maailman suurin valtio, jolla ei ole merien kanssa rantaviivaa",
+    "answer":"Kazakstan",
+    "comment":"Kaspianmeri, jonka rannalla Kazakstan sijaitsee, on nimest\u00e4\u00e4n huolimatta j\u00e4rvi"
+  },
+  {
+    "question":"Miksi kutsutaan h\u00e4iden 60. vuotisp\u00e4iv\u00e4\u00e4?",
+    "answer":"Timanttih\u00e4iksi",
+    "comment":null
+  },
+  {
+    "question":"Mille suurelle j\u00e4rvelle avautuu n\u00e4kym\u00e4 Kolilta?",
+    "answer":"Pieliselle",
+    "comment":null
+  },
+  {
+    "question":"Ketk\u00e4 legendan mukaan perustivat Rooman kaupungin?",
+    "answer":"Remus ja Romulus",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 korttipelin termej\u00e4 ovat kuppaaminen, leikkaaminen ja varastaminen?",
+    "answer":"Bridge",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli V\u00e4in\u00e4m\u00f6isen vihollinen Kalevalan luomiskertomuksissa?",
+    "answer":"Joukahainen",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli vuoden 2017 tilatuin aikakauslehti tilaalehti.fi-sivuston mukaan?",
+    "answer":"Aku Ankka",
+    "comment":"Aku Ankalla oli silloin noin 574 000 lukijaa"
+  },
+  {
+    "question":"Kenneth Cooper kehitti aikoinaan nime\u00e4\u00e4n kantavan liikuntatestin. Mik\u00e4 h\u00e4n oli ammatiltaan?",
+    "answer":"L\u00e4\u00e4k\u00e4ri",
+    "comment":null
+  },
+  {
+    "question":"Monesko matkustaja Alien oli samannimisess\u00e4 elokuvassa?",
+    "answer":"Kahdeksas",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 alkoholijuoma valmistetaan agave-kasvin k\u00e4yneest\u00e4 mehusta?",
+    "answer":"Tequila",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on halkaisijaltaan Aurinkokunnan suurin k\u00e4\u00e4pi\u00f6planeetta?",
+    "answer":"Pluto",
+    "comment":"Pluto ei ehtinyt kiert\u00e4\u00e4 Aurinkoa kertaakaan sin\u00e4 aikana kun se oli luokiteltu planeetaksi."
+  },
+  {
+    "question":"Paljonko on tiu?",
+    "answer":"20",
+    "comment":null
+  },
+  {
+    "question":"Ketk\u00e4 viett\u00e4v\u00e4t helmikuussa penkinpainajaisia?",
+    "answer":"Abit",
+    "comment":"Tunnetaan lyhyemmin nimell\u00e4 penkkarit"
+  },
+  {
+    "question":"Jos alkoholijuoma juodaan \"on the rocks\", miten se juodaan?",
+    "answer":"J\u00e4iden kanssa",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 ammmattiryhm\u00e4n seura on Duodecim?",
+    "answer":"L\u00e4\u00e4k\u00e4reiden",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 televisiosarjassa keskeisess\u00e4 osassa on Laura Palmerin murhan tutkinta?",
+    "answer":"Twin Peaks",
+    "comment":null
+  },
+  {
+    "question":"Mihin sotaan klassikkoelokuva Casablanca sijoittuu?",
+    "answer":"2. maailmansota",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 nimell\u00e4 kutsutaan Eufrat- ja Tigris-jokien v\u00e4list\u00e4 aluetta?",
+    "answer":"Kaksoisvirranmaat, Mesopotamia",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on t\u00e4ll\u00e4 hetkell\u00e4 asukasm\u00e4\u00e4r\u00e4lt\u00e4\u00e4n Suomen pienin kaupunki?",
+    "answer":"Kaskinen",
+    "comment":"Asukkaita 1262"
+  },
+  {
+    "question":"Miss\u00e4 lajissa saatetaan pit\u00e4\u00e4 mailasta kyn\u00e4nvarsiotteella?",
+    "answer":"P\u00f6yt\u00e4tennis",
+    "comment":null
+  },
+  {
+    "question":"Kuka on vanhin Seitsem\u00e4st\u00e4 veljeksest\u00e4?",
+    "answer":"Juhani",
+    "comment":null
+  },
+  {
+    "question":"Kuka on saavuttanut Suomen yleisurheilun viimeisimm\u00e4n mitalin?",
+    "answer":"Tero Pitk\u00e4m\u00e4ki",
+    "comment":"Pitk\u00e4m\u00e4ki voitti pronssia Pekingin MM-kisoissa 2015"
+  },
+  {
+    "question":"Mink\u00e4 l\u00e4\u00e4kkeen yksi lempinimist\u00e4 on \"sininen timantti\"?",
+    "answer":"Viagraa",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 vuosikymmenell\u00e4 Helsinki julistettiin Suomen p\u00e4\u00e4kaupungiksi?",
+    "answer":"1800-luvulla",
+    "comment":"Tarkka vuosi 1812"
+  },
+  {
+    "question":"Mill\u00e4 tavalla ventrilokvisti viihdytt\u00e4\u00e4 yleis\u00f6\u00e4\u00e4n?",
+    "answer":"Vatsasta puhumalla",
+    "comment":null
+  },
+  {
+    "question":"Kuka gangsteri j\u00e4rjesti Yst\u00e4v\u00e4np\u00e4iv\u00e4n veril\u00f6ylyn?",
+    "answer":"Al Capone",
+    "comment":null
+  },
+  {
+    "question":"Kenen tunnetun suomalaisen kirjallisuushahmon Reijo M\u00e4ki on luonut?",
+    "answer":"Jussi Vares",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 horoskooppimerkin saavat 23.9.-22.10. v\u00e4lill\u00e4 syntyneet lapset?",
+    "answer":"Vaaka (libra)",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on t\u00e4ll\u00e4 hetkell\u00e4 Suomen suurin tornitalo?",
+    "answer":"Hotelli Torni Tampere",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kertaa Meryl Streep on ollut ehdolla Oscar -gaalassa? a) 9 b) 15 c) 21 d) 26",
+    "answer":"c) 21",
+    "comment":"h\u00e4n on voittanut n\u00e4ist\u00e4 kolme"
+  },
+  {
+    "question":"Min\u00e4 vuonna t\u00e4m\u00e4 laina (M\/S Silja Europa) on tehnyt neitsytmatkansa?",
+    "answer":"1993",
+    "comment":null
+  },
+  {
+    "question":"Kuka julkaisi lokakuussa albumin \u201cJesus Is King\u201d, jonka julkaisu viiv\u00e4styi yli vuodella?",
+    "answer":"Kanye West",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 valtio sijtaisee Floridan ja Kuuban v\u00e4liss\u00e4?",
+    "answer":"Bahama",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 soittimen l\u00e4hisukulaisia ovat spinetti ja virginaali?",
+    "answer":"Cembalon",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 TV-sarjan pohjalta tehtiin elokuva \"Tuli kulje kanssani\"",
+    "answer":"Twin peaks",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa Martin Luther King piti kuuluisan \"I have a dream\"-puheensa?",
+    "answer":"Washington DC",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 ovat  terminaattoristakin tutun Arnoldin sukunimen kolme ensimm\u00e4ist\u00e4 kirjainta?",
+    "answer":"SCH",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 maassa naiset saivat ensimm\u00e4isen\u00e4 \u00e4\u00e4nioikeuden?",
+    "answer":"Uusi Seelanti",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 nimisen teoksen kirjoitti suomalainen kirjailija Sofi Oksanen vuonna 2019?",
+    "answer":"Koirapuisto",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 raaka-ainetta Bourbon viskiss\u00e4 pit\u00e4\u00e4 olla v\u00e4hint\u00e4\u00e4n 51%?",
+    "answer":"Maissia",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli Uuno Turhapuron lopullinen sotilasarvo elokuvassa Uuno Turhapuro armeijan leiviss\u00e4?",
+    "answer":"Majuri",
+    "comment":null
+  },
+  {
+    "question":"Kenen taiteilijan t\u00f6it\u00e4 on varastettu eniten?",
+    "answer":"Pablo Picasso",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on vatikaanin valtiomuoto?",
+    "answer":"Teokratia",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on vuonna 2019 ilmestyneen Joker elokuvan p\u00e4\u00e4osan n\u00e4yttelij\u00e4n nimi?",
+    "answer":"Joaquin Phoenix",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on maailman vanhin yliopisto? \/\/ What is the oldest university in the world?",
+    "answer":"Bolognan yliopisto",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 sarjakuvasta kapteeni Haddock on tuttu? \/\/ From which comic Captain Haddock is from?",
+    "answer":"Tintin seikkailut \/ Tintti",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 el\u00e4in on korsikanritari? \/\/ What kind of animal is Corsican swallowtail?",
+    "answer":"Perhonen",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 maan internet-maatunnus on .cz? \/\/ Which country's country code top-level domain is .cz?",
+    "answer":"Tsekki",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 ruoka tunnetaan siit\u00e4, ettei se oikeastaan vanhene koskaan? \/\/ Which food is known for being only edible food not going bad?",
+    "answer":"Hunaja",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta hammasta on aikuisella ihmisell\u00e4? \/\/ How many teeth does an adult human have?",
+    "answer":"32",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on \"manttaali\"?",
+    "answer":"Vanha Ruotsin valtakunnan aikainen veroyksikk\u00f6, tarkoittaa yht\u00e4 normaalikokoista tilaa maata. Oli K\u00e4yt\u00f6ss\u00e4 suomessa 1800 luvulle asti",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 valtiossa on viimeisimp\u00e4n\u00e4 ollut k\u00e4yt\u00f6ss\u00e4 tsaarin arvonimi?",
+    "answer":"Bulgariassa",
+    "comment":"https:\/\/en.wikipedia.org\/wiki\/Simeon_Saxe-Coburg-Gotha"
+  },
+  {
+    "question":"1920-luvulla vierasper\u00e4iselle fysiikan sanalle kvantumi, tai my\u00f6hemmin kvantti, ehdotettiin suomenkielist\u00e4 vastinetta. Mik\u00e4 oli t\u00e4m\u00e4 sana?",
+    "answer":"Erkale",
+    "comment":"https:\/\/www.kielikello.fi\/-\/kvantumeita-vai-erkaleita-"
+  },
+  {
+    "question":"Mik\u00e4 oli vanha suomalainen termi fysiikassa k\u00e4ytetylle energian k\u00e4sitteelle?",
+    "answer":"Tarmo",
+    "comment":"https:\/\/www.kielikello.fi\/-\/kvantumeita-vai-erkaleita-"
+  },
+  {
+    "question":"What country has won the Rugby World Cup the most times?",
+    "answer":"New Zealand",
+    "comment":null
+  },
+  {
+    "question":"What artist has a world tour names the Eras Tour, running from March 2023 - November 2024",
+    "answer":"Taylor Swift",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on edesmenneen tekstiili- ja vaatetusinsin\u00f6\u00f6rikillan haalareiden v\u00e4ri?",
+    "answer":"vaaleanpunainen",
+    "comment":null
+  },
+  {
+    "question":"Kuinka mones painos uusin Rasputin on?",
+    "answer":"n. 9.",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on etanolin kemiallinen kaava?",
+    "answer":"C2H6O",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kiltahuonetta sijaitsee S\u00e4hk\u00f6talon kellarissa?",
+    "answer":"1",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna rakkauden wappuradio sai alkunsa?",
+    "answer":"2010",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 TTY:n kampuksen rakennuksista on rakennettu samana vuonna kuin kampuksen parkkihalli?",
+    "answer":"Tietotalo",
+    "comment":null
+  },
+  {
+    "question":"Nyky\u00e4\u00e4n t\u00e4t\u00e4 Pikkujouluristeily\u00e4 j\u00e4rjest\u00e4\u00e4 p\u00e4\u00e4asiassa Teekkarijaosto. Mik\u00e4 taho j\u00e4rjesti risteily\u00e4 ennen Teekkarijaostoa?",
+    "answer":"Kiltaneuvosto",
+    "comment":"2015 asti kn j\u00e4rkk\u00e4\u00e4m\u00e4"
+  },
+  {
+    "question":"Mik\u00e4 on Hervannan ensimm\u00e4isen opiskelijatalon nimi nyky\u00e4\u00e4n? ",
+    "answer":"W\u00e4in\u00f6l\u00e4",
+    "comment":"Valmistuessaan vuonna 1974 talo oli nimelt\u00e4\u00e4n Hervanta I"
+  },
+  {
+    "question":"Mill\u00e4 vuosikymmenell\u00e4 ensimm\u00e4iset teekkarit Suomessa aloittivat opintonsa Helsingin teknillisess\u00e4 reaalikoulussa?",
+    "answer":"1840-luvulla",
+    "comment":"1849 tarkalleen"
+  },
+  {
+    "question":"Mitk\u00e4 kolme v\u00e4ri\u00e4 l\u00f6ytyv\u00e4t TREYn ylioppilaskuntanauhasta?",
+    "answer":"valkoinen, sininen, keltainen",
+    "comment":"sininen-keltainen-valkoinen-sininen-valkoinen-keltainen-sininen"
+  },
+  {
+    "question":"Mik\u00e4 joukkue voitti akateemisen kyyk\u00e4n mm-kilpailuiden pro-sarjan t\u00e4n\u00e4 vuonna? \/\/ Which team won pro-series of World Championships of Academic kyykk\u00e4 this year?",
+    "answer":"Herra 31 ja anustapit",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 ovat uusia hakukohteita DIA-haussa Tampereen Yliopistoon t\u00e4n\u00e4 vuonna? \/\/ Which technical study programmes available for application are new this year in Tampere university?",
+    "answer":"Robotiikka ja energiamurros",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 yliopiston kampus sijaitsee Palosaaressa? \/\/ Which Finnish university is located on Palosaari",
+    "answer":"Vaasan Yliopiston",
+    "comment":null
+  },
+  {
+    "question":"Kenet valittiin Tampereen Yliopiston uudeksi rehtoriksi? \/\/ Who was selected as new President of Tampere University?",
+    "answer":"Keijo H\u00e4m\u00e4l\u00e4inen",
+    "comment":null
+  },
+  {
+    "question":"Kuka j\u00e4rjest\u00e4\u00e4 wappukyykk\u00e4 tapahtuman? \/\/ Who organizes wappukyykk\u00e4?",
+    "answer":"TAKS (Tampereen akateeminen kyykk\u00e4seura)",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta tiedekuntaa on tampereen yliopistossa?",
+    "answer":"7",
+    "comment":null
+  },
+  {
+    "question":" Kuinka monta edunvalvontaj\u00e4rjest\u00f6\u00e4 TREYn alla toimii? \/\/ How many advocacy associations operate under TREY?",
+    "answer":"4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on t\u00e4m\u00e4n vuoden pikkujouluristeilyn (2023) koko nimi? \/\/ What is the full name of this year's pre-Christmas cruise (2023)?",
+    "answer":"UI JUMA, KUKA SAI MUT LAIVAAN TAAS?! -risteily \/\/ UI JUMA, WHO GOT ME ON THE BOAT AGAIN!?\n-cruise",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kulmaa on otaniemen teekkarilakissa? \/\/ \nHow many corners does the teekkari cap of Otaniemi have?",
+    "answer":"6",
+    "comment":null
+  },
+  {
+    "question":"Keit\u00e4 valittiin vuonna 2017 Kelpo Teekkareiksi?",
+    "answer":"Miika Heinonen, Teemu Kontro, Sami Lamminen, Varpu Orasuo, Markus Ovaskainen",
+    "comment":"0,2p per nimi"
+  },
+  {
+    "question":"Mink\u00e4 v\u00e4rinen t\u00e4m\u00e4n vuoden Fuksipassi on?",
+    "answer":"violetti ja sininen",
+    "comment":"0,5p per v\u00e4ri"
+  },
+  {
+    "question":"Mist\u00e4 lyhentyy TTY:n opiskelijoiden tihe\u00e4ss\u00e4 k\u00e4yt\u00f6ss\u00e4 oleva POP?",
+    "answer":"Personoitu OpiskelijaPortaali",
+    "comment":null
+  },
+  {
+    "question":"Kuka oli TTY:n rehtori ennen nykyist\u00e4 rehtoria Mika Hannulaa?",
+    "answer":"Markku Kivikoski",
+    "comment":null
+  },
+  {
+    "question":"Kuka nimettiin vuoden 2017 Hyv\u00e4ksi luennoitsijaksi? ",
+    "answer":"Jouni Lyly-Yrj\u00e4n\u00e4inen",
+    "comment":null
+  },
+  {
+    "question":"Sitten taas teekkariaiheinen kysymys. Mik\u00e4 on TeURaS?",
+    "answer":"TEekkarien Ulkoilu- ja RAtsastusSeura",
+    "comment":"0,5p jos vastaa, ett\u00e4 TTY:n kerho"
+  },
+  {
+    "question":"Kuka\/Ketk\u00e4 on nimitetty viimeisimpin\u00e4 Kunniateekkareiksi?",
+    "answer":"Kirsi Reiman ja Ismo Nykopp",
+    "comment":"0,5p per nimi"
+  },
+  {
+    "question":"Monet tiet\u00e4v\u00e4t TTYY:n vaikutuselimist\u00e4 jaostot ja neuvostot, mutta foorumit ovat hieman ei-tutumpia. Kysymys kuuluukin, mit\u00e4 foorumeja toimii TTYY:n alaisena?",
+    "answer":"Jatko-opiskelija, Finanssi, Business",
+    "comment":"\"1\/3p per foorumi\""
+  },
+  {
+    "question":"Jokainen Tampereen teekkari tiet\u00e4\u00e4 Tampereen wappulehden, Tampin. V\u00e4hemm\u00e4n tuttuja meille ovat kuitenkin Helsingin wappulehdet \u00c4py ja  Julkku, jotka ilmestyv\u00e4t vuorotellen. Kumpi n\u00e4ist\u00e4 lehdist\u00e4 ilmestyy ensi Wappuna?",
+    "answer":"Julkku",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 kaupungissa\/kaupungeissa sijaitsee Ikuisen teekkarin muistomerkki?",
+    "answer":"Tampere ja Lappeenranta",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli edellinen ravintola, joka toimi t\u00e4ll\u00e4 paikalla ennen Wanhaa Tappia?",
+    "answer":"Herwood",
+    "comment":null
+  },
+  {
+    "question":"T\u00e4n\u00e4 vuonna j\u00e4rjestettiin Teekkarijaoston toimesta tapahtuma nimelt\u00e4\u00e4n KampusFest, joka kerrytti etunurtsille tuhansia teekkareita ja muita Tampereen asukkeja pit\u00e4m\u00e4\u00e4n hauskaa. T\u00e4m\u00e4 ei ole kuitenkaan ensimm\u00e4inen kerta, kun tapahtuma on j\u00e4rjestetty. Milloin t\u00e4m\u00e4 tapahtuma j\u00e4rjestettiin viimeeksi?",
+    "answer":"2015",
+    "comment":null
+  },
+  {
+    "question":"TTY:ll\u00e4 on Suomen paras yliopistoista l\u00f6ytyv\u00e4 kerhovalikoima. Mit\u00e4 harrastavat TTY:n kerhon JURRI:n j\u00e4senet?",
+    "answer":"judoa",
+    "comment":null
+  },
+  {
+    "question":"Teekkarit ovat my\u00f6s tunnettuja j\u00e4yn\u00e4\u00e4misest\u00e4\u00e4n, ja Tampereella my\u00f6s fuksien koskeenmenoj\u00e4rjestys m\u00e4\u00e4ritet\u00e4\u00e4n fuksij\u00e4ynien parhaimmuudella.",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Fuksisarjan lis\u00e4ksi j\u00e4yn\u00e4kilpailusta l\u00f6ytyy yleinen sarja, jonka voittaja p\u00e4\u00e4see valtakunnallisiin j\u00e4yn\u00e4kisoihin. Monesko valtakunnalliset j\u00e4yn\u00e4kisat k\u00e4ytiin t\u00e4n\u00e4 vuonna 2.-3.10. Jyv\u00e4skyl\u00e4ss\u00e4?",
+    "answer":"27.",
+    "comment":null
+  },
+  {
+    "question":"Teekkarit ovat n\u00e4kyv\u00e4\u00e4 porukkaa niiss\u00e4 kaupungeissa, joissa teekkareita opiskelee. Luettele kaikki Suomen seitsem\u00e4n (7) teekkarikaupunkia.",
+    "answer":"Espoo (Otaniemi), Lappeenranta, Oulu, Tampere, Turku, Vaasa, Jyv\u00e4skyl\u00e4",
+    "comment":"1p jos saa kaikki  oikein, 0p jos yksikin v\u00e4\u00e4rin"
+  },
+  {
+    "question":"Edustajisto on ylioppilaskunnan ylin p\u00e4\u00e4t\u00e4nt\u00e4valtaa k\u00e4ytt\u00e4v\u00e4 elin, ja se valitaan yleisill\u00e4 vaaleilla kahden vuoden v\u00e4lein. Kuinka monta j\u00e4sent\u00e4 TTYY:n edustajistossa on?",
+    "answer":"35",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on TTY:n Kampuksella vaikuttava OH3TR?",
+    "answer":"(Tampereen Teekkarien) Radiokerho",
+    "comment":"pelk\u00e4st\u00e4 kerhosta voi antaa halutessaan 0,5p"
+  },
+  {
+    "question":"Mink\u00e4 niminen oli TTYY:n ja Tamyn koulutus- ja verkostoitumistapahtuma, joka j\u00e4rjestettiin ti 30.1.2018? Vastaus suomeksi ett\u00e4 englanniksi",
+    "answer":"J\u00e4rjest\u00f6startti, Organization Start",
+    "comment":"0,5p suomi, 0,5p englanti"
+  },
+  {
+    "question":"TTYY:n edunvalvontajaosto j\u00e4rjest\u00e4\u00e4 \"Tammikuun\" kulttuuriappron 1.2. Kysymys kuuluukin, minne t\u00e4m\u00e4 suuntaa ja mit\u00e4 siell\u00e4 tehd\u00e4\u00e4n?",
+    "answer":"Suolij\u00e4rvi, avantouinti",
+    "comment":"0,5p paikka, 0,5p tekeminen"
+  },
+  {
+    "question":"Yksi Suomen suurimmista opiskelijatapahtumista j\u00e4rjestet\u00e4\u00e4n t\u00e4n\u00e4 vuonna 10.2.2018 lauantaina TTY:n kampusalueella, nimelt\u00e4\u00e4n Akateemisen kyyk\u00e4n MM-kilpailut. Kuinka monta erilaista sarjaa n\u00e4iss\u00e4 kisoissa on?",
+    "answer":"Viisi (5)",
+    "comment":null
+  },
+  {
+    "question":"Perinteisesti Tampereella Wappuaaton ja Wappup\u00e4iv\u00e4n v\u00e4lisen\u00e4 y\u00f6n\u00e4 lakitetaan H\u00e4meensillan Pirkkalaisveistoksista Suomen Neito. T\u00e4ll\u00e4 hetkell\u00e4 ne ovatk kuitenkin siirretty Tampereen museoiden kokoelmakeskukseen. Kysymys kuuluukin, kuinka monta n\u00e4it\u00e4 patsaita on yhteens\u00e4 normaalisti ollut esill\u00e4 H\u00e4meensillalla?",
+    "answer":"nelj\u00e4 (4)",
+    "comment":null
+  },
+  {
+    "question":"Toissap\u00e4iv\u00e4n\u00e4 maanantaina PerSe ja Teekkarikuoro j\u00e4rjestiv\u00e4t Juomalaulusaunan, jossa perinteisesti tapahtuman p\u00e4\u00e4paino oli juomalaulukilpailulla. Mink\u00e4 niminen biisi voitti t\u00e4m\u00e4n vuoden kilpailun?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Parin kuukaden p\u00e4\u00e4st\u00e4 alkaa taas teekkareiden odotetuin n. 2-viikkoinen rupeama, nimitt\u00e4in Wappu. Mille v\u00e4lille Wappu t\u00e4n\u00e4 vuonna sijoittuu?",
+    "answer":"17.4.-1.5.",
+    "comment":"Eli esim. 15.3.-23.4."
+  },
+  {
+    "question":"Mitk\u00e4 kaksi tahoa j\u00e4rjest\u00e4v\u00e4t perinteisen Laskiaisriehan 15.2. N\u00e4ytt\u00e4m\u00f6npuistossa?",
+    "answer":"Fuksineuvosto ja Teekkarijaosto",
+    "comment":null
+  },
+  {
+    "question":"Kaikki tiet\u00e4v\u00e4t Tampereen wappulehden Tampin. Mit\u00e4 muuta tamppi tarkoittaa, kuin wappulehte\u00e4?",
+    "answer":"Tamppi on kokoava ja kiinnitt\u00e4v\u00e4 nauha tai remmi",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 kilta\/kerho j\u00e4rjest\u00e4\u00e4 perinteisen Kiltojen avajaissaunan syksyll\u00e4 koulun alkupuoliskolla?",
+    "answer":"Skilta",
+    "comment":null
+  },
+  {
+    "question":"Perinteisesti Tampereen Wappuna j\u00e4rjestet\u00e4\u00e4n Teemunkierros, jossa pit\u00e4\u00e4 k\u00e4yd\u00e4 x m\u00e4\u00e4r\u00e4 tapahtumia, jonka j\u00e4lkeen kierroksen suorittaja saa arvonimen. Mik\u00e4 t\u00e4m\u00e4 arvonimi on?",
+    "answer":"Em\u00e4teemu",
+    "comment":null
+  },
+  {
+    "question":"Minne suuntaa TTYY:n edunvalvontajaoston j\u00e4rjest\u00e4m\u00e4 helmikuun kulttuuriappro, joka j\u00e4rjestet\u00e4\u00e4n 27.2.?",
+    "answer":"Sara Hild\u00e9nin taidemuseo",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 elokuva oli viime vuoden Wappuleffa -tapahtumassa kakkoselokuvana? Ykk\u00f6selokuvana n\u00e4ytet\u00e4\u00e4n perinteisesti The Blues Brothers.",
+    "answer":"The Room",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen on Tammerkoskessa sijaitseva saari, jossa lakitus j\u00e4rjestet\u00e4\u00e4n Wappuna 2018?",
+    "answer":"Konsulinsaari",
+    "comment":null
+  },
+  {
+    "question":"Maaliskuun alussa Ylioppilaskunta valitsi uuden saunamestarin. Kuka on uusi saunamestari?",
+    "answer":"Erik Erola",
+    "comment":null
+  },
+  {
+    "question":"1. Viimeisen\u00e4 kahtena vuotena on Tampereen teekkareiden wappuinfossa julkistettu wappu aiheinen sovellus. Mik\u00e4 on t\u00e4m\u00e4n sovelluksen nimi ja valmistaja.",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 ravintola toimi ennen nykyisiss\u00e4 tut-labin tiloissa?",
+    "answer":"edison",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 nimisen lanitapahtuman lanita j\u00e4rjest\u00e4\u00e4 Kontulassa 16.-18.3?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Mihin maaliskuun kulttuuriappro suuntasi t\u00e4n\u00e4\u00e4n?",
+    "answer":"Pyynikin n\u00e4k\u00f6torni",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 p\u00e4iv\u00e4n\u00e4 perinteinen Tampereen Kopokonferenssi j\u00e4rjestet\u00e4\u00e4n?",
+    "answer":"10.4.",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 taajuudella wappuradio soi t\u00e4n\u00e4 vuonna?",
+    "answer":"107,1 MHz",
+    "comment":null
+  },
+  {
+    "question":"Tampereen uuden yliopiston br\u00e4ndin julkaisu pidet\u00e4\u00e4n tulevan vuoden aikana. Milloin kyseinen julkistus tapahtuu? (P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4 riitt\u00e4\u00e4)",
+    "answer":"19.4.",
+    "comment":null
+  },
+  {
+    "question":"Tulevan syksyn FWR:n p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4ksi on p\u00e4\u00e4tetty 12.9.. Miten t\u00e4m\u00e4 FWR tulee poikkeamaan edellisiin vuosiin n\u00e4hden",
+    "answer":"Tuleva FWR j\u00e4rjestet\u00e4\u00e4n yheisty\u00f6ss\u00e4 Tampereen Yliopiston kanssa ja on t\u00e4ten siis yhteinen ",
+    "comment":null
+  },
+  {
+    "question":"T\u00e4n\u00e4\u00e4n julkaistiin tulevan wapun teema Wappuinfossa. Mik\u00e4 t\u00e4m\u00e4 teema siis on",
+    "answer":"Matti",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 kurssitunnuksen viimeinen numero kertoo kurssista?",
+    "answer":"Kieli (0 suomi, 6 englanti)",
+    "comment":null
+  },
+  {
+    "question":"Lis\u00e4\u00e4 ajankohtaisia kysymyksi\u00e4: T\u00e4n\u00e4\u00e4n j\u00e4rjestettiin fuksien fuksiv\u00e4ittelyt, jossa fuksit v\u00e4ittelev\u00e4t toisiaan vastaan erin\u00e4isist\u00e4 aiheista. Mik\u00e4 kilta voitti n\u00e4m\u00e4 fuksiv\u00e4ittelyt?",
+    "answer":"Matti",
+    "comment":null
+  },
+  {
+    "question":"Sanotaan, ett\u00e4 p\u00e4\u00e4si\u00e4inen on kev\u00e4tp\u00e4iv\u00e4ntasausta seuraavan t\u00e4ydenkuun j\u00e4lkeisen\u00e4 sunnuntaina eli sen ajankohta vaihtelee vuosittain, milloin edellisen kerran p\u00e4\u00e4si\u00e4inen ja teekkariwappu meniv\u00e4t p\u00e4\u00e4llekk\u00e4in?",
+    "answer":"2014",
+    "comment":null
+  },
+  {
+    "question":"Ketk\u00e4 ovat t\u00e4m\u00e4n vuoden wappusihteerit?",
+    "answer":"Riku sinkkonen, Panu Kortelainen, Atte Lamminsalo",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 kurssi on kurssikoodiltaan TTA-11010",
+    "answer":"teta pk",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 vappu (ei teekkariwappu vaan yleisesti) on saanut nimens\u00e4?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Mainitse kaikki suomen lakis\u00e4\u00e4teiset juhlap\u00e4iv\u00e4t, jotka eiv\u00e4t ole pyh\u00e4p\u00e4ivi\u00e4",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Strauben on saksalainen nimitys my\u00f6s suomalaisille tutulle vappuherkulle, mit\u00e4 strauben tarkoittaa suomeksi?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 tulevan Tampereen Yliopiston rehtori Mari Walls v\u00e4itteli filosofian tohtoriksi?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Ylioppilaskunnan hallitus voi my\u00f6nt\u00e4\u00e4 Kelpo Teekkarin arvonimen aktiivisesti toimineelle j\u00e4senelleen, joka pyyteett\u00f6m\u00e4ll\u00e4 ty\u00f6skentelyll\u00e4\u00e4n on vienyt ylioppilaskunnan tai kilta- ja kerhotoiminnan p\u00e4\u00e4m\u00e4\u00e4ri\u00e4 eteenp\u00e4in. Huomionosoituksen saaja on oikeutettu kunniakkaasti kantamaan Kelpo Teekkarin avainta. Kelpo Teekkarin arvonimen saajat julkistetaan vuosittain Wappuriehan julistuksen tai muun soveliaan teekkaritapahtuman yhteydess\u00e4. Ketk\u00e4 nimettiin Kelpo Teekkareiksi vuonna 2018?",
+    "answer":"Elviira K\u00e4rkk\u00e4inen, Verna Hahtola, Niklas Pitk\u00e4koski, Eeva Ylim\u00e4ki, Juha K\u00f6ykk\u00e4, Ville Tyrv\u00e4inen",
+    "comment":"voi my\u00f6s kysy\u00e4 tyylii kahta, kolmee, nelj\u00e4\u00e4 nimee vaa"
+  },
+  {
+    "question":"T3 on jo hyvin l\u00e4hell\u00e4, ja TTYY:n viimeiset vuosijuhlatkin h\u00e4\u00e4m\u00f6tt\u00e4v\u00e4t jo nurkan takana. Kuinka monta vuotta TTYY t\u00e4ytt\u00e4\u00e4 t\u00e4n\u00e4 vuonna, ja miss\u00e4 viimeiset vuosijuhlat pidet\u00e4\u00e4n?",
+    "answer":"53, Scandic Rosendahl",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on t\u00e4m\u00e4n vuoden pikkujouluristeilyn (TTYY ja TJ j\u00e4rjest\u00e4m\u00e4) koko nimi?",
+    "answer":"Never Remember the Name of the Cruise Again \u2013 Pikkujouluristeily",
+    "comment":"haetaan tota never remember shitti\u00e4, ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 tartte tota \"-pikkujouluristeily\" loppua"
+  },
+  {
+    "question":"Kuka valittiin TTY:n viimeiseksi rehtoriksi?",
+    "answer":"Jaakko Puhakka",
+    "comment":null
+  },
+  {
+    "question":"Kehitysmaahan nimelt\u00e4\u00e4n Otaniemi on vihdoinkin avattu Alko, ja paikalliset teekkarit j\u00e4rjestiv\u00e4tkin tempauksen, jossa pyrittiin juomaan Alko tyhj\u00e4ksi. Mink\u00e4 niminen joukko on tempauksen takana?",
+    "answer":"Polyteknikkojen raittiusseura",
+    "comment":null
+  },
+  {
+    "question":"Hervantaan muuttivat ensimm\u00e4iset asukkaat tuossa 1900-luvun puolella, ja nyky\u00e4\u00e4n asukkaita Hervannassa onkin jo n. 25000. Kysymys kuuluukin, kuinka monta vuotta Hervanta t\u00e4ytti t\u00e4n\u00e4 vuonna (2018)?",
+    "answer":"45 (1973)",
+    "comment":null
+  },
+  {
+    "question":"TEK tutkii ja tilastoi ammattikunnan palkkaa ja sen kehityst\u00e4, ja t\u00e4m\u00e4n perusteella esim. p\u00e4\u00e4tt\u00e4\u00e4 alkupalkkasuosituksesta. Mik\u00e4 on voimassaoleva alkupalkkasuositus, joka on voimassa 1.6.-30.11.2018? (e\/kk)",
+    "answer":"3740 e\/kk",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta vuotta t\u00e4n\u00e4 vuonna (2018) tulee kuluneeksi kaikkien aikojen kuuluisimmasta teekkarij\u00e4yn\u00e4st\u00e4, jossa Vasa-laivan hylkyyn oli piilotettu Paavo Nurmen patsas?",
+    "answer":"57 (tehtiin vuonna 1961)",
+    "comment":null
+  },
+  {
+    "question":"Kunniateekkariksi voidaan kastaa ylioppilaskunnan pyrkimyksi\u00e4 huomattavasti edist\u00e4neen henkil\u00f6n. Kuka kastettiin viime wappuna (2018) kunniateekkariksi?",
+    "answer":"Tiina \u00c4ij\u00e4l\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Seuraava kysymys liittyy TTY:hyn. Mik\u00e4 on Gakusei?",
+    "answer":"TUrVoKe:n alainen lajijaosto, karateseura",
+    "comment":"haetaan ensisijaisesti tuota karateseuraa, voinee antaa puol pongoa tuosta lajijaostosta"
+  },
+  {
+    "question":"Mink\u00e4 niminen t\u00f6lkkijuoma ilahdutti kansaa Fuksineuvoston Ulkorieha -tapahtumassa?",
+    "answer":"Crisp",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli diplomi-insin\u00f6\u00f6rin tutkinnon keskisuoritusaika vuosina (mediaani) vuonna 2013? (viimeisin tilastokeskuksen julkaisema tilastotieto asiasta)",
+    "answer":"7",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta teekkarikiltaa Aalto-yliopistossa on?",
+    "answer":"15",
+    "comment":"osakuntaa ei lasketa, voi vaikka mainita"
+  },
+  {
+    "question":"Mainitse yksi 6.9. nimitetyist\u00e4 uuden Tampereen yliopiston dekaaneista.",
+    "answer":"Jyrki Vuorinen, Tapio Visakorpi, Matti Sommarberg, P\u00e4ivi Pahta",
+    "comment":null
+  },
+  {
+    "question":"Suomessa l\u00f6ytyy montaa erilaista teekkarilakkia, ja n\u00e4ist\u00e4 tuorein on Vaasalaisten teekkarilakki. Min\u00e4 vuonna he ottivat teekkarilakin k\u00e4ytt\u00f6\u00f6n?",
+    "answer":"2004",
+    "comment":null
+  },
+  {
+    "question":"TTYY:n edunvalvontajaosto j\u00e4rjest\u00e4\u00e4 lukuvuoden aikana lukuisia kulttuuriapproja, joissa k\u00e4yd\u00e4\u00e4n sivist\u00e4m\u00e4ss\u00e4 itse\u00e4\u00e4n erin\u00e4k\u00f6isiss\u00e4 kulttuurikohteissa. Minne syyskuun kulttuuriappro suuntasi 23.9.?",
+    "answer":"Tampere United paikallisottelu Ratinassa",
+    "comment":null
+  },
+  {
+    "question":"Viime vuonna j\u00e4rjestettiin toista kertaa KampusFest niminen tapahtuma, joka kerrytti yli tuhat ihmist\u00e4 etunurtsille pit\u00e4m\u00e4\u00e4n hauskaa. Mitk\u00e4 kolme b\u00e4ndi\u00e4 esiintyiv\u00e4t n\u00e4iss\u00e4 karkeloissa?",
+    "answer":"TLDP, Tiisu ja Scandinavian Music Group",
+    "comment":null
+  },
+  {
+    "question":"Perinteisess\u00e4 Wappuleffassa ykk\u00f6sleffana n\u00e4ytet\u00e4\u00e4n The Blues Brothers, ja kakkosleffana on sitten joku muu satunnainen elokuva, esim. viime vuonna n\u00e4ytettiin The Room. Mik\u00e4 elokuva n\u00e4ytettiin kakkoselokuvana viime kev\u00e4\u00e4n\u00e4?",
+    "answer":"The Lion King, Leijonakuningas",
+    "comment":null
+  },
+  {
+    "question":"TTYY jakaa vuosittain stipendej\u00e4, ja Vuoden puljun arvonimi annetaan yhdistykselle, joka on toiminnallaan vaikuttanut usean teekkarin hyvinvointiin ja j\u00e4rjest\u00e4nyt aktiivisesti toimintaa niin teekkariyhteis\u00f6lle kuin sen ulkopuolellakin ja t\u00e4ten osoittanut suurta teekkarihenkisyytt\u00e4. Mille puljulle my\u00f6nnettiin t\u00e4m\u00e4 arvonimi viime vuonna?",
+    "answer":"Pullonkaula",
+    "comment":null
+  },
+  {
+    "question":"Edustajisto kokoustaa x m\u00e4\u00e4r\u00e4n kuukaudessa, ja p\u00e4\u00e4tt\u00e4v\u00e4t t\u00e4rkeist\u00e4 asioista liittyen TTYY:hyn yms. Mit\u00e4 erikoista edarin kokousp\u00e4ivin\u00e4 on, mik\u00e4 vaikuttaa kaikkiin Tampereen teekkareihin?",
+    "answer":"sillon on lakinulkoilutusp\u00e4iv\u00e4, eli lakkia saa k\u00e4ytt\u00e4\u00e4 tuona p\u00e4iv\u00e4n\u00e4 vaikka itse lakink\u00e4ytt\u00f6p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4t olisivat ohitse",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 kolme ty\u00f6t\u00e4 ovat kaikille Fysiikan ty\u00f6t -kurssia suorittaville pakolliset ns. demonstraatioty\u00f6t?",
+    "answer":"Jousivakio, Vauhtipy\u00f6r\u00e4 ja Tasavirtapiirit",
+    "comment":null
+  },
+  {
+    "question":"TTYY:n vujuviikko, Ikuisen teekkarin kierros, huipentuu sunnuntaina Aitoon Honkalassa pidett\u00e4v\u00e4\u00e4n omegasillikseen. Mitk\u00e4 kolme artistia t\u00e4ss\u00e4 tapahtumassa esiintyv\u00e4t?",
+    "answer":"A One Night Band, Karri Koira, DJ Jussi Kangas",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna kaikille tuttu TTYY:n toimistosihteeri Paula aloitti ty\u00f6t ylioppilaskunnassa?",
+    "answer":"1990 syyskuussa",
+    "comment":"t\u00e4n\u00e4 vuonna tulee siis 28 vuotta t\u00e4yteen"
+  },
+  {
+    "question":"Toissa viikonloppuna TTYY:n vuosijuhlilla juhlapuheen lopuksi TEKin toiminnanjohtaja Jari Jokinen paljasti TEKin lahjoittavan teekkarikulttuurille yhteens\u00e4 100 000 euroa, joka jaetaan p\u00e4\u00e4luvun mukaan Aalto-yliopiston, Lappeenrannan, Tampereen, Turun, Oulun ja Vaasan yliopistojen teekkareille sek\u00e4 TEKin ML-opiskelijayhdistyksen toimintaan. Kuinka suuri osa t\u00e4st\u00e4 tulee Tampereen teekkareille?",
+    "answer":"27500e",
+    "comment":"t\u00e4m\u00e4 raha tulee siis Tampereen Teekkariyhdistyksen pohjarahoitukseen"
+  },
+  {
+    "question":"Kenet nimitettiin toissa viikonloppuna vuoden 2018 Hyv\u00e4ksi luennoitsijaksi TTYY:n toimesta?",
+    "answer":"Henrik Tolvanen",
+    "comment":"h\u00e4n v\u00e4itteli tohtoriksi 2016, ja onkin hyvin tuore lis\u00e4ys opettajakunnassa"
+  },
+  {
+    "question":"Ylioppilaskunnan merkki- ja lippuohjes\u00e4\u00e4nt\u00f6 19\u00a7: \u201dAnsiomerkki voidaan my\u00f6nt\u00e4\u00e4 henkil\u00f6lle tai yhteis\u00f6lle tunnustukseksi ansiokkaasta, hyviin tuloksiin johtaneesta toiminnasta ylioppilaskunnan hyv\u00e4ksi.\u201d Mainitse TTYY:n vujuilla kolme henkil\u00f6\u00e4\/yhteis\u00f6\u00e4, joille ansiomerkki jaettiin.",
+    "answer":"Jussi-Pekka Teini, Jouni \"Viiksi\" Koivisto, Ritva Hietala, Pia Ylim\u00e4ki, Ville Korpiluoto, Tuomas Rissanen, Sanna Nokelainen, Petri Suomala, Tuomas Hirvonen, Laila Karttunen-Airas",
+    "comment":"N\u00e4it\u00e4 jaettiin siis yhteens\u00e4 10 kappaletta t\u00e4n vuonna."
+  },
+  {
+    "question":"Kaksi viikkoa sitten j\u00e4rjestettiin Valtakunnalliset teekkarij\u00e4yn\u00e4kilpailut H\u00e4meenlinnassa, joiden palkinnot jaettiin J\u00e4yn\u00e4gaalassa Festian isossa salissa. T\u00e4n\u00e4 vuonna kisaajia oli nelj\u00e4lt\u00e4 paikkakunnalta. Milt\u00e4 paikkakunnalta tuli voittajatiimi, ja mik\u00e4 t\u00e4m\u00e4n tiimin nimi oli? ",
+    "answer":"Turku, Hermann Group",
+    "comment":"muita olivat Tampere, Siipijaosto; Oulu, 321 T\u00c4B\u00d6\u00d6\u00d6!; sek\u00e4 Lappeenranta Lepran Lekamiehet"
+  },
+  {
+    "question":"Onko TTY:lle teht\u00e4v\u00e4 diplomity\u00f6 pakko julkaista julkisesti internetiss\u00e4?",
+    "answer":"ei ole",
+    "comment":"se pit\u00e4\u00e4 v\u00e4hint\u00e4\u00e4n julkaista fyysisen\u00e4 kopiona joka sijoitetaan TTY:n kirjastoon"
+  },
+  {
+    "question":"Mille opintosuunnille Tetapk kurssi ei ole pakollinen?",
+    "answer":"Raksa, arkkarit",
+    "comment":null
+  },
+  {
+    "question":"Vuosittain julkaistava Teekkarin ty\u00f6kirja tulee t\u00e4n\u00e4 vuonna ensi viikolla 27.11. T\u00e4n\u00e4 vuonna sen nime\u00e4 on uudistettu; mink\u00e4 niminen se nyt on?",
+    "answer":"Ty\u00f6kirja",
+    "comment":"t\u00e4n\u00e4 vuonna painopiste kansainv\u00e4lisyydess\u00e4"
+  },
+  {
+    "question":"Tampereen ylioppilaskunnan TREYn ensimm\u00e4inen tapahtuma j\u00e4rjestet\u00e4\u00e4n 4.12. Kuivaamolla, jossa on mm. Gasellit esiintym\u00e4ss\u00e4. Mink\u00e4 niminen t\u00e4m\u00e4 tapahtuma on?",
+    "answer":"TREYHEM",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on tulevan Tampereen Yliopiston virallinen englanninkielen lyhenne? (Haetaan siis vastaavaa kuin UTA ja TUT)",
+    "answer":"TUNI",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 laboratoriolla on avoimet ovet huomenna klo 10.30-13.00?",
+    "answer":"Robotiikan laboratorio TUTRoboLab",
+    "comment":null
+  },
+  {
+    "question":"Teekkarin ty\u00f6kirja julkaistiin t\u00e4n\u00e4 vuonna nimell\u00e4 Ty\u00f6kirja. Min\u00e4 vuonna Teekkarin ty\u00f6kirja julkaistiin ensimm\u00e4isen kerran?",
+    "answer":"1994",
+    "comment":null
+  },
+  {
+    "question":"Suuri osa Wapun j\u00e4rjestelyist\u00e4 siirtyi Tampereen Teekkarit ry:lle, ja n\u00e4ist\u00e4 vastaavat hallituksen kulttuurivastaava sek\u00e4 kaksi wappusihteeri\u00e4. Loppuosa on TREYn vastuulla, mm. teemunkierroksen (nimi ei varma) j\u00e4rjest\u00e4minen. My\u00f6s TREY hakee projektity\u00f6ntekij\u00f6it\u00e4 wapun j\u00e4rjestelyihin. Miksi n\u00e4it\u00e4 TREYn alla toimivia  projektity\u00f6ntekij\u00f6it\u00e4 kutsutaan heid\u00e4n haussaan?",
+    "answer":"Wapputireht\u00f6\u00f6ri",
+    "comment":null
+  },
+  {
+    "question":"Joulukuussa jaettiin viimeiset TTYY:n vuosittaiset stipendit. Mik\u00e4 oli vuoden 2018 pulju?",
+    "answer":"Tr3 Gamers",
+    "comment":null
+  },
+  {
+    "question":"Joulukuussa jaettiin viimeiset TTYY:n vuosittaiset stipendit. Mainitse v\u00e4hint\u00e4\u00e4n 1 vuoden 2018 tapahtumista.",
+    "answer":"Autekin juhlavuosiviikko, Torvikoplan ja Teekkarikuoron Wappusymposium",
+    "comment":"N\u00e4it\u00e4 palkittiin siis 2 kpl"
+  },
+  {
+    "question":"Miss\u00e4 j\u00e4rjestet\u00e4\u00e4n Tampereen Yliopiston avajaisjuhlat eli Potentiaalit huomenna?",
+    "answer":"Tampere-talolla",
+    "comment":null
+  },
+  {
+    "question":"Montako osallistuvaa joukkuetta on kyykk\u00e4liigassa t\u00e4n\u00e4 talvena puljusarjassa?",
+    "answer":"14",
+    "comment":null
+  },
+  {
+    "question":"Ketk\u00e4 valittiiin t\u00e4m\u00e4n vuoden Wappusihteereiksi?",
+    "answer":"Jussi Kekki ja Nico Ylir\u00f6nni",
+    "comment":"voi mainita, ett\u00e4 Tampereen Teekkarit ry:n wappusihteereiksi"
+  },
+  {
+    "question":"Fuksineuvosto piti vuosijuhliaan kaksi viikonloppua sitten. Kuinka monta vuotta t\u00e4m\u00e4 koulun fuksivastaavista koostuva neuvosto(\/jaosto) t\u00e4ytti?",
+    "answer":"25",
+    "comment":null
+  },
+  {
+    "question":"Viime viikonloppuna pelattiin perinteinen kyykk\u00e4turnaus PoWiCup lappemme Rannoilla Skinnarilassa, jonka voittajaksi selviytyi Oululainen Suppohauet. Kysymys kuuluukin, mist\u00e4 turnauksen nimess\u00e4 oleva \"PoWi\" lyhentyy?",
+    "answer":"Polytekninen Willimiesklubi",
+    "comment":null
+  },
+  {
+    "question":"TEK tutkii ja tilastoi ammattikunnan palkkaa ja sen kehityst\u00e4, ja t\u00e4m\u00e4n perusteella esim. p\u00e4\u00e4tt\u00e4\u00e4 alkupalkkasuosituksesta. Mik\u00e4 on voimassaoleva alkupalkkasuositus, joka on voimassa 1.12.2018-31.5.2019? (e\/kk)",
+    "answer":"3780 e\/kk",
+    "comment":null
+  },
+  {
+    "question":"TTY:ll\u00e4 on oma pieni Teekkarimuseonsa Rakennustalon aulassa, jonne saa opastettuja kierroksia pyynn\u00f6st\u00e4. Mink\u00e4 niminen opiskelijoiden kulttuurihistoriaa esittelev\u00e4 museo l\u00f6ytyy Otaniemest\u00e4?",
+    "answer":"Polyteekkarimuseo",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 eri sarjoja on Akateemisen kyyk\u00e4n maailmanmestaruuskilpailuissa?",
+    "answer":"Yleinen, naisten, pro-, ISE-, (firma-)",
+    "comment":null
+  },
+  {
+    "question":"Ketk\u00e4 valittiin t\u00e4m\u00e4n vuoden Wapputireht\u00f6\u00f6reiksi? (TREYn wappuhenkil\u00f6t)",
+    "answer":"Nico Ylir\u00f6nni, Liisa \u00c4ij\u00e4l\u00e4 ja Anton Kauppila",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 oli 8.3. j\u00e4rjestettyjen Fuksineuvoston fuksisitsien teema?",
+    "answer":"casino",
+    "comment":null
+  },
+  {
+    "question":"6.3. j\u00e4rjestettiin TREYn ja Fuksineuvoston laskiaisrieha Hervannan alpeilla, jossa ne j\u00e4rjestettiin nyt ensimm\u00e4ist\u00e4 kertaa. Miss\u00e4 Fuksineuvoston laskiaisrieha on t\u00e4t\u00e4 ennen perinteisesti j\u00e4rjestetty?",
+    "answer":"N\u00e4ytt\u00e4m\u00f6npuisto",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta p\u00e4iv\u00e4\u00e4 pitk\u00e4 on t\u00e4m\u00e4n vuoden Tampereen Wappu? (2019)",
+    "answer":"17",
+    "comment":"wappu alkaa 15.4. ja p\u00e4\u00e4ttyy 1.5."
+  },
+  {
+    "question":"Kuinka monta j\u00e4sent\u00e4 on Tampereen Teekkarit ry:n valtuustossa",
+    "answer":"39 (kolme j\u00e4sent\u00e4 joka killasta ja kolme INTOlta)",
+    "comment":null
+  },
+  {
+    "question":"6.3. j\u00e4rjestettiin TREYn ja Fuksineuvoston laskiaisrieha Hervannan alpeilla, jossa ne j\u00e4rjestettiin nyt ensimm\u00e4ist\u00e4 kertaa. Otaniemess\u00e4 Laskiaisrieha nimist\u00e4 tapahtumaa j\u00e4rjestet\u00e4\u00e4n hieman isommalla mittakaavalla. Mik\u00e4 on Otaniemess\u00e4 j\u00e4rjestett\u00e4v\u00e4n Laskiaisriehan j\u00e4rjest\u00e4v\u00e4 taho?",
+    "answer":"VT (Vapaa Teekkarit)",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 olivat kaksi ensimm\u00e4ist\u00e4 kerhoa jotka aloittivat toimintansa vuonna 1966 TTY:ll\u00e4 (vuonna 1966 TTY oli Teknillisen korkeakoulun alainen alaosasto)",
+    "answer":"Shakkikerho ja radiokerho",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta vuotta Hiukkanen t\u00e4ytt\u00e4\u00e4 t\u00e4n\u00e4 vuonna?",
+    "answer":"30",
+    "comment":null
+  },
+  {
+    "question":"Fuksiv\u00e4ittely j\u00e4rjestet\u00e4\u00e4n joka kev\u00e4t. T\u00e4ss\u00e4 tapahtumassa jokaisesta killasta kaksi edustajaa mittelee toisia kiltoja vastaan leikkimielisess\u00e4 v\u00e4ittelyss\u00e4, jossa aiheet heittelev\u00e4t laidasta laitaan. Miss\u00e4 Fuksiv\u00e4ittely j\u00e4rjestet\u00e4\u00e4n t\u00e4n\u00e4 vuonna?",
+    "answer":"TB103",
+    "comment":"edellisin\u00e4 vuosina v\u00e4ittely\u00e4 on j\u00e4rjestetty mm. Festian isossa salissa ja Cinolassa"
+  },
+  {
+    "question":"Tampereen Teekkarijaosto j\u00e4rjest\u00e4\u00e4 t\u00e4ll\u00e4 viikolla Tilaa Teekkarihistorialle -tempauksen, jossa Teekkarimuseo siirrettiin ainakin v\u00e4liaikaisesti uuteen tilaan Rakennustalon ala-aulasta. Miss\u00e4 Teekkarimuseo nyt sijaitsee?",
+    "answer":"Paulan tiskin vieress\u00e4, entisen TTYY:n avokonttorin tiloissa",
+    "comment":"ennen Rakennustalon ala-aulaa museo on sijainnut mm. Kampusareenalla ja Tietotalon yl\u00e4k\u00e4yt\u00e4v\u00e4ll\u00e4"
+  },
+  {
+    "question":"Wappuna Tampereen Teekkarijaosto ja Elram j\u00e4rjest\u00e4v\u00e4t yhteisty\u00f6ss\u00e4 Laskeuman ja Nousut. Mitk\u00e4 kaksi esiintyj\u00e4\u00e4 n\u00e4iss\u00e4 esiintyv\u00e4t? Nousujen esiintyj\u00e4n j\u00e4lkeen soittaa DJ Jussi Kangas, jota ei t\u00e4ss\u00e4 kysymyksess\u00e4 lasketa.",
+    "answer":"T\u00f6\u00f6l\u00f6n Ketter\u00e4 ja Tiisu",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 killat t\u00e4ytt\u00e4v\u00e4t t\u00e4n\u00e4 lukuvuonna py\u00f6reit\u00e4? (viidell\u00e4 jaollinen luku)",
+    "answer":"TamArk, Hiukkanen, Man@ger",
+    "comment":"1p jos saa kaikki oikein, 0p jos yksikin v\u00e4\u00e4rin"
+  },
+  {
+    "question":"Miss\u00e4 pidet\u00e4\u00e4n Tampereen teekkarit 54 vuotta -juhlat?",
+    "answer":"Ravintola Ziberia",
+    "comment":null
+  },
+  {
+    "question":"Tampereen Teekkarit hakevat juuri nyt uutta saunamestaria. Kuka toimii t\u00e4ll\u00e4 hetkell\u00e4 t\u00e4ss\u00e4 pestiss\u00e4?",
+    "answer":"Erik Erola",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 kaksi tahoa j\u00e4rjestiv\u00e4t vuoden 2019 SyysFestien viralliset jatkot, RuskaRallit?",
+    "answer":"Blebeijit ja Rankat Ankat",
+    "comment":"hyv\u00e4ksyt\u00e4\u00e4n my\u00f6s Tamppi tai Joku Ankka tms"
+  },
+  {
+    "question":"Mink\u00e4 v\u00e4rinen on t\u00e4m\u00e4n lukuvuoden (19-20) fuksipassi?",
+    "answer":"Musta",
+    "comment":"titel\u00e4iset vetiv\u00e4t tuplavoiton"
+  },
+  {
+    "question":"Maanantaina (16.9.) aloitti uusi Tampereen Teekkarien alaisuudessa toimiva saunamestari. Kuka on t\u00e4m\u00e4 uusi saunamestari?",
+    "answer":"Leevi Kuutti",
+    "comment":null
+  },
+  {
+    "question":"Legendaarinen ylioppilaskunnan toimistosihteeri Paula Nyk\u00e4nen j\u00e4i t\u00e4n\u00e4 vuonna el\u00e4kkeelle. Kuinka monta vuotta toimistosihteerin\u00e4 ylioppilaskunnassa Paulalla tulisi t\u00e4n\u00e4 vuonna t\u00e4yteen?",
+    "answer":"29",
+    "comment":"Paula aloitti ty\u00f6t ylioppilaskunnassa syyskuussa 1990"
+  },
+  {
+    "question":"Mik\u00e4 on t\u00e4m\u00e4nvuotisen Tampereen Teekkarijaoston j\u00e4rjest\u00e4m\u00e4n pikkujouluristeilyn koko nimi?",
+    "answer":"Never Stop the Madness Again - Pikkujouluristeily",
+    "comment":"huhujen mukaan nimi keksit\u00e4\u00e4n aina Teekkarisektorin kes\u00e4tapossa"
+  },
+  {
+    "question":"TEK tutkii ja tilastoi ammattikunnan palkkaa ja sen kehityst\u00e4, ja t\u00e4m\u00e4n perusteella esim. p\u00e4\u00e4tt\u00e4\u00e4 alkupalkkasuosituksesta. Mik\u00e4 on voimassaoleva alkupalkkasuositus, joka on voimassa 1.12.2019 \u2013 31.5.2020? (e\/kk)",
+    "answer":"3880e\/kk",
+    "comment":"nousua viimekertaisesta 30e\/kk"
+  },
+  {
+    "question":"Luettele nelj\u00e4 H\u00e4meenkadun Appron virallista jatkopaikkaa (2019).",
+    "answer":"Ilona, Pakkahuone, Ranta & Poro, Social Club, Roska, Venue FL, Olympia, Panorama Bar, Bricks, YO-talo, Ilves, Jack the Rooster, Twenty One",
+    "comment":null
+  },
+  {
+    "question":"Viime maanantaina (30.9.) pidettiin Tampereen Teekkarien Lakinlaskijaiset, joissa palkittiin vuosittain jaettavat Kelpo Teekkarit.  Mainitse kolme (3) t\u00e4m\u00e4n vuoden Kelpo Teekkaria.",
+    "answer":"Jenna Suoranta, Jussi Kekki, Mikko Kauhanen, Lauri Sahramaa, Tuulia Kusmin, Panu Kortelainen",
+    "comment":"t\u00e4n\u00e4 vuonna heit\u00e4 yhteens\u00e4 kuusi"
+  },
+  {
+    "question":"Kuka valittiin TREY:n hallitukseen Eeva Ylim\u00e4en tilalle loppuvuodeksi?",
+    "answer":"Liisa \u00c4ij\u00e4l\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta tiimi\u00e4 on t\u00e4m\u00e4n vuoden Akateemisess\u00e4 Kyn\u00e4riliigassa (AKL)?",
+    "answer":"64",
+    "comment":"AKL oli alunperin TiTen j\u00e4rjest\u00e4m\u00e4, mutta nyt sen j\u00e4rjest\u00e4minen on siirretty Tr3 Gamersille"
+  },
+  {
+    "question":"Kelpo teekkarin arvonime\u00e4 on my\u00f6nnetty vuodesta 2005 l\u00e4htien. Kuinka monta Kelpo Teekkaria t\u00e4ll\u00e4 hetkell\u00e4 on?",
+    "answer":"65",
+    "comment":null
+  },
+  {
+    "question":"Tampereen Teekkarit ry juhlii 54 vuosijuhliaan t\u00e4n\u00e4 lauantaina. Miss\u00e4 paikassa vuosijuhlat pidet\u00e4\u00e4n? ",
+    "answer":"Ravintola Ziberia",
+    "comment":null
+  },
+  {
+    "question":"Valtakunnalliset j\u00e4yn\u00e4kilpailut kisattiin t\u00e4n\u00e4 vuonna Kouvolassa 14.10. Mist\u00e4 kaupungista tuli t\u00e4m\u00e4n vuoden voittajatiimi ja mik\u00e4 oli joukkueen nimi?",
+    "answer":"Tampere, Tekij\u00e4_arkkarit",
+    "comment":null
+  },
+  {
+    "question":"Haku Tampereen Teekkareiden hallitukseen on nyt auki ensi vuodelle. Kuinka monta eri pesti\u00e4 Tampereen Teekkareiden hallituksessa on?",
+    "answer":"8",
+    "comment":"pj, teekkarimestari, kulttuurimestari, viestint\u00e4mestari, fuksimestari, talousmestari, j\u00e4rjest\u00f6mestari, yritysmestari"
+  },
+  {
+    "question":"Kuinka monta euroa saatiin ker\u00e4tty\u00e4 Tampereen Teekkareiden pohjarahoitusprojektissa?",
+    "answer":"25000e",
+    "comment":"tuhansien tarkkuudella"
+  },
+  {
+    "question":"Kuinka monta hakijaa oli Tampereen Teekkarit ry:n hallitukseen vuodelle 2020?",
+    "answer":"10",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen tapahtuma kokosi Suomen bioteekkarikillat Hervantaan viime viikonloppuna? (22.-24.11.2019)",
+    "answer":"RekomBIOnaatio",
+    "comment":null
+  },
+  {
+    "question":"Meill\u00e4 ensimm\u00e4isen vuoden opiskelijoita nimitet\u00e4\u00e4n fukseiksi, ja muualla heit\u00e4 kutsutaan mm. Mursuiksi, smurffeiksi ja pilteiksi. Kysymys kuitenkin kuuluu, ett\u00e4 mist\u00e4 saksankielisest\u00e4 sanasta sana fuksi tulee alunperin ja mit\u00e4 t\u00e4m\u00e4 sana tarkoittaa?",
+    "answer":"fuchs, tarkoittaa kettua",
+    "comment":"0,5p kummastakin"
+  },
+  {
+    "question":"Min\u00e4 vuonna Tampereen teekkarien tiuhassa k\u00e4yt\u00f6ss\u00e4 oleva Teekkarisauna M\u00f6rrim\u00f6ykky valmistui?",
+    "answer":"1992",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta vuotta Tupsula t\u00e4ytt\u00e4\u00e4 ensi kev\u00e4\u00e4n\u00e4?",
+    "answer":"30",
+    "comment":null
+  },
+  {
+    "question":"TEKh\u00e4n on diplomi-insin\u00f6\u00f6rien, arkkitehtien ja muiden tekniikan alalla toimivien yliopistotason tutkinnon suorittaneiden etuj\u00e4rjest\u00f6. Min\u00e4 vuonna TEK perustettiin nykyisell\u00e4 nimell\u00e4\u00e4n?",
+    "answer":"1993",
+    "comment":null
+  },
+  {
+    "question":"Varsinkin Tamperelaisille vuosittain j\u00e4rjestett\u00e4v\u00e4t Akateemisen kyyk\u00e4n MM-kilpailut ovat hyvin tutut, mutta v\u00e4hemm\u00e4n tuttuja ovat laappen Rannoilla sek\u00e4 Oulussa j\u00e4rjestett\u00e4v\u00e4t turnaukset. Mink\u00e4 niminen on Oulussa vuosittain j\u00e4rjestett\u00e4v\u00e4n akateemisen kyykk\u00e4turnauksen nimi? ",
+    "answer":"WCoK, World Cup of Kyykk\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Suomen vanhin teekkarikilta?",
+    "answer":"Kemistikilta ",
+    "comment":"Perustettu 1891"
+  },
+  {
+    "question":"Mik\u00e4 joukkue voitti World Cup of Kyykk\u00e4 (WCOK) -turnauksen vuonna 2022?",
+    "answer":"",
+    "comment":"my\u00f6s Susirajan Legendat tai SuraLe riitt\u00e4v\u00e4t oikeaksi vastaukseksi"
+  },
+  {
+    "question":"Mik\u00e4 on glukoosin kemiallinen kaava? \/\/ What is the chemical formula of glucose?",
+    "answer":"C6H12O6",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna Espoon Otaniemen alko on avattu?`\/\/ Which year Alko opened their store in Otaniemi, Espoo",
+    "answer":"2018",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 j\u00e4rjestet\u00e4\u00e4n Teekkarivaltuuston kokous huomenna (11.10.2022) kello 16.15?",
+    "answer":"(Hervannan kampuksella salissa) K1702",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna Mikontalo valmistui?",
+    "answer":"1980",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kulmaa on lappeenrantalaisessa teekkarilakissa?",
+    "answer":"Seitsem\u00e4n (7)",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 nelj\u00e4 ruutua ovat Herwantapelin nurkissa?",
+    "answer":"opintotuki, tupsula, teekkarisauna, bommari",
+    "comment":null
+  },
+  {
+    "question":"Milloin Kampusareenan rakentaminen aloitettiin? ",
+    "answer":"2013",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 DI-tutkintoon johtava koulutus aloittaa Sein\u00e4joella tammikuussa 2018?",
+    "answer":"konetekniikka",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 salin tunnus on SA207: Vaihtoehtoina ovat: S2, S3 tai S4.",
+    "answer":"S4",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 tila oli ennen nykyisen Kielikeskuksen tiloissa?",
+    "answer":"Kirjasto",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on TTY:n vanhin kilta?",
+    "answer":"TARAKI",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 tamperelaisen Teekkarilakin kokardissa esiintyy",
+    "answer":"vasara ja ratas\/ yo-kunnan tunnus",
+    "comment":"kummatkin kelpaavat, jaossa vain 1p"
+  },
+  {
+    "question":"Mik\u00e4 on tamperelaisen Teekkarilakin vuoren v\u00e4ri?",
+    "answer":"punainen",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 mukaan Fuksipassin v\u00e4ri m\u00e4\u00e4r\u00e4ytyy?",
+    "answer":"Superfuksikisan voittajan killan v\u00e4rin mukaan",
+    "comment":null
+  },
+  {
+    "question":"Mit\u00e4 Kelpo Teekkari saavat kantaa kunniakkaasti?",
+    "answer":"Kelpo Teekkarin avainta",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna kiltaneuvosto muutti ylioppilaskunnan palvelutiskin kantamaan nime\u00e4 \"Paulan tiski\"?",
+    "answer":"2010",
+    "comment":null
+  },
+  {
+    "question":"Miten kirjoitetaan sitsit saksaksi?",
+    "answer":"sitz",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 vuosikymmennell\u00e4 ilmestyiv\u00e4t ensimm\u00e4iset kiltahaalarit Suomessa?",
+    "answer":"1980-luvulla",
+    "comment":"l\u00e4hde: TEKin verkkolehti"
+  },
+  {
+    "question":"Fuksien mahtava ensimm\u00e4inen opiskeluvuosi huipentuu joka Wappu teekkarikasteeseen, jossa fukseista tehd\u00e4\u00e4n koskessa teekkareita. Kastekori onkin tullut tutuksi hyvin monelle Tamperelaiselle teekkarille. Kysymys kuuluukin, mik\u00e4 oli ensimm\u00e4isen kastekorin nimi?",
+    "answer":"Amontillado",
+    "comment":null
+  },
+  {
+    "question":"Mitk\u00e4 ovat TTYY:n ylioppilaskuntanauhan v\u00e4rit?",
+    "answer":"punainen-valkoinen-punainen",
+    "comment":"voi sanoa ett\u00e4 luettelee v\u00e4rit j\u00e4rjestyksess\u00e4"
+  },
+  {
+    "question":"Tampereen teekkareille yksi Wapun tunnetuimmista jutuista on Blebeijien toimittama wappulehti Tamppi. Ensimm\u00e4inen wappulehti t\u00e4ll\u00e4 nimell\u00e4 ilmestyi vuonna 1978, mutta t\u00e4t\u00e4 ennen lehte\u00e4 julkaistiin 4 kappaletta kahdella eri nimell\u00e4. Mitk\u00e4 n\u00e4m\u00e4 TAMPPI-lehte\u00e4 edelt\u00e4neet nimet ovat?",
+    "answer":"TAMPPAANI ja Gulliveri",
+    "comment":null
+  },
+  {
+    "question":"TTY:ll\u00e4 l\u00f6ytyy hyvin paljon mahdollisuuksia liikuntaan, ja n\u00e4kyvin liikuntapaikka t\u00e4\u00e4ll\u00e4 onkin P\u00e4\u00e4rakennuksen takaa l\u00f6ytyv\u00e4 Tamppi-areena. Min\u00e4 vuonna Tamppi Areena otettiin k\u00e4ytt\u00f6\u00f6n?",
+    "answer":"2002",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on TTY:n motto?",
+    "answer":"Tekniikkaa ihmisen ja ymp\u00e4rist\u00f6n hyv\u00e4ksi",
+    "comment":null
+  },
+  {
+    "question":"Teekkareiden selkein ja n\u00e4kyvin tunnus on teekkarilakki, jota teekkarit pit\u00e4v\u00e4t Wapusta syyskuun loppuun ahkerasti. N\u00e4it\u00e4 l\u00f6ytyykin ",
+    "answer":"",
+    "comment":"Teekkareiden selkein ja n\u00e4kyvin tunnus on teekkarilakki, jota teekkarit pit\u00e4v\u00e4t Wapusta syyskuun loppuun ahkerasti. N\u00e4it\u00e4 l\u00f6ytyykin Suomesta monta erilaista. Kysymys kuuluukin: kuinka monta kulmaa Tamperelaisessa teekkarilakissa on?"
+  },
+  {
+    "question":"Suomesta monta erilaista. Kysymys kuuluukin: kuinka monta kulmaa Tamperelaisessa teekkarilakissa on?",
+    "answer":"kuusi (6)",
+    "comment":null
+  },
+  {
+    "question":"Talvella teekkarit tykk\u00e4\u00e4v\u00e4t pelata meille mieluisaa peli\u00e4, kyykk\u00e4\u00e4. T\u00e4m\u00e4 peli on vuosisatoja vanha, karjalainen ulkopeli. Kysymys kuuluukin, kuinka monen pisteen arvoinen kyykk\u00e4 on akka?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"",
+    "answer":"kahden (2)",
+    "comment":null
+  },
+  {
+    "question":"Miss\u00e4 TTY:n kampuksen rakennuksessa Teekkarimuseo t\u00e4ll\u00e4 hetkell\u00e4 sijaitsee?",
+    "answer":"Rakennustalo",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen kilta tai kerho toimittaa Tekniikan kutsu -nimist\u00e4 blogia?",
+    "answer":"UrOs, Uranaisten opiskelijaseura",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 kilta julkaisee Taukki-nimist\u00e4 lehte\u00e4?",
+    "answer":"Autek",
+    "comment":null
+  },
+  {
+    "question":"Tampereen teekkarit laulavat tutun laulun, Teekkarihymnin, perinteisesti keskiy\u00f6ll\u00e4. Kuinka monta sanaa on Teekkarihymniss\u00e4?",
+    "answer":"29",
+    "comment":"t\u00e4s voi esim antaa v\u00e4h\u00e4 aikaa vastata, dyylii just enne taukoo tmstms"
+  },
+  {
+    "question":"Monet kuuntelevat Wappuisin Tampereella teekkareiden Rakkauden Wappuradiota. Kysymys kuuluukin, mink\u00e4 niminen wappuradio soi Otaniemess\u00e4?",
+    "answer":"Radiodiodi",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 taho arvostelee t\u00e4n\u00e4 vuonna fuksien tekem\u00e4t h\u00e4rwelit?",
+    "answer":"tea",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 konkreettisen palkinnon j\u00e4yn\u00e4kisan fuksisarjan voittajat saavat?",
+    "answer":"j\u00e4yn\u00e4kello",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 meriiteill\u00e4 fuksit saavat itselleen lakki- sek\u00e4 tupsumerkin?",
+    "answer":"lakki 180 fuksipojoo, tupsu 300.",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta kirjaimella nimetty\u00e4 siipe\u00e4 on S\u00e4hk\u00f6talossa?",
+    "answer":"15",
+    "comment":null
+  },
+  {
+    "question":"Vuonna 1965 perustettiin Tampereelle Teknillisen korkeakoulun sivukorkeakoulu, josta sittemmin tuli TTKK ja sen j\u00e4lkeen nykyinen TTY. Min\u00e4 vuonna nimeksi tuli TTY?",
+    "answer":"2003",
+    "comment":null
+  },
+  {
+    "question":"Luettele TTY:n kampuksen rakennukset rakennusj\u00e4rjestyksess\u00e4 vanhimmasta uusimpaan. Rakennuksia ovat siis Tamppi Areena, Konetalo, P\u00e4\u00e4rakennus, Kampusareena, Rakennustalo, Festia, S\u00e4hk\u00f6talo, Tietotalo",
+    "answer":"Konetalo, S\u00e4hk\u00f6talo, P\u00e4\u00e4rakennus, Rakennustalo, Festia, Tietotalo, Tamppi Areena, Kampusareena",
+    "comment":"voi vaikka kertoo satunnaisessa j\u00e4rjestyksess\u00e4 kaikki rakennukset, tai ainaki v\u00e4hint\u00e4\u00e4 mainita ett\u00e4 tamppi areena on my\u00f6s kampuksen rakennus"
+  },
+  {
+    "question":"Kuinka monta edustajaa eli edaattoria valitaan Tampereen ylioppilaskunnan edustajistoon? \/\/ ",
+    "answer":"49",
+    "comment":null
+  },
+  {
+    "question":"Teekkarilakki on teekkareiden n\u00e4kyvin tunnus. Mit\u00e4 materiaalia ovat meid\u00e4nkin lakeissa olevat p\u00e4\u00e4llinen, hikinauha ja tupsu?",
+    "answer":"puuvillasametti, nahka ja silkki",
+    "comment":null
+  },
+  {
+    "question":"Vuonna 1965 julkaistiin ensimm\u00e4inen laulukirja Rasputin, jonka j\u00e4lkeen Tamperelainen laulukirjaperinne katkesi pitk\u00e4ksi ajaksi. Min\u00e4 vuonna julkaistiin noin ensimm\u00e4inen Rasputinin painos?",
+    "answer":"1995",
+    "comment":"sana noin viittaa alkuper\u00e4iseen 1965 Rasputimeen, ja 1995 julkaistu Rasputin on \"ensimm\u00e4inen moderni\" Rasputin"
+  },
+  {
+    "question":"Perinteisesti teekkaripiireiss\u00e4 lauletaan sitsien\/vuosijuhlien lopuksi Ikuisen teekkarin laulu, joka l\u00e4htee hiljaisuudesta. Mist\u00e4 karjalaisesta kansanlaulusta melodia on lainattu?",
+    "answer":"Kun min\u00e4 kotoani l\u00e4ksin",
+    "comment":"sanat on riimitelty joskus 1920-luvulla"
+  },
+  {
+    "question":"Ikuisen teekkarin laulussa lauletaan \"... Polin suojiin me saavumme taas\". T\u00e4ss\u00e4 viitataan Vanhaan Poliin, joka oli Teknillisen korkeakoulun ylioppilaskunnan omistuksessa vuoteen 1986 asti, jolloin se myytiin taloudellisten ongelmien takia pois (ja osaksi teekkaritoiminnan siirtymisest\u00e4 Otaniemeen). T\u00e4m\u00e4 talohan sijaitsee Helsingiss\u00e4, mutta kysymys kuuluukin, ett\u00e4 mill\u00e4 kadulla?",
+    "answer":"L\u00f6nnrotinkadulla",
+    "comment":"nyky\u00e4\u00e4n talossa on hotelli"
+  },
+  {
+    "question":"Ilmaise voiman yksikk\u00f6 kahdella eri SI-j\u00e4rjestelm\u00e4n mukaisella tavalla",
+    "answer":"N, kgm\/s^2",
+    "comment":null
+  },
+  {
+    "question":"Tungsten on englanninkielinen nimi hopeanvalkealle metalliselle alkuaineelle, jonka j\u00e4rjestysluku on 74. Mik\u00e4 on t\u00e4m\u00e4n alkuaineen suomenkielinen nimi?",
+    "answer":"Volframi, pitkin hampain hyv\u00e4ksyt\u00e4\u00e4n my\u00f6s wolframi",
+    "comment":null
+  },
+  {
+    "question":"Er\u00e4s galvaaninen kenno tunnetaan nimell\u00e4 Daniellin pari. Mitk\u00e4 kaksi metallia muodostavat sen elektrodit?",
+    "answer":"Sinkki ja kupari",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen on Porin Ylioppilasyhdistys, joka yhdist\u00e4\u00e4 Porin yliopistokeskuksen tutkinto-opiskelijoita?",
+    "answer":"Pointer ry",
+    "comment":null
+  },
+  {
+    "question":"Tampereen Teekkarit ry -yhdistyksess\u00e4 ylint\u00e4 p\u00e4\u00e4t\u00e4nt\u00e4valtaa k\u00e4ytt\u00e4\u00e4 valtuusto, jossa jokaisella perustajaj\u00e4senell\u00e4 on kuinka monta varsinaista edustajaa?",
+    "answer":"3 per perustajaj\u00e4sen",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Tampereen Teekkarit ry:n perustamisp\u00e4iv\u00e4m\u00e4\u00e4r\u00e4?",
+    "answer":"5.5.2018",
+    "comment":null
+  },
+  {
+    "question":"Kuka on suunnitellut Teekkarisauna M\u00f6rrim\u00f6ykyn?",
+    "answer":"Juha M\u00e4ki-Jyllil\u00e4",
+    "comment":"silloinen arkkitehtiopiskelija"
+  },
+  {
+    "question":"Mink\u00e4 killan hallitus hankki ensimm\u00e4isin\u00e4 haalarit TTY:ll\u00e4 (silloinen TTKK), jonka j\u00e4lkeen haalarit yleistyiv\u00e4t muille killoille?",
+    "answer":"KoRK",
+    "comment":"he tekiv\u00e4t ensimm\u00e4iset haalarit itse, mutta heti seuraavana vuonna haalarit tilattiin muualta"
+  },
+  {
+    "question":"Min\u00e4 vuonna ensimm\u00e4inen naisopiskelija aloitti TTY:ll\u00e4 (silloinen TKY:n alainen alaosasto)?",
+    "answer":"1967",
+    "comment":"nimelt\u00e4\u00e4n Sinikka Kuusisto, ja h\u00e4n opiskeli rakennustekniikkaa"
+  },
+  {
+    "question":"Min\u00e4 vuonna Herwantapeli luotiin?",
+    "answer":"2000",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen on Oululaisten wappuradio?",
+    "answer":"Rattoradio",
+    "comment":null
+  },
+  {
+    "question":"Tampereen teekkareille rakas Teekkarisauna M\u00f6rrim\u00f6ykky valmistui vuonna 1992 talkoovoimin. Min\u00e4 vuonna Oululaisten vastine teekkarisaunalle, Teekkaritalo, valmistui?",
+    "answer":"vuotta my\u00f6hemmin 1993",
+    "comment":"harjakaiset olivat jo edellisen vuoden puolella, mutta virallisesti talo saatiin valmiiksi 1993"
+  },
+  {
+    "question":"TAKS on TREYn piiriss\u00e4 toimiva j\u00e4rjest\u00f6. Mihin toimintaan t\u00e4m\u00e4 j\u00e4rjest\u00f6 liittyy?",
+    "answer":"kyykk\u00e4\u00e4n, Tampereen Akateeminen Kyykk\u00e4Seura",
+    "comment":null
+  },
+  {
+    "question":"Akateemisen kyyk\u00e4n mm-kisoja on j\u00e4rjestetty Tampereella vuodesta 1994 l\u00e4htien. Kisojen historia ylt\u00e4\u00e4 kuitenkin huomattavasti pidemm\u00e4lle. Min\u00e4 vuonna j\u00e4rjestettiin ensimm\u00e4iset Akateemisen kyyk\u00e4n mm-kisat?",
+    "answer":"Vuonna 1966",
+    "comment":"Kisat pidettiin t\u00e4ll\u00f6in Helsingiss\u00e4"
+  },
+  {
+    "question":"Min\u00e4 vuonna ensimm\u00e4iset Oululaiset teekkarit aloittivat opintonsa?",
+    "answer":"1959",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen tunnettu teekkarilaulukirja Wirsun lis\u00e4ksi l\u00f6ytyy Otaniemess\u00e4?",
+    "answer":"Teekkarien punainen laulukirja",
+    "comment":null
+  },
+  {
+    "question":"Tampereelta l\u00f6ytyy monille tuttu Tampereen Teekkarikuoro. Nime\u00e4 yksi Espoosta tulevista teekkareista koostuvista kuoroista.",
+    "answer":"Dominante, Polyteknikkojen Kuoro",
+    "comment":"muita teekkarikuoroja Suomessa ovat Resonanssi (Lappeenranta), Lappeenrannan Teekkarilaulajat ja TeeKu (Oulu)"
+  },
+  {
+    "question":"Mist\u00e4 suomen korkeakouluopiskelijoiden futsalseuran nimi ACE lyhentyy?",
+    "answer":"A.C. Estudiantes",
+    "comment":"A.C. = athletic club"
+  },
+  {
+    "question":"Min\u00e4 vuonna Otaniemess\u00e4 oli ensimm\u00e4ist\u00e4 kertaa mahdollista tilata vegaaninen teekkarilakki?",
+    "answer":"2019 kev\u00e4\u00e4ll\u00e4",
+    "comment":null
+  },
+  {
+    "question":"Kiltatoiminnan Suomessa sanotaan alkaneen Kemistikillan perustamisesta. Min\u00e4 vuonna Kemistikilta perustettiin? a) 1869 b) 1891 c) 1902 d) 1915",
+    "answer":"b) 1891",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on Suomen vanhin Wappulehti?",
+    "answer":"\u00c4py",
+    "comment":"\u00c4py aloitti vuonna 1948. Muita wappulehti\u00e4 Suomessa ovat Otaniemen Julkku, Lappeenrannan H\u00e4ssi, Oulu \u00d6\u00f6pis, Tampere Tamppi, Vaasa Wapina sek\u00e4 Turun Pilde&Napander ja Tarvliga Avsikter"
+  },
+  {
+    "question":"Kuka suunnitteli edesmenneen TTY:n tunnuksen, joka kuvastaa jaettua hammasratasta?",
+    "answer":"Kaj Kajander",
+    "comment":null
+  },
+  {
+    "question":"Kumpi on valmistunut ensin: Rakennustalo vai P\u00e4\u00e4rakennus?",
+    "answer":"P\u00e4\u00e4rakennus",
+    "comment":"P\u00e4\u00e4rakennus valmistui 1983 ja Rakennustalo 1984"
+  },
+  {
+    "question":"Min\u00e4 vuonna ensimm\u00e4iset teekkarit aloittivat opintonsa Suomessa?",
+    "answer":"1849",
+    "comment":null
+  },
+  {
+    "question":"Er\u00e4\u00e4ss\u00e4 laulussa lauletaan janoisesta Pikku Akusta. Kuka h\u00e4n on oikealta nimelt\u00e4\u00e4n?",
+    "answer":"Aulis Lehtiranta",
+    "comment":"opiskeli rakennustekniikkaa 1920 luvulla"
+  },
+  {
+    "question":"Nuutinp\u00e4iv\u00e4\u00e4 pidet\u00e4\u00e4n joulun vihoviimeisen\u00e4 p\u00e4\u00e4ttymisp\u00e4iv\u00e4n\u00e4. Min\u00e4 p\u00e4iv\u00e4n\u00e4 sit\u00e4 vietet\u00e4\u00e4n? P\u00e4iv\u00e4 ja kuukausi. \/\/ Saint Knut\u2019s Day is a celebration day in Finnish and Swedish culture, which finally ends Christmas. Which day is it celebrated? Day and month.",
+    "answer":"13.1.",
+    "comment":null
+  },
+  {
+    "question":"Mist\u00e4 kaupungista hybridispeksi on kotoisin? \/\/ From which city is Hybridispeksi from?",
+    "answer":"Turku",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 niminen vappulehti julkaistaan Oulussa vuosittain?",
+    "answer":"\u00d6\u00f6pinen",
+    "comment":null
+  },
+  {
+    "question":"Kuinka monta tapahtumaa on t\u00e4n\u00e4 vuonna Suomen suurimmassa wapussa?",
+    "answer":"96",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 patsaan turkulaiset teekkarit lakittavat wappuna? \/\/ Which statue is capped by teekkaris in turku?",
+    "answer":"Paavo Nurmen patsaan",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 p\u00e4iv\u00e4n\u00e4 lappeen Rannassa alkoi wappu t\u00e4n\u00e4? \/\/ Which day did wappu begin in lappeen Ranta this year?",
+    "answer":"1.4.",
+    "comment":null
+  },
+  {
+    "question":"Mill\u00e4 taajuudella wappuradio soi t\u00e4n\u00e4 vuonna? \/\/ What is the frequency of wappuradio this year?",
+    "answer":"101,6 MHz",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 on turun wappulehden nimi? \/\/ What is the name of wappulehti in turku?",
+    "answer":"P\u00f6nkeli",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna turussa j\u00e4rjestettiin ensimm\u00e4inen teekkarikaste? \/\/ When was the first teekkari dipping organized in turku?",
+    "answer":"2022",
+    "comment":null
+  },
+  {
+    "question":"Min\u00e4 vuonna Tamppi julkaistiin ensimm\u00e4isen kerran? \/\/ Which year Tamppi was published for the first time?",
+    "answer":"1978",
+    "comment":null
+  },
+  {
+    "question":"Wappuisin tulee usein tehty\u00e4 ja\/tai nautittua simasta, joka sis\u00e4lt\u00e4\u00e4 sokeria, mik\u00e4 on perinteisen sokerin eli glukoosin kemiallinen kaava? One might make and\/or drink mead at Wappu, and it includes sugar, what is the chemical structure of regular sugar aka glucose?",
+    "answer":"C6H12O6",
+    "comment":null
+  },
+  {
+    "question":"Mink\u00e4 historiallisen suomalaisen patsas lakitetaan Vaasassa joka vappu?",
+    "answer":null,
+    "comment":null
+  },
+  {
+    "question":"Kuinka monessa tapahtumassa vaaditaan t\u00e4n\u00e4 vuonna k\u00e4ym\u00e4\u00e4n Em\u00e4teemu-suoritusta varten?",
+    "answer":"21",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4 oli suomalaisten ylioppilaiden juhlap\u00e4iv\u00e4 ennen kuin sit\u00e4 alettiin viett\u00e4m\u00e4\u00e4n 1.5.?",
+    "answer":"13.5.",
+    "comment":null
+  },
+  {
+    "question":"Kaikki Tampereen teekkarit tiet\u00e4v\u00e4t Tamperelaisen teekkarikasteen, mutta Otaniemen kuviot ovat hieman v\u00e4hemm\u00e4n tuttuja. Kuinka kaste heill\u00e4 toimii?",
+    "answer":"fukseja ei kasteta, vaan fuksit heitt\u00e4v\u00e4t fuksikapteeninsa ja fuksimajurin Otarannalla mereen",
+    "comment":null
+  },
+  {
+    "question":"Monesko Teemunkierroksen suoritus t\u00e4m\u00e4 on?",
+    "answer":"10.",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 wappulehti julkaistiin t\u00e4n\u00e4 vuonna otaniemess\u00e4? \/\/ Which wappulehti was released this year in Otaniemi?",
+    "answer":"\u00c4py",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 kilta meni viimeisen\u00e4 teekkarikasteeseen vuonna 2023?",
+    "answer":"Urbanum",
+    "comment":null
+  },
+  {
+    "question":"Mik\u00e4 ainej\u00e4rjest\u00f6\/kilta j\u00e4rjest\u00e4\u00e4 Wappu-Escape tapahtuman?",
+    "answer":"YKI",
+    "comment":null
+  }
+]
